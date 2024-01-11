@@ -1,0 +1,182 @@
+﻿sample,hpv status,hpv type,GLS (average),ENSG00000115419.11,GLS2 (average),ENSG00000135423.11,age at initial pathologic diagnosis,ethnicity,race,bmi,sample type,neoplasm histologic grade,clinical stage,gender,O.S.time.,tobacco smoking history
+TCGA-EK-A3GM-01A,positive,HPV45,0.6221,3.821,0.0393,0.1308,65,hispanic or latino,white,36.89,Primary Tumor,G2,Stage IIA,female,,1
+TCGA-LP-A4AX-01A,positive,HPV16,0.5522,3.989,0.0578,0.1354,45,not hispanic or latino,asian,,Primary Tumor,G3,Stage IB1,female,380,1
+TCGA-EA-A6QX-01A,positive,HPV58,0.5393,2.577,0.0743,1.25,49,not hispanic or latino,asian,20.66,Primary Tumor,G3,Stage IIIB,female,730,1
+TCGA-Q1-A73S-01A,positive,HPV18,0.5244,1.832,0.0515,0.5593,33,not hispanic or latino,white,26.56,Primary Tumor,G2,Stage IB1,female,688,4
+TCGA-Q1-A6DT-01A,positive,HPV16,0.5232,3.915,0.0535,0.09234,55,not hispanic or latino,white,,Primary Tumor,GX,Stage I,female,275,1
+TCGA-EK-A2H0-01A,positive,HPV68,0.515,2.463,0.0783,0.1805,24,not reported,white,36.16,Primary Tumor,G3,Stage IIB,female,1847,
+TCGA-LP-A5U2-01A,positive,HPV16,0.5112,3.717,0.3862,1.569,30,not hispanic or latino,asian,19.92,Primary Tumor,G3,Stage IIIB,female,9,1
+TCGA-C5-A2M2-01A,positive,HPV16,0.5095,2.27,0.0045,0.3883,56,not hispanic or latino,white,,Primary Tumor,G2,Stage IB2,female,1011,4
+TCGA-JW-A5VL-01A,positive,HPV16,0.4163,2.191,-0.0782,0.2338,37,hispanic or latino,american indian or alaska native,27.73,Primary Tumor,G1,Stage IB2,female,474,1
+TCGA-EK-A2GZ-01A,positive,HPV52,0.3302,3.907,-0.0132,0.2112,64,not hispanic or latino,black or african american,25,Primary Tumor,G2,Stage IIIB,female,383,
+TCGA-C5-A2LY-01A,positive,HPV16,0.3242,2.43,-0.0565,0.1259,30,not hispanic or latino,white,34.38,Primary Tumor,G2,Stage IB1,female,2383,1
+TCGA-BI-A20A-01A,positive,HPV16,0.2951,2.989,0.0748,1.138,49,not hispanic or latino,white,21.16,Primary Tumor,G3,Stage IB1,female,720,
+TCGA-C5-A0TN-01A,positive,HPV16,0.2928,3.856,0.1081,0.3073,21,not hispanic or latino,black or african american,,Primary Tumor,G3,Stage IB2,female,348,1
+TCGA-FU-A3NI-01A,positive,HPV16,0.2818,2.76,0.1801,0.5067,45,not hispanic or latino,white,21.72,Primary Tumor,G2,Stage IB1,female,638,2
+TCGA-EA-A1QT-01A,positive,HPV16,0.2649,2.561,0.1542,1.082,47,not hispanic or latino,white,25.59,Primary Tumor,G2,Stage IB,female,1243,1
+TCGA-EK-A2PM-01A,negative,negative,0.2471,3.262,-0.3357,0.06174,81,not reported,white,20.69,Primary Tumor,G3,Stage IIB,female,18,
+TCGA-EA-A43B-01A,positive,HPV16,0.2424,1.88,0.0651,0.1755,43,not hispanic or latino,white,26.77,Primary Tumor,G2,Stage IB1,female,791,1
+TCGA-EK-A2RK-01A,positive,HPV16,0.2314,1.787,-0.3464,0.1889,67,not hispanic or latino,white,37.1,Primary Tumor,G3,Stage IA2,female,13,
+TCGA-EK-A2RM-01A,positive,HPV18,0.2312,2.654,-0.0277,0.09773,40,not hispanic or latino,white,37.65,Primary Tumor,G3,Stage IB,female,50,
+TCGA-EX-A1H5-01A,positive,HPV16,0.2162,2.416,0.2064,0.9378,58,not hispanic or latino,black or african american,24.02,Primary Tumor,G3,Stage IIB,female,619,2
+TCGA-DG-A2KJ-01A,positive,HPV18,0.2063,0.7323,-0.3549,0,50,not reported,not reported,,Primary Tumor,G3,Stage IIIB,female,2893,
+TCGA-EA-A439-01A,positive,HPV18,0.1973,3.462,-0.0018,0.4547,50,not hispanic or latino,asian,18.36,Primary Tumor,G3,Stage IIA1,female,965,1
+TCGA-C5-A3HD-01B,positive,HPV16,0.196,3.371,0.2044,0.4855,51,not hispanic or latino,white,28.72,Primary Tumor,G2,Stage IIB,female,1582,4
+TCGA-EK-A2H1-01A,positive,HPV16,0.1827,4.642,0.0436,0.09338,20,not reported,white,24.22,Primary Tumor,G3,Stage IB2,female,799,
+TCGA-C5-A1MN-01A,positive,HPV16,0.1661,4.697,0.0001,0.1601,42,not hispanic or latino,white,23.51,Primary Tumor,G2,Stage IIIB,female,1245,2
+TCGA-C5-A1M6-01A,positive,HPV18,0.1658,2.537,-0.2505,0.2138,55,not reported,white,28.28,Primary Tumor,G3,Stage IIB,female,955,1
+TCGA-EA-A5ZF-01A,positive,HPV18,0.1646,2.615,0.075,0.2565,56,not hispanic or latino,asian,22.37,Primary Tumor,G2,Stage IB1,female,828,1
+TCGA-EK-A2PI-01A,positive,HPV16,0.1552,2.571,-0.0105,0.6919,44,not reported,white,20.2,Primary Tumor,G2,Stage IIIB,female,586,
+TCGA-C5-A2LV-01A,positive,HPV16,0.1547,4.345,0.1247,0.09315,36,not hispanic or latino,black or african american,30.85,Primary Tumor,G3,Stage IB,female,2234,2
+TCGA-C5-A1BN-01B,positive,HPV45,0.1401,3.945,0.0567,0.1786,26,not hispanic or latino,white,25.59,Primary Tumor,G3,Stage IB2,female,166,2
+TCGA-FU-A2QG-01A,positive,HPV16,0.1324,3.492,0.1189,0.8263,29,not hispanic or latino,white,47.75,Primary Tumor,G2,Stage IB1,female,579,4
+TCGA-BI-A0VS-01A,positive,HPV16,0.126,4.43,0.1431,0.6357,48,not hispanic or latino,white,,Primary Tumor,G3,Stage IB,female,1735,2
+TCGA-DR-A0ZL-01A,positive,HPV16,0.1218,2.851,0.0567,0.2682,53,not hispanic or latino,asian,23.73,Primary Tumor,G3,Stage IB,female,2669,1
+TCGA-IR-A3LK-01A,positive,HPV31,0.1197,3.248,0.0684,0.7924,69,not reported,white,35.26,Primary Tumor,G3,Stage IB2,female,908,1
+TCGA-FU-A3HY-01A,positive,HPV16,0.1189,3.058,0.0899,0.7505,47,not hispanic or latino,white,25.61,Primary Tumor,G2,Stage IB2,female,954,2
+TCGA-C5-A1MI-01A,positive,HPV18,0.1167,3.223,0.0851,0.2889,50,not hispanic or latino,white,,Primary Tumor,G2,Stage IB1,female,1083,2
+TCGA-JX-A3PZ-01A,positive,HPV45,0.1145,2.28,0.0987,0.1162,25,not reported,white,18.94,Primary Tumor,G2,Stage IB,female,642,1
+TCGA-FU-A5XV-01A,positive,HPV18,0.1121,2.665,0.2494,0.3692,32,not hispanic or latino,white,27.99,Primary Tumor,G3,Stage IIIB,female,321,2
+TCGA-EK-A2RC-01A,positive,HPV16,0.1111,2.247,0.0535,0.4766,33,not reported,not reported,24.91,Primary Tumor,G3,Stage IB1,female,129,
+TCGA-C5-A7CK-01A,positive,HPV16,0.1028,3.974,0.2098,1.041,58,not reported,white,20.2,Primary Tumor,G2,Stage IVA,female,4086,5
+TCGA-IR-A3LB-01A,positive,HPV45,0.1004,3.148,0.112,0.07208,53,not hispanic or latino,white,33.3,Primary Tumor,G3,Stage IB1,female,2032,3
+TCGA-C5-A1MJ-01A,positive,HPV18,0.0992,3.797,0.1761,0.6655,61,not reported,white,27.55,Primary Tumor,G2,Stage IB1,female,14,1
+TCGA-EK-A2PL-01A,positive,HPV39,0.0972,2.518,0.1198,0.1821,36,not reported,white,40.52,Primary Tumor,,Stage IIIB,female,13,
+TCGA-EK-A3GK-01A,positive,HPV16,0.0961,2.489,0.0194,0.5457,33,not hispanic or latino,white,26.81,Primary Tumor,G3,Stage IB1,female,15,
+TCGA-JW-A5VK-01A,positive,HPV16,0.0919,1.148,0.0539,0.3113,43,not hispanic or latino,black or african american,27.24,Primary Tumor,G3,Stage IB2,female,623,3
+TCGA-EK-A3GJ-01A,positive,HPV58,0.0918,2.708,0.075,0.1302,51,not reported,native hawaiian or other pacific islander,32.83,Primary Tumor,G3,Stage IB1,female,3,
+TCGA-JW-A5VI-01A,positive,HPV30,0.0913,3.221,0.0727,0.763,45,hispanic or latino,american indian or alaska native,23.63,Primary Tumor,G3,Stage IIB,female,747,2
+TCGA-EK-A2IP-01A,positive,HPV16,0.091,2.484,0.0352,0.04601,28,not reported,white,24.74,Primary Tumor,G3,Stage IB1,female,202,
+TCGA-C5-A7CM-01A,positive,HPV18,0.0864,1.975,0.0701,0.1565,35,hispanic or latino,white,26.57,Primary Tumor,G2,Stage IB2,female,619,4
+TCGA-FU-A40J-01A,positive,HPV16,0.0829,3.392,-0.111,0.482,38,not hispanic or latino,white,30.47,Primary Tumor,G3,Stage IIIB,female,426,1
+TCGA-C5-A1BF-01B,positive,HPV18,0.078,2.48,0.0613,0.08649,46,not reported,white,,Primary Tumor,G1,Stage IB,female,570,2
+TCGA-EK-A2RB-01A,positive,HPV16,0.0738,1.8,0.0421,0.1834,48,not hispanic or latino,white,34.29,Primary Tumor,G3,Stage IVB,female,9,2
+TCGA-C5-A1M9-01A,positive,HPV16,0.0725,3.854,-0.1479,0.4411,46,not hispanic or latino,white,20.4,Primary Tumor,G3,Stage IB1,female,1065,1
+TCGA-EK-A2RE-01A,positive,HPV16,0.0695,3.225,0.0705,0.2197,26,not hispanic or latino,white,20.83,Primary Tumor,G2,Stage IIA,female,57,
+TCGA-EA-A3QE-01A,positive,HPV16,0.0675,2.984,0.062,0.7181,45,not hispanic or latino,white,30.78,Primary Tumor,G2,Stage IB,female,761,1
+TCGA-C5-A2M1-01A,positive,HPV16,0.0669,2.618,0.1188,0.212,37,not hispanic or latino,white,26.93,Primary Tumor,G2,Stage IB1,female,1169,1
+TCGA-DS-A5RQ-01A,positive,HPV16,0.0618,2.238,0.0575,0.3259,80,not hispanic or latino,white,27.85,Primary Tumor,G2,Stage IB1,female,512,2
+TCGA-MU-A5YI-01A,positive,HPV16,0.0604,2.841,0.0456,0.4624,60,not hispanic or latino,black or african american,32.98,Primary Tumor,G2,Stage IA1,female,1053,3
+TCGA-C5-A1BE-01B,positive,HPV16,0.0572,2.121,0.0647,0.8182,64,not reported,white,34.23,Primary Tumor,G2,Stage IB2,female,2094,3
+TCGA-EX-A1H6-01B,positive,HPV16,0.0555,2.661,0.0584,0.1912,38,not reported,white,29.64,Primary Tumor,G1,Stage IB1,female,241,1
+TCGA-FU-A770-01A,positive,HPV16,0.0538,2.88,-0.4502,0.2057,33,not hispanic or latino,white,21.88,Primary Tumor,G2,Stage IIIB,female,34,2
+TCGA-C5-A2LX-01A,positive,HPV16,0.0527,3.096,0.3871,0.2186,54,not hispanic or latino,white,23.88,Primary Tumor,G2,Stage IB1,female,2526,2
+TCGA-C5-A1BM-01A,positive,HPV18,0.0526,2.358,0.0542,0.05347,78,not reported,black or african american,19.15,Primary Tumor,G2,Stage IB,female,2520,4
+TCGA-C5-A1ML-01A,positive,HPV16,0.0525,3.997,0.1124,0.9198,49,not reported,white,,Primary Tumor,G3,Stage IB2,female,636,2
+TCGA-FU-A3TQ-01A,positive,HPV16,0.0508,2.291,0.057,0.5139,55,not hispanic or latino,white,25.54,Primary Tumor,G2,Stage IIIB,female,795,2
+TCGA-DG-A2KM-01A,positive,HPV16,0.0473,3.002,0.0297,0.4387,46,not reported,not reported,,Primary Tumor,G2,Stage IB1,female,1946,1
+TCGA-DS-A0VL-01A,positive,HPV16,0.0472,2.403,0.0289,0.5928,25,not reported,white,29.76,Primary Tumor,G2,Stage IB,female,1692,1
+TCGA-C5-A7CL-01A,positive,HPV16,0.0467,2.695,0.0099,0.1969,48,not reported,white,38.77,Primary Tumor,G2,Stage IIIB,female,471,2
+TCGA-DG-A2KK-01A,positive,HPV16,0.0448,1.557,0.0533,0.4324,51,not reported,not reported,25.96,Primary Tumor,G3,Stage IIIB,female,2496,4
+TCGA-Q1-A73Q-01A,positive,HPV33,0.0443,2.839,0.0188,0.6619,46,not hispanic or latino,white,34.85,Primary Tumor,GX,Stage I,female,284,2
+TCGA-HG-A2PA-01A,positive,HPV16,0.0401,2.723,0.035,0.3515,38,not hispanic or latino,white,35.32,Primary Tumor,G2,Stage IB2,female,773,2
+TCGA-Q1-A73P-01A,positive,HPV18,0.0401,2.118,0.0084,0.1135,45,not hispanic or latino,white,27.4,Primary Tumor,G1,Stage IB1,female,483,1
+TCGA-C5-A1M5-01A,positive,HPV33,0.0379,2.334,0.049,0.8452,53,not hispanic or latino,white,,Primary Tumor,G2,Stage IB,female,2052,1
+TCGA-EA-A78R-01A,positive,HPV52,0.0377,2.852,0.0252,0.1079,54,not hispanic or latino,asian,24.61,Primary Tumor,G2,Stage IB1,female,410,1
+TCGA-EK-A2PK-01A,positive,HPV18,0.0375,2.481,-0.0001,0.07104,43,not hispanic or latino,white,33.71,Primary Tumor,G3,Stage IB1,female,12,
+TCGA-C5-A1BJ-01A,positive,HPV16,0.0345,3.042,0.035,0.3943,34,not reported,white,17.16,Primary Tumor,G2,Stage IIB,female,4385,4
+TCGA-C5-A1BK-01B,positive,HPV16,0.0311,2.603,0.0244,0.2522,36,not hispanic or latino,black or african american,35.96,Primary Tumor,G2,Stage IB,female,5385,1
+TCGA-EK-A2R7-01A,positive,HPV18,0.0299,2.14,-0.0536,0.5593,45,not hispanic or latino,white,27.55,Primary Tumor,G3,Stage IB,female,27,
+TCGA-LP-A5U3-01A,positive,HPV16,0.0298,2.486,0.0291,0.5326,40,not hispanic or latino,asian,19.53,Primary Tumor,G3,Stage IB1,female,25,1
+TCGA-EA-A50E-01A,positive,HPV16,0.0286,4.896,0.0116,0.4341,45,not hispanic or latino,asian,19.48,Primary Tumor,G2,Stage IVA,female,227,1
+TCGA-RA-A741-01A,positive,HPV16,0.028,2.032,0.031,0.3475,34,not hispanic or latino,white,31.59,Primary Tumor,GX,Stage IIB,female,444,4
+TCGA-EA-A556-01A,negative,negative,0.0273,3.247,0.108,0.3239,38,not hispanic or latino,white,24.22,Primary Tumor,G3,Stage IB1,female,453,2
+TCGA-JW-A69B-01A,positive,HPV16,0.0267,2.744,0.016,0.7065,44,hispanic or latino,white,28.72,Primary Tumor,GX,Stage IB2,female,863,1
+TCGA-IR-A3L7-01A,positive,HPV18,0.0252,2.156,0.0048,0.9568,37,not reported,white,28.41,Primary Tumor,G3,Stage IB1,female,4483,4
+TCGA-LP-A4AW-01A,positive,HPV16,0.0197,3.078,0.0262,0.3702,52,not hispanic or latino,asian,20.83,Primary Tumor,G1,Stage IA,female,27,1
+TCGA-Q1-A6DV-01A,positive,HPV16,0.0191,3.352,0.0045,0.5818,36,not hispanic or latino,asian,25.97,Primary Tumor,G2,Stage IB1,female,491,1
+TCGA-EK-A2RL-01A,positive,HPV16,0.0189,2.161,0.017,0.1204,32,not hispanic or latino,black or african american,37.53,Primary Tumor,G2,Stage IB,female,1453,
+TCGA-FU-A57G-01A,negative,negative,0.0172,4.486,0.0105,0.06757,49,not hispanic or latino,white,22.27,Primary Tumor,G2,Stage IB2,female,1078,1
+TCGA-HM-A6W2-01A,negative,negative,0.015,1.737,0.0179,0.08442,34,not hispanic or latino,black or african american,34.77,Primary Tumor,G3,Stage IVB,female,287,2
+TCGA-C5-A1BL-01A,positive,HPV16,0.0148,2.936,0.0425,0.3081,32,not hispanic or latino,white,27.64,Primary Tumor,G2,Stage IB,female,5271,4
+TCGA-C5-A1ME-01A,positive,HPV18,0.0142,1.329,0.0139,0.05742,40,not hispanic or latino,white,25.34,Primary Tumor,G1,Stage IB1,female,1756,4
+TCGA-DS-A0VK-01A,positive,HPV16,0.0139,2.865,0.0935,0.6627,45,not hispanic or latino,white,19.1,Primary Tumor,G3,Stage IB,female,1118,4
+TCGA-C5-A1BQ-01C,positive,HPV31,0.0128,2.383,0.0494,0.4861,65,not hispanic or latino,white,31.93,Primary Tumor,G2,Stage IIIB,female,604,4
+TCGA-R2-A69V-01A,positive,HPV39,0.0126,2.642,-0.0293,0.0738,42,not hispanic or latino,white,47.06,Primary Tumor,G3,Stage IB,female,596,1
+TCGA-FU-A3YQ-01A,positive,HPV16,0.0116,2.881,0.0152,0.2601,35,not hispanic or latino,white,39.45,Primary Tumor,G1,Stage IB1,female,861,2
+TCGA-IR-A3LF-01A,positive,HPV16,0.0113,2.751,0.0218,0.3649,64,not reported,white,35.8,Primary Tumor,G2,Stage IB1,female,2949,1
+TCGA-IR-A3LH-01A,positive,HPV45,0.0079,3.501,0.0143,0.1348,49,not reported,black or african american,31.2,Primary Tumor,G4,Stage IIA1,female,2394,4
+TCGA-JW-A5VH-01A,negative,negative,0.0063,2.739,0.0062,0.2577,53,hispanic or latino,american indian or alaska native,30.11,Primary Tumor,G2,Stage IVB,female,100,1
+TCGA-FU-A3EO-01A,positive,HPV16,0.0061,1.126,0.0125,0.01526,55,not hispanic or latino,white,23.51,Primary Tumor,G2,Stage IIB,female,490,2
+TCGA-EA-A3QD-01A,positive,HPV16,0.0034,3.036,-0.0025,0.4055,59,not hispanic or latino,white,39.52,Primary Tumor,G3,Stage IIIB,female,397,1
+TCGA-FU-A3TX-01A,positive,HPV18,0.0029,5.408,0.2839,0.6855,78,not reported,not reported,,Primary Tumor,G3,Stage IB2,female,45,4
+TCGA-Q1-A73R-01A,positive,HPV16,0.0025,2.847,0.0211,0.6639,45,not reported,white,39.54,Primary Tumor,GX,Stage I,female,567,1
+TCGA-FU-A23K-01A,positive,HPV18,0.0014,1.539,-0.0056,0.01115,28,not reported,white,33.43,Primary Tumor,G3,Stage IIIB,female,372,1
+TCGA-BI-A0VR-01A,positive,HPV16,0.0013,2.889,0.0017,0.7171,53,not hispanic or latino,white,,Primary Tumor,G3,Stage IIIB,female,1505,4
+TCGA-DS-A0VM-01A,positive,HPV16,0.0011,2.904,0.0294,0.1565,51,not hispanic or latino,white,25.97,Primary Tumor,G3,Stage IB,female,3589,1
+TCGA-MU-A51Y-01A,positive,HPV16,0.0004,2.201,-0.0078,0.5093,27,not reported,white,,Primary Tumor,G2,Stage IIA1,female,854,1
+TCGA-LP-A4AV-01A,positive,HPV56,-0.0045,0.8408,-0.0193,0,63,not hispanic or latino,asian,17.94,Primary Tumor,G2,Stage IB,female,,1
+TCGA-EA-A410-01A,negative,negative,-0.0054,2.549,0.0228,0.3403,51,not hispanic or latino,white,31.25,Primary Tumor,G2,Stage IIA2,female,803,1
+TCGA-DR-A0ZM-01A,negative,negative,-0.0063,1.888,-0.0186,0.04663,61,not hispanic or latino,white,25.64,Primary Tumor,G2,Stage IIIB,female,1791,2
+TCGA-EX-A3L1-01A,positive,HPV45,-0.0067,3.631,0.0428,0.08188,32,not hispanic or latino,white,22.27,Primary Tumor,G3,Stage IIA1,female,463,1
+TCGA-EK-A2R9-01A,positive,HPV33,-0.0071,2.53,-0.0062,0.3035,58,not hispanic or latino,white,70.49,Primary Tumor,G3,Stage IB1,female,4,
+TCGA-Q1-A73O-01A,positive,HPV18,-0.0083,2.888,-0.016,0.06098,37,hispanic or latino,not reported,32.89,Primary Tumor,GX,Stage IB2,female,428,1
+TCGA-C5-A7UE-01A,positive,HPV16,-0.0088,2.136,-0.0117,0.182,45,not reported,white,24.61,Primary Tumor,G2,Stage IB1,female,4738,2
+TCGA-EA-A5FO-01A,positive,HPV16,-0.0117,2.723,-0.0188,0.5498,59,not hispanic or latino,white,22.1,Primary Tumor,G2,Stage IB1,female,815,1
+TCGA-EA-A3Y4-01A,positive,HPV45,-0.0124,2.397,0.0005,0.03732,40,not hispanic or latino,white,35.5,Primary Tumor,G3,Stage IB,female,1122,1
+TCGA-C5-A3HL-01A,positive,HPV16,-0.0147,2.339,-0.0104,0.6036,76,not hispanic or latino,white,,Primary Tumor,G2,Stage IB2,female,621,1
+TCGA-C5-A7CJ-01A,positive,HPV16,-0.0162,3.1,-0.0142,0.3184,42,not hispanic or latino,white,22.58,Primary Tumor,G2,Stage IIA,female,3097,2
+TCGA-C5-A3HF-01A,positive,HPV18,-0.0175,2.78,-0.0246,0.1308,24,not hispanic or latino,white,,Primary Tumor,G2,Stage IB2,female,543,2
+TCGA-EK-A2RO-01A,positive,HPV16,-0.019,2.49,-0.042,0.2818,59,hispanic or latino,american indian or alaska native,27.28,Primary Tumor,G1,Stage IIB,female,2,
+TCGA-EX-A69M-01A,positive,HPV52,-0.0199,2.335,-0.0281,0.2211,62,not reported,white,23.23,Primary Tumor,G3,Stage IB2,female,253,4
+TCGA-Q1-A6DW-01A,positive,HPV16,-0.0264,3.44,-0.0703,0.3247,44,not hispanic or latino,white,24.22,Primary Tumor,GX,Stage I,female,534,4
+TCGA-HM-A4S6-01A,positive,HPV16,-0.0266,1.908,-0.0331,0.51,51,not hispanic or latino,white,43.72,Primary Tumor,G3,Stage IIIB,female,454,3
+TCGA-LP-A4AU-01A,positive,HPV18,-0.0293,2.338,-0.0544,0.06521,35,not hispanic or latino,asian,20.93,Primary Tumor,G3,Stage IIIB,female,343,1
+TCGA-C5-A2LS-01A,positive,HPV16,-0.0297,1.745,-0.0325,0.1788,37,not hispanic or latino,white,30.74,Primary Tumor,G1,Stage IB2,female,1345,2
+TCGA-EA-A4BA-01A,negative,negative,-0.0299,4.007,-0.0338,0.06303,49,not hispanic or latino,white,36.58,Primary Tumor,G2,Stage IB2,female,755,1
+TCGA-IR-A3LI-01A,positive,HPV16,-0.0306,1.091,-0.0199,0.08334,48,not reported,white,24.86,Primary Tumor,G2,Stage IVB,female,2493,1
+TCGA-C5-A1MK-01A,positive,HPV58,-0.034,2.284,-0.0296,0.1628,79,not hispanic or latino,white,26.22,Primary Tumor,G3,Stage IIIB,female,74,1
+TCGA-JW-A5VJ-01A,positive,HPV18,-0.0345,3.149,-0.0368,0.3138,56,hispanic or latino,american indian or alaska native,23.73,Primary Tumor,G3,Stage IIB,female,652,1
+TCGA-EA-A5ZE-01A,positive,HPV59,-0.0417,2.674,-0.0455,0.1254,54,not hispanic or latino,asian,23.5,Primary Tumor,G3,Stage IB1,female,829,1
+TCGA-IR-A3LA-01A,negative,negative,-0.0424,2.198,-0.0322,0.1703,60,not reported,white,40.98,Primary Tumor,G3,Stage IB1,female,4172,1
+TCGA-MY-A5BD-01A,positive,HPV16,-0.0428,3.638,0.5217,0.6644,62,hispanic or latino,white,36.92,Primary Tumor,G1,Stage IIB,female,1667,1
+TCGA-EA-A3HT-01A,positive,HPV16,-0.0431,2.922,-0.0394,0.22,68,not hispanic or latino,white,31.24,Primary Tumor,G1,Stage IB,female,954,1
+TCGA-JX-A3Q0-01A,positive,HPV31,-0.0492,2.366,-0.1125,0.2316,63,not hispanic or latino,black or african american,20.69,Primary Tumor,G2,Stage III,female,6375,4
+TCGA-EA-A5ZD-01A,positive,HPV58,-0.0501,2.357,-0.061,0.1025,40,not hispanic or latino,asian,19.82,Primary Tumor,G2,Stage IB1,female,830,1
+TCGA-MY-A5BE-01A,positive,HPV16,-0.0561,2.938,0.103,0.6443,42,not hispanic or latino,black or african american,34.08,Primary Tumor,G3,Stage IB1,female,1066,1
+TCGA-C5-A2LZ-01A,positive,HPV16,-0.0594,2.678,-0.0826,0.3757,65,not hispanic or latino,white,31.99,Primary Tumor,G2,Stage IIIB,female,3046,2
+TCGA-C5-A1M7-01A,positive,HPV18,-0.0598,2.935,-0.0477,0.1668,37,not hispanic or latino,white,25.34,Primary Tumor,G2,Stage IB,female,1409,2
+TCGA-HM-A3JK-01A,positive,HPV35,-0.0615,2.476,-0.0742,0.2699,64,not hispanic or latino,white,34.53,Primary Tumor,G3,Stage IIA2,female,632,4
+TCGA-EK-A3GN-01A,positive,HPV16,-0.0623,2.897,0.5534,0.8842,47,not hispanic or latino,white,32.42,Primary Tumor,G3,Stage IIIB,female,27,
+TCGA-EA-A1QS-01A,positive,HPV39,-0.0733,3.708,0.072,0.03839,46,not hispanic or latino,white,22.31,Primary Tumor,G2,Stage IB1,female,1203,1
+TCGA-EA-A411-01A,positive,HPV16,-0.0746,2.704,0.0357,0.5227,50,not hispanic or latino,white,23.89,Primary Tumor,G2,Stage IB1,female,747,1
+TCGA-C5-A7CG-01A,positive,HPV52,-0.0758,3.221,0.2513,0.9069,55,not hispanic or latino,white,32.91,Primary Tumor,G2,Stage IB,female,6408,1
+TCGA-C5-A1MF-01A,positive,HPV45,-0.0774,1.267,0.3062,0,49,not hispanic or latino,white,26.35,Primary Tumor,G2,Stage IB2,female,1617,4
+TCGA-C5-A7CH-01A,positive,HPV16,-0.0791,4.061,0.1172,0.2634,43,not hispanic or latino,white,40.12,Primary Tumor,G2,Stage IIB,female,4694,1
+TCGA-Q1-A5R3-01A,positive,HPV18,-0.0829,0.8133,0.3935,0.07524,56,not hispanic or latino,white,19.05,Primary Tumor,G2,,female,485,1
+TCGA-FU-A23L-01A,positive,HPV45,-0.0866,2.445,0.2612,0.5209,60,not reported,white,21.08,Primary Tumor,G3,Stage IIA1,female,725,1
+TCGA-IR-A3LL-01A,positive,HPV16,-0.094,2.684,-0.0887,0.1389,60,not reported,white,37.32,Primary Tumor,G2,Stage IB1,female,1106,1
+TCGA-DS-A0VN-01A,positive,HPV16,-0.0971,3.215,0.1569,0.1157,47,not hispanic or latino,white,29.75,Primary Tumor,G2,Stage IB,female,3609,1
+TCGA-EA-A3HQ-01A,positive,HPV16,-0.0981,2.943,-0.1003,1.019,60,not hispanic or latino,white,34.38,Primary Tumor,G2,Stage II,female,1136,1
+TCGA-IR-A3LC-01A,positive,HPV16,-0.1009,2.443,-0.0611,0.6158,40,not reported,white,25,Primary Tumor,G3,Stage IB1,female,3935,1
+TCGA-C5-A1MP-01A,positive,HPV16,-0.101,2.462,-0.0962,0.1999,34,not hispanic or latino,black or african american,,Primary Tumor,G3,Stage IB2,female,109,1
+TCGA-C5-A1MH-01A,positive,HPV16,-0.1045,2.612,0.0989,0.3257,71,not hispanic or latino,white,,Primary Tumor,G3,Stage IIIB,female,1186,3
+TCGA-EK-A2RA-01A,positive,HPV52,-0.1095,2.152,-0.0704,0.2729,74,hispanic or latino,not reported,28.12,Primary Tumor,G3,Stage IIA2,female,1246,4
+TCGA-JX-A3Q8-01A,positive,HPV16,-0.11,1.81,-0.0087,0.1364,40,not hispanic or latino,asian,27.24,Primary Tumor,G3,Stage IB1,female,1357,1
+TCGA-C5-A2LT-01A,positive,HPV70,-0.1308,3.068,0.1645,0.2482,38,not hispanic or latino,white,22.21,Primary Tumor,G3,Stage IB,female,2226,2
+TCGA-C5-A3HE-01A,positive,HPV18,-0.1338,2.589,0.362707807,0.1261,44,not hispanic or latino,white,,Primary Tumor,G3,Stage IB2,female,548,1
+TCGA-HM-A3JJ-01A,positive,HPV16,-0.1356,2.625,0.1004,0.2683,40,not hispanic or latino,black or african american,24.06,Primary Tumor,G3,Stage IB1,female,659,
+TCGA-EK-A2R8-01A,positive,HPV45,-0.1373,2.874,0.2805,0.01978,48,not hispanic or latino,white,25.95,Primary Tumor,G3,Stage IB2,female,44,
+TCGA-LP-A7HU-01A,positive,HPV16,-0.1412,2.491,0.1029,0.5942,53,not hispanic or latino,asian,24.14,Primary Tumor,G3,Stage II,female,406,1
+TCGA-Q1-A5R2-01A,positive,HPV16,-0.1649,1.514,0.0114,0.2058,64,not hispanic or latino,white,29.69,Primary Tumor,G3,,female,499,1
+TCGA-EK-A2PG-01A,positive,HPV58,-0.1681,1.928,-0.1295,0.3055,88,not reported,black or african american,22.89,Primary Tumor,G3,,female,46,
+TCGA-DS-A3LQ-01A,positive,HPV69,-0.1685,2.28,0.1686,0.6082,46,not reported,not reported,27.1,Primary Tumor,G3,Stage IIIB,female,699,3
+TCGA-C5-A1BI-01B,positive,HPV16,-0.2109,2.381,0.0371,0.3737,31,not hispanic or latino,white,23.94,Primary Tumor,G2,Stage IIIB,female,1112,2
+TCGA-EA-A5O9-01A,positive,HPV16,-0.2444,2.321,0.89,0.3381,39,not hispanic or latino,white,38.67,Primary Tumor,G2,Stage IB2,female,788,1
+TCGA-EK-A2RJ-01A,positive,HPV59,-0.2465,2.176,0.0515,0.03114,51,not hispanic or latino,white,32.39,Primary Tumor,G3,Stage IB2,female,53,
+TCGA-EK-A2RN-01A,positive,HPV16,-0.2987,1.484,0.0406,0.0668,45,not hispanic or latino,white,21.95,Primary Tumor,G2,Stage IB1,female,71,
+TCGA-DG-A2KL-01A,positive,HPV16,-0.3611,3.043,0.2166,0.7344,53,not reported,not reported,31.22,Primary Tumor,G1,Stage IIA,female,1367,2
+TCGA-EX-A69L-01A,positive,HPV16,-0.3945,2.267,-0.0174,0.5305,41,not hispanic or latino,asian,27.48,Primary Tumor,G3,Stage IB1,female,602,1
+TCGA-DG-A2KH-01A,positive,HPV18,-0.3966,1.831,-0.0915,0.3898,25,not reported,not reported,,Primary Tumor,GX,Stage IB1,female,34,4
+TCGA-EA-A44S-01A,positive,HPV16,-0.4788,1.972,0.155,0.2876,31,not hispanic or latino,white,25.06,Primary Tumor,G2,Stage IIIB,female,369,1
+TCGA-JX-A5QV-01A,positive,HPV16,-0.4806,2.202,0.2619,0.7875,37,not hispanic or latino,white,22.41,Primary Tumor,G3,Stage IB1,female,636,1
+TCGA-EA-A3HR-01A,positive,HPV73,-0.5429,1.638,0.0197,0.2228,57,not hispanic or latino,white,40.35,Primary Tumor,G2,Stage II,female,940,1
+TCGA-C5-A1M8-01A,positive,HPV16,-0.5554,1.608,0.2151,0.9477,43,not hispanic or latino,white,28.23,Primary Tumor,G2,Stage IB1,female,919,1
+TCGA-Q1-A5R1-01A,positive,HPV16,-0.5649,2.312,0.0641,0.2867,32,not hispanic or latino,white,27.47,Primary Tumor,G2,Stage IB1,female,474,1
+TCGA-MY-A5BF-01A,positive,HPV16,-0.6439,2.337,0.0498,0.6066,68,not hispanic or latino,white,25.61,Primary Tumor,G1,Stage IIA2,female,634,1
+TCGA-JW-A5VG-01A,positive,HPV59,-0.7039,2.646,0.0449,0.2754,35,hispanic or latino,american indian or alaska native,44.06,Primary Tumor,G3,Stage IIA,female,834,1
+TCGA-FU-A3WB-01A,positive,HPV16,-0.7181,1.883,0.0544,1.101,43,not hispanic or latino,white,31.91,Primary Tumor,G2,Stage IIA2,female,491,4
+TCGA-HM-A3JJ-11A,control,negative,,3.336,,0.04592,40,not hispanic or latino,black or african american,24.06,Solid Tissue Normal,G3,Stage IB1,female,659,
+TCGA-FU-A3EO-11A,control,negative,,3.232,,0.3143,55,not hispanic or latino,white,23.51,Solid Tissue Normal,G2,Stage IIB,female,490,2
+TCGA-EA-A3HU-01A,positive,HPV16,,3.23,,0.3141,43,not hispanic or latino,white,25.91,Primary Tumor,G2,Stage II,female,1013,1
+TCGA-MY-A5BF-11A,control,negative,,2.628,,0.07546,68,not hispanic or latino,white,25.61,Solid Tissue Normal,G1,Stage IIA2,female,634,1
