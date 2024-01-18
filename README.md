@@ -19,3 +19,10 @@
 </table>
 </div>
 
+## 1. Recolección de bases de datos
+
+Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se seleccionaron los siguientes estudios. El número de sujetos disponibles por cada cohorte es el siguiente:
+
+- GDC TCGA Cervical Cancer (CESC): 317
+- GDC TCGA Head and Neck Cancer (HNSC): 612
+- GDC TCGA Liver Cancer (LIHC): 469
