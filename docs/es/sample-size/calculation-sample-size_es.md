@@ -14,7 +14,7 @@ Para hacer el mismo cálculo en R se realizó lo siguiente en el script
 [sample-size-murray-larry.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-murray-larry.R):
 
 Se calculará el tamaño poblacional para una población finita según el
-método de *Murray y Larry (2005)* :
+método de *Murray y Larry* (1) .
 
 $$n=\frac{Z^2\sigma^2N}{e^2(N-1)+Z^2\sigma^2}$$
 
@@ -69,7 +69,8 @@ Finalmente, el tamaño muestral es:
 
 Se realizó en el siguiente script
 [sample-size-proportions-zhang-hartmann.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-proportions-zhang-hartmann.R).
-Vamos a necesitar dos paquetes:
+Este método sigue el paper de Zhang y Hartmann (2) . Vamos a necesitar
+dos paquetes:
 
 ``` r
 # Load important packages
@@ -161,7 +162,8 @@ Finalmente el tamaño muestral será:
 
 Se usó el siguiente script
 [sample-size-mean-zhang-hartmann.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-mean-zhang-hartmann.R).
-Vamos a necesitar tres paquetes en R:
+Este método sigue el paper de Zhang y Hartmann (2) . Vamos a necesitar
+tres paquetes en R:
 
 ``` r
 library(dplyr)
@@ -226,7 +228,7 @@ solid_tissue_normal_lihc <- solid_tissue_normal_lihc[complete.cases(solid_tissue
 ```
 
 Un t-test de dos muestras se usa para determinar si las medias de dos
-poblaciones, $\mu_{1}$ y $\mu_{2}$ son igules.
+poblaciones, $\mu_{1}$ y $\mu_{2}$ son igules (3) .
 
 $$H_{0}:\:\mu_{1}-\mu_{2}=0$$ $$H_{1}:\:\mu_{1}-\mu_{2}\neq0$$ La prueba
 de dos colas (“two-sided”) debe utilizarse.
@@ -262,7 +264,7 @@ mean_gls2_exp_control_lihc <- mean(solid_tissue_normal_lihc$gls2_gene_expression
 ```
 
 Ahora vamos a calcular el **efecto del tamaño** calculado por la fórmula
-del **d de Cohen**. Este está dado por la siguiente fórmula:
+del **d de Cohen**. Este está dado por la siguiente fórmula (4) (3) :
 
 $$d=\frac{\mu_{1}-\mu_{2}}{\sigma}$$
 
@@ -365,3 +367,44 @@ Ahora sí, el tamaño muestra:
     Total sample size GLS2 in LIHC =  31
 
 ## Referencias
+
+(1–4)
+
+<div id="refs" class="references csl-bib-body">
+
+<div id="ref-murray2009" class="csl-entry">
+
+<span class="csl-left-margin">1.
+</span><span class="csl-right-inline">Murray S, Larry S. Estadística.
+4th ed. México, D.F.: McGraw-Hill; 2009. (Schaum). </span>
+
+</div>
+
+<div id="ref-zhang2023" class="csl-entry">
+
+<span class="csl-left-margin">2.
+</span><span class="csl-right-inline">Zhang X, Hartmann P. How to
+calculate sample size in animal and human studies. Frontiers in Medicine
+\[Internet\]. 2023 Aug 17;10:1215927. Available from:
+<https://www.frontiersin.org/articles/10.3389/fmed.2023.1215927/full></span>
+
+</div>
+
+<div id="ref-gpower32023" class="csl-entry">
+
+<span class="csl-left-margin">3.
+</span><span class="csl-right-inline">GPower 3.1 manua. 2023 Jun 1;
+Available from:
+<https://www.psychologie.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Psychologie/AAP/gpower/GPowerManual.pdf></span>
+
+</div>
+
+<div id="ref-cohen1988" class="csl-entry">
+
+<span class="csl-left-margin">4.
+</span><span class="csl-right-inline">Cohen J. The t Test for Means. In:
+2nd ed. New York: Lawrence Erlbaum Associates; 1988. p. 20. </span>
+
+</div>
+
+</div>

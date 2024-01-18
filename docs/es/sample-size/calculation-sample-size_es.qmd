@@ -4,17 +4,19 @@ date: 14/01/2024
 date-format: "DD-MM-YYYY"
 author: Livisú Pajares Rojas
 format: gfm
+bibliography: references.bib
+csl: vancouver.csl
 ---
 
 # Cálculo del tamaño muestral
 
-## Fórmula de Murray Larry 
+## Fórmula de Murray Larry
 
 Para ello utilizamos la calculadora de [esta](https://www.calculator.net/sample-size-calculator.html?type=1&cl=95&ci=5&pp=50&ps=317&x=Calculate) página web.
 
 Para hacer el mismo cálculo en R se realizó lo siguiente en el script [sample-size-murray-larry.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-murray-larry.R):
 
-Se calculará el tamaño poblacional para una población finita según el método de *Murray y Larry (2005)* :
+Se calculará el tamaño poblacional para una población finita según el método de *Murray y Larry* @murray2009 .
 
 $$n=\frac{Z^2\sigma^2N}{e^2(N-1)+Z^2\sigma^2}$$
 
@@ -61,6 +63,7 @@ sample_size_lihc <- (z_score^2 * population_sd^2 * population_size_lihc) / (((ma
 ```
 
 Finalmente, el tamaño muestral es:
+
 ```{r}
 #| echo: false
 # Print the result
@@ -71,7 +74,7 @@ cat('The sample size in LIHC is ', sample_size_lihc)
 
 ## Z-test: Proporciones - Diferencia entre dos proporciones diferentes
 
-Se realizó en el siguiente script [sample-size-proportions-zhang-hartmann.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-proportions-zhang-hartmann.R). Vamos a necesitar dos paquetes:
+Se realizó en el siguiente script [sample-size-proportions-zhang-hartmann.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-proportions-zhang-hartmann.R). Este método sigue el paper de Zhang y Hartmann @zhang2023 . Vamos a necesitar dos paquetes:
 
 ```{r}
 #| output: false
@@ -162,6 +165,7 @@ power.prop.test(p1 = p1_primary_tumor_lihc, p2 = p2_solid_tissue_normal_lihc, si
 ```
 
 Finalmente el tamaño muestral será:
+
 ```{r}
 #| echo: false
 cat('Total sample size in CESC = ',round(3.530042*2, digits = 0))
@@ -171,7 +175,7 @@ cat('Total sample size in LIHC = ',round(14.0752*2, digits = 0))
 
 ## T-test : Diferencia entre dos medias independientes (2 grupos)
 
-Se usó el siguiente script [sample-size-mean-zhang-hartmann.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-mean-zhang-hartmann.R). Vamos a necesitar tres paquetes en R:
+Se usó el siguiente script [sample-size-mean-zhang-hartmann.R](https://github.com/livisupajares/undergrad-thesis/blob/master/scripts/sample-size/sample-size-mean-zhang-hartmann.R). Este método sigue el paper de Zhang y Hartmann @zhang2023 . Vamos a necesitar tres paquetes en R:
 
 ```{r}
 #| output: false
@@ -245,10 +249,9 @@ primary_tumor_lihc <- primary_tumor_lihc[complete.cases(primary_tumor_lihc$gls1_
 solid_tissue_normal_lihc <- solid_tissue_normal_lihc[complete.cases(solid_tissue_normal_lihc$gls1_gene_expression), ]
 ```
 
-Un t-test de dos muestras se usa para determinar si las medias de dos poblaciones, $\mu_{1}$ y $\mu_{2}$ son igules.
+Un t-test de dos muestras se usa para determinar si las medias de dos poblaciones, $\mu_{1}$ y $\mu_{2}$ son igules @gpower32023 .
 
-$$H_{0}:\:\mu_{1}-\mu_{2}=0$$         $$H_{1}:\:\mu_{1}-\mu_{2}\neq0$$
-La prueba de dos colas ("two-sided") debe utilizarse.
+$$H_{0}:\:\mu_{1}-\mu_{2}=0$$ $$H_{1}:\:\mu_{1}-\mu_{2}\neq0$$ La prueba de dos colas ("two-sided") debe utilizarse.
 
 Primero calculamos la media $\mu_{1}$, $\mu_{2}$.
 
@@ -280,14 +283,13 @@ mean_gls2_exp_tumor_lihc <- mean(primary_tumor_lihc$gls2_gene_expression)
 mean_gls2_exp_control_lihc <- mean(solid_tissue_normal_lihc$gls2_gene_expression)
 ```
 
-Ahora vamos a calcular el **efecto del tamaño** calculado por la fórmula del **d de Cohen**. Este está dado por la siguiente fórmula:
+Ahora vamos a calcular el **efecto del tamaño** calculado por la fórmula del **d de Cohen**. Este está dado por la siguiente fórmula @cohen1988 @gpower32023 :
 
 $$d=\frac{\mu_{1}-\mu_{2}}{\sigma}$$
 
 Si los tamaños muestrales son similares ($n_{1}=n_{2}$), entonces:
 
-$$\sigma=\sqrt{\frac{\sigma_{1}^{2}+\sigma_{2}^{2}}{2}}$$
-Sin embargo, si ambos grupos tienen grandes diferencias de tamaño, $n_{1}\neq n_{2}$, entonces se usa la desviación estándar entre cada grupo (*pooled standard deviation*) en lugar de $\sigma$.
+$$\sigma=\sqrt{\frac{\sigma_{1}^{2}+\sigma_{2}^{2}}{2}}$$ Sin embargo, si ambos grupos tienen grandes diferencias de tamaño, $n_{1}\neq n_{2}$, entonces se usa la desviación estándar entre cada grupo (*pooled standard deviation*) en lugar de $\sigma$.
 
 Como es el caso, calculamos la desviación estándar entre cada grupo (*pooled standard deviation*), $\sigma$, con el paquete `effectsize`.
 
@@ -375,3 +377,5 @@ cat('Total sample size GLS2 in LIHC = ',round(15.26547*2, digits = 0))
 ```
 
 ## Referencias
+
+[@murray2009; @zhang2023; @cohen1988; @gpower32023]
