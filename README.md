@@ -8,3 +8,14 @@
 </div>
 <br>
 <div align="center">
+<table>
+    <tr>
+        <th>
+            <a href="https://github.com/livisupajares/undergrad-thesis/tree/master">Español 🇪🇸</a>
+        <th>
+        <!-- TODO: Change href url to .md after rendering in quarto -->
+            <a href="https://github.com/livisupajares/undergrad-thesis/blob/master/docs/en/sample-size/calculation-sample-size_en.qmd">English 🇬🇧</a>
+    </tr>
+</table>
+</div>
+
