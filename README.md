@@ -72,3 +72,7 @@ Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se s
 |ethnicity.demographic|ethnicity.demographic|ethnicity.demographic|
 |bmi.exposures| - |bmi.exposures|
 
+### Cálculo del tamaño muestral
+
+El proceso de cálculo para el tamaño muestral está documentado [aquí](https://github.com/livisupajares/undergrad-thesis/blob/master/docs/es/sample-size/calculation-sample-size_es.md).
+
