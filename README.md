@@ -19,6 +19,15 @@
 </table>
 </div>
 
+## Tabla de Contenidos
+
+  - [1. Recolección de bases de datos](#1-recolecci%C3%B3n-de-bases-de-datos)
+    - [Selección de variables](#selecci%C3%B3n-de-variables)
+      - [Variables genómicas](#variables-gen%C3%B3micas)
+      - [Variables fenotípicas](#variables-fenot%C3%ADpicas)
+      - [Variables Secundarias](#variables-secundarias)
+    - [Cálculo del tamaño muestral](#c%C3%A1lculo-del-tama%C3%B1o-muestral)
+  - [2. Procesamiento de la data original](#2-procesamiento-de-la-data-original)
 ## 1. Recolección de bases de datos
 
 Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se seleccionaron los siguientes estudios. El número de sujetos disponibles por cada cohorte es el siguiente:
