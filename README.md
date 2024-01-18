@@ -26,3 +26,12 @@ Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se s
 - GDC TCGA Cervical Cancer (CESC): 317
 - GDC TCGA Head and Neck Cancer (HNSC): 612
 - GDC TCGA Liver Cancer (LIHC): 469
+### Selección de variables
+
+<!-- TODO: Make 3 simple markdown tables -->
+#### Variables genómicas
+|Para las tres cohortes (CESC, HNSC, LIHC)|
+|-----------------------------------------|
+|*Copy Number Segment* GLS1/GLS2|
+|*HTSeq-FPKM (RNASeq)* GLS1/GLS2|
+
