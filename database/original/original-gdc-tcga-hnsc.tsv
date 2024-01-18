@@ -1,0 +1,613 @@
+sample	samples	GLS (average)	ENSG00000115419.11	GLS2 (average)	ENSG00000135423.11	hpv_status_by_ish_testing	age_at_initial_pathologic_diagnosis	ethnicity.demographic	race.demographic	sample_type.samples	neoplasm_histologic_grade	clinical_stage	OS.time	gender.demographic	alcohol_history.exposures	tobacco_smoking_history
+TCGA-CV-7418-01A	TCGA-CV-7418-01A	1.9009999999999998	4.831	0.1476	0.9423		62	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	789	male	Yes	4
+TCGA-CQ-5332-01A	TCGA-CQ-5332-01A	1.7269999999999999	5.064	-0.0913	0.553		87	not hispanic or latino	white	Primary Tumor	G2	Stage III	317	male	Yes	4
+TCGA-CQ-6225-01A	TCGA-CQ-6225-01A	1.318	3.366	0.014699999999999998	0.6093		65	not hispanic or latino	white	Primary Tumor	G2	Stage II	403	male	No	4
+TCGA-CV-5436-01A	TCGA-CV-5436-01A	1.278	4.885	0.0184	0.01359		65	hispanic or latino	not reported	Primary Tumor	G2	Stage IVA	584	male	Yes	2
+TCGA-CV-7409-01A	TCGA-CV-7409-01A	1.2534087533820428		-0.1038			43	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVB	543	male	No	
+TCGA-BA-4075-01A	TCGA-BA-4075-01A	1.101	4.471	-0.1935	0.1184		49	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	283	male	Yes	2
+TCGA-CV-7091-01A	TCGA-CV-7091-01A	0.9345	4.18	0.2997	0.3147		54	not hispanic or latino	white	Primary Tumor	G3	Stage I	3381	male	Yes	4
+TCGA-KU-A66T-01A	TCGA-KU-A66T-01A	0.803	4.359	0.0396	0.1069		53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	552	female	No	1
+TCGA-CV-7407-01A	TCGA-CV-7407-01A	0.7762000000000001	3.953	0.1443	0.05647		67	not hispanic or latino	white	Primary Tumor	G2	Stage II	1081	female	No	1
+TCGA-BA-A8YP-01A	TCGA-BA-A8YP-01A	0.6814	3.744	0.0366	0.29	Negative	50	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVB	499	male	Yes	2
+TCGA-CV-7095-01A	TCGA-CV-7095-01A	0.6269	3.759	0.0404	0.02869		87	hispanic or latino	not reported	Primary Tumor	G2	Stage IVA	572	female	No	3
+TCGA-CQ-A4CI-01A	TCGA-CQ-A4CI-01A	0.6102	3.394	0.203	0.7503		73	not hispanic or latino	white	Primary Tumor	G3		950	male	Yes	4
+TCGA-BA-A6DE-01A	TCGA-BA-A6DE-01A	0.5883	4.591	-0.0227	0.1845	Negative	70	not hispanic or latino	white	Primary Tumor	G2	Stage III	440	female	Yes	2
+TCGA-CV-7235-01A	TCGA-CV-7235-01A	0.5843	3.023	0.04	0.1267		67	not hispanic or latino	white	Primary Tumor	G3	Stage III	2347	male	Yes	3
+TCGA-IQ-A61G-01A	TCGA-IQ-A61G-01A	0.5542	3.941	-0.2465	0.03187		57	hispanic or latino	white	Primary Tumor	G2	Stage IVA	360	male	No	4
+TCGA-CR-7367-01A	TCGA-CR-7367-01A	0.5492	4.764	-0.0717	0.1171		52	not hispanic or latino	white	Primary Tumor	G1	Stage IVB	1440	male	Yes	2
+TCGA-CV-7103-01A	TCGA-CV-7103-01A	0.5455	3.276	0.06129999999999999	0.3019		49	not hispanic or latino	white	Primary Tumor	G2	Stage II	1591	male	Yes	2
+TCGA-CV-6935-01A	TCGA-CV-6935-01A	0.5232	4.041	0.11879999999999999	0.04019		67	not hispanic or latino	white	Primary Tumor	G3	Stage III	295	male	Yes	2
+TCGA-CR-7374-01A	TCGA-CR-7374-01A	0.5164	3.094	0.1511	1.029		67	not hispanic or latino	white	Primary Tumor	G2	Stage II	30	female	Yes	2
+TCGA-CR-7370-01A	TCGA-CR-7370-01A	0.514	3.797	-0.1134	0.3628		72	not hispanic or latino	white	Primary Tumor	G2	Stage II	105	female	Yes	4
+TCGA-CQ-6228-01A	TCGA-CQ-6228-01A	0.4886	3.247	0.0967	0.3027		71	not hispanic or latino	white	Primary Tumor	G2	Stage III	456	female	Yes	2
+TCGA-CV-5434-01A	TCGA-CV-5434-01A	0.48680000000000007	3.934	0.23	1.101		60	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	3314	male	No	3
+TCGA-P3-A6T6-01A	TCGA-P3-A6T6-01A	0.4752	2.518	0.033	0.4507		53	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	395	male	Yes	1
+TCGA-CV-A6JM-01A	TCGA-CV-A6JM-01A	0.4601	2.822	-0.167	0.03044		85	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	194	male	No	1
+TCGA-IQ-A6SG-01A	TCGA-IQ-A6SG-01A	0.45300000000000007	3.536	-0.1508	0.00523		61	hispanic or latino	white	Primary Tumor	G2	Stage III	579	female	Not Reported	1
+TCGA-IQ-A6SH-01A	TCGA-IQ-A6SH-01A	0.4366	2.885	0.4387	0.05614		55	not hispanic or latino	black or african american	Primary Tumor	G1	Stage IVC	471	male	Not Reported	3
+TCGA-F7-A623-01A	TCGA-F7-A623-01A	0.4106	4.311	0.031	0.1389		70	not hispanic or latino	white	Primary Tumor	G1		616	male	Yes	2
+TCGA-P3-A6T8-01A	TCGA-P3-A6T8-01A	0.3964	4.358	0.0495	0.08439		54	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	400	male	Yes	2
+TCGA-UF-A719-01A	TCGA-UF-A719-01A	0.39269999999999994	2.112	-0.1161	0.4038		54	not reported	not reported	Primary Tumor	G1	Stage III	1663	male	Yes	2
+TCGA-CV-6940-01A	TCGA-CV-6940-01A	0.3698	3.007	0.1425	0.08514		80	not hispanic or latino	white	Primary Tumor	G2	Stage I	804	female	No	2
+TCGA-IQ-A61H-01A	TCGA-IQ-A61H-01A	0.3352	3.859	0.0433	0.255		76	hispanic or latino	white	Primary Tumor	G2	Stage II	1138	male	No	4
+TCGA-BA-4077-01B	TCGA-BA-4077-01B	0.32	2.843	0.0183	0.5713		45	not hispanic or latino	white	Primary Tumor	G2	Stage IVB	1134	female	Yes	4
+TCGA-UF-A71A-06A	TCGA-UF-A71A-06A	0.3176	2.71	0.3088	0.9173		67	not reported	white	Metastatic	G1	Stage IVA	86	male	No	3
+TCGA-CR-7383-01A	TCGA-CR-7383-01A	0.3138	4.478	-0.0381	0.02622		79	not hispanic or latino	white	Primary Tumor	G2	Stage I	521	female	Yes	2
+TCGA-CV-7097-01A	TCGA-CV-7097-01A	0.3127	3.849	-0.0627	0.03731		53	not hispanic or latino	white	Primary Tumor	G3	Stage III	385	male	Yes	4
+TCGA-HD-8224-01A	TCGA-HD-8224-01A	0.3079	3.066	-0.0049	0.1645		63	not hispanic or latino	white	Primary Tumor	G3	Stage III	446	male	Yes	1
+TCGA-CN-6021-01A	TCGA-CN-6021-01A	0.3046	2.924	0.112	0.1191		63	not hispanic or latino	white	Primary Tumor	G2	Stage III	276	female	No	4
+TCGA-T2-A6WZ-01A	TCGA-T2-A6WZ-01A	0.3039	2.741	-0.141	0.0282	Negative	53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	484	male	Yes	2
+TCGA-DQ-5629-01A	TCGA-DQ-5629-01A	0.2955	2.868	-0.0229	0.1182		64	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	941	male	Yes	4
+TCGA-CV-7423-01A	TCGA-CV-7423-01A	0.2899	3.905	-0.0253	0.005138		65	not hispanic or latino	white	Primary Tumor	G1	Stage II	3059	male	No	3
+TCGA-CV-5440-01A	TCGA-CV-5440-01A	0.2683	2.913	-0.0585	0.1768		52	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	3270	male	Yes	2
+TCGA-CV-7250-01A	TCGA-CV-7250-01A	0.2645	4.071	-0.0756	1.022		64	not hispanic or latino	white	Primary Tumor	G1	Stage III	2900	male	Yes	3
+TCGA-CN-6997-01A	TCGA-CN-6997-01A	0.2593	4.248	0.2128	0.2375	Negative	66	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	988	male	No	4
+TCGA-CV-7254-01A	TCGA-CV-7254-01A	0.2578	3.251	-0.1964	0.2831		55	not hispanic or latino	white	Primary Tumor	G3	Stage II	1459	male	Yes	4
+TCGA-QK-A8Z9-01B	TCGA-QK-A8Z9-01B	0.256	3.998	-0.0055	0.02098		56	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	449	male	Yes	2
+TCGA-CN-6988-01A	TCGA-CN-6988-01A	0.2496	2.98	0.2344	0.6411	Negative	47	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	318	male	Yes	4
+TCGA-BA-4078-01A	TCGA-BA-4078-01A	0.24299999999999997	2.878	0.2135	1.175		83	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	276	male	No	4
+TCGA-UF-A71A-01A	TCGA-UF-A71A-01A	0.22619999999999998	2.61	0.2545	0.3835		67	not reported	white	Primary Tumor	G1	Stage IVA	86	male	No	3
+TCGA-HD-A6I0-01A	TCGA-HD-A6I0-01A	0.2231	1.981	-0.0638	0		56	not hispanic or latino	white	Primary Tumor	G1	Stage III	210	male	Yes	3
+TCGA-UF-A7JJ-01A	TCGA-UF-A7JJ-01A	0.22110000000000002	3.33	-0.0224	0.02995		68	not reported	not reported	Primary Tumor	G1	Stage IVA	549	male	No	2
+TCGA-CX-7086-01A	TCGA-CX-7086-01A	0.2201	3.401	-0.038	0.245		53	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	573	male	Yes	2
+TCGA-CN-6989-01A	TCGA-CN-6989-01A	0.2183	3.751	0.0122	0.5395	Negative	64	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	980	male	Yes	2
+TCGA-UF-A71B-01A	TCGA-UF-A71B-01A	0.2132	3.952	-0.3719	0.03604		50	not reported	white	Primary Tumor	G2	Stage IVA	1506	male	Yes	2
+TCGA-D6-A4ZB-01A	TCGA-D6-A4ZB-01A	0.2108	3.593	0.0091	0.1352		61	not hispanic or latino	white	Primary Tumor	G2	Stage III	376	male	No	2
+TCGA-CR-5247-01A	TCGA-CR-5247-01A	0.2041	3.919	0.1944	0.2929		48	not hispanic or latino	black or african american	Primary Tumor	G2	Stage III	358	male	Yes	2
+TCGA-CV-7248-01A	TCGA-CV-7248-01A	0.1962	4.008	0.1142	0.5774		63	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	521	female	No	2
+TCGA-CN-A63W-01A	TCGA-CN-A63W-01A	0.1925	4.49	0.0888	0.3467	Negative	48	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	377	female	Yes	4
+TCGA-CV-6933-01A	TCGA-CV-6933-01A	0.1891	3.106	-0.0517	0.1899		53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	2741	male	Yes	4
+TCGA-CN-4725-01A	TCGA-CN-4725-01A	0.189	3.524	0.3801	0.03026	Negative	60	not hispanic or latino	white	Primary Tumor	G2	Stage II	1157	male	No	1
+TCGA-QK-A6VB-01A	TCGA-QK-A6VB-01A	0.1872	3.088	0.2261	0.437		66	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	641	male	No	4
+TCGA-UP-A6WW-01A	TCGA-UP-A6WW-01A	0.176	2.894	0.1815	1.31		58	hispanic or latino	white	Primary Tumor	G2	Stage IVA	518	male	Yes	1
+TCGA-CN-A6V7-01A	TCGA-CN-A6V7-01A	0.1749	2.167	0.0549	1.112	Positive	40	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	594	male	No	1
+TCGA-CV-6948-01A	TCGA-CV-6948-01A	0.1727	2.661	0.1844	0.4037		79	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1289	female	No	
+TCGA-CV-6441-01A	TCGA-CV-6441-01A	0.1712	1.867	0.1926	0.3278		60	hispanic or latino	white	Primary Tumor	G3	Stage III	292	male	Yes	4
+TCGA-CN-6011-01A	TCGA-CN-6011-01A	0.1711	2.895	0.092	0.0669		57	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	933	male	Yes	4
+TCGA-CN-6994-01A	TCGA-CN-6994-01A	0.1648	2.879	0.3026	0.09847		67	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1183	male	Not Reported	3
+TCGA-CV-6945-01A	TCGA-CV-6945-01A	0.1645	3.42	-0.0579	0.06036		41	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	366	male	Yes	2
+TCGA-CQ-7072-01A	TCGA-CQ-7072-01A	0.1614	5.124	-0.0382	0.08361		51	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2359	male	Yes	2
+TCGA-CV-7435-01A	TCGA-CV-7435-01A	0.1591	3.625	-0.0854	0.2314		57	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	4680	female	No	2
+TCGA-DQ-7588-01A	TCGA-DQ-7588-01A	0.1577	4.322	0.1665	0.02324		66	not hispanic or latino	white	Primary Tumor	G3	Stage III	427	male	Yes	4
+TCGA-CN-6012-01A	TCGA-CN-6012-01A	0.156	2.707	0.082	0.3563	Negative	66	not hispanic or latino	white	Primary Tumor	G2	Stage III	1460	male	No	2
+TCGA-BA-A6D8-01A	TCGA-BA-A6D8-01A	0.156	1.995	-0.0659	0.06142	Negative	59	not reported	black or african american	Primary Tumor	G2	Stage IVA	850	male	Yes	4
+TCGA-CV-5430-01A	TCGA-CV-5430-01A	0.1546	2.435	-0.3645	0.1695		61	hispanic or latino	white	Primary Tumor	G3	Stage IVA	4241	male	Yes	3
+TCGA-CV-7437-01A	TCGA-CV-7437-01A	0.1534	3.043	0.1615	0.3391		77	not reported	not reported	Primary Tumor	GX	Stage II	506	male	No	1
+TCGA-BB-7864-01A	TCGA-BB-7864-01A	0.1532		-0.0117			61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1527	male	Yes	4
+TCGA-CR-7365-01A	TCGA-CR-7365-01A	0.1531	2.662	0.1452	0.02881		60	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1191	male	Yes	2
+TCGA-CV-5432-01A	TCGA-CV-5432-01A	0.1522	2.852	-0.0467	0.03827		68	not hispanic or latino	white	Primary Tumor	G3	Stage III	3930	male	Not Reported	4
+TCGA-H7-A6C5-01A	TCGA-H7-A6C5-01A	0.1518		0.12459999999999999			65	not hispanic or latino	white	Primary Tumor	G2	Stage III	642	male	Yes	4
+TCGA-CX-7082-01A	TCGA-CX-7082-01A	0.1493	3.054	0.109	0.2379		82	not hispanic or latino	white	Primary Tumor	G2	Stage II	11	male	Yes	4
+TCGA-UF-A7JF-01A	TCGA-UF-A7JF-01A	0.1493	2.048	-0.0116	0.1484		80	not reported	white	Primary Tumor	G2	Stage IVA	1686	male	Yes	2
+TCGA-CV-7242-01A	TCGA-CV-7242-01A	0.1488	2.819	0.1369	0.8137		60	not hispanic or latino	white	Primary Tumor	G2	Stage III	1095	female	Yes	3
+TCGA-P3-A6T5-01A	TCGA-P3-A6T5-01A	0.146	2.27	-0.2165	0.01168		79	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	882	female	Yes	3
+TCGA-CN-5360-01A	TCGA-CN-5360-01A	0.1445	2.987	0.12439999999999998	0.2155		68	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	2169	male	Yes	2
+TCGA-CV-6956-01A	TCGA-CV-6956-01A	0.1394	3.683	0.11014999999999998	0.2368		67	hispanic or latino	white	Primary Tumor	G2	Stage IVA	217	male	Yes	2
+TCGA-CV-A45Z-01A	TCGA-CV-A45Z-01A	0.1379	3.478	0.109	0.7811		75	not hispanic or latino	white	Primary Tumor	G3	Stage II	1466	male	Yes	2
+TCGA-D6-6823-01A	TCGA-D6-6823-01A	0.1361	4.432	0.1389	0.3098		50	not hispanic or latino	white	Primary Tumor	G2	Stage III	701	male	Yes	2
+TCGA-UF-A7J9-01A	TCGA-UF-A7J9-01A	0.1344	3.257	0.145	0.7856		75	not reported	white	Primary Tumor	G2	Stage IVA	1358	male	Yes	2
+TCGA-D6-A74Q-01A	TCGA-D6-A74Q-01A	0.1343	3.534	0.1449	0.8503		67	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	710	male	No	4
+TCGA-CN-6998-01A	TCGA-CN-6998-01A	0.1315	3.308	0.0408	0.008443	Negative	53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	357	male	No	2
+TCGA-CN-6024-01A	TCGA-CN-6024-01A	0.1295	3.619	0.0672	0.2426	Negative	66	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	337	male	Yes	2
+TCGA-D6-8569-01A	TCGA-D6-8569-01A	0.1273	3.195	-0.0523	0		52	not hispanic or latino	white	Primary Tumor	G2	Stage II	770	male	No	4
+TCGA-CR-7398-01A	TCGA-CR-7398-01A	0.1254	3.327	0.1284	0.7499		53	not hispanic or latino	white	Primary Tumor	G2	Stage II	156	female	Yes	2
+TCGA-BB-7870-01A	TCGA-BB-7870-01A	0.1252		0.0914			58	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2016	male	Yes	2
+TCGA-CV-6960-01A	TCGA-CV-6960-01A	0.1241	3.858	-0.4282	0.2129		49	not reported	black or african american	Primary Tumor	G3	Stage III	862	male	Yes	4
+TCGA-DQ-7594-01A	TCGA-DQ-7594-01A	0.1241		0.0501			47	not hispanic or latino	white	Primary Tumor	G4	Stage IVB	1218	male	Yes	1
+TCGA-BA-4074-01A	TCGA-BA-4074-01A	0.12360000000000002	4.797	0.0825	0.4696		69	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	462	male	Yes	2
+TCGA-CN-6992-01A	TCGA-CN-6992-01A	0.1231	2.924	0.1437	0.9975	Negative	61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1066	male	Yes	2
+TCGA-CV-6950-01A	TCGA-CV-6950-01A	0.12149999999999998	4.072	-0.0236	0.003891		64	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	459	male	Yes	4
+TCGA-CV-5966-01A	TCGA-CV-5966-01A	0.1214	2.792	0.1894	0.0781		63	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	545	female	Yes	4
+TCGA-BA-A4IH-01A	TCGA-BA-A4IH-01A	0.1213	3.775	-0.3193	0.5575	Positive	57	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	622	male	Yes	4
+TCGA-BA-A6DL-01A	TCGA-BA-A6DL-01A	0.1198	3.297	0.101	0.4475	Negative	59	not hispanic or latino	white	Primary Tumor	G2	Stage III	623	male	Yes	2
+TCGA-BA-A4IF-01A	TCGA-BA-A4IF-01A	0.11900000000000001	3.759	-0.0577	0.5871	Negative	59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	895	male	Yes	4
+TCGA-HD-A634-01A	TCGA-HD-A634-01A	0.11620000000000001	2.897	-0.036	1.084		56	not hispanic or latino	white	Primary Tumor	G3	Stage III	130	male	Yes	2
+TCGA-CN-4735-01A	TCGA-CN-4735-01A	0.1155	4.608	0.1079	0.8662	Negative	52	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1737	male	Yes	2
+TCGA-CV-7263-01A	TCGA-CV-7263-01A	0.1135	2.815	-0.0813	0.1312		64	not reported	black or african american	Primary Tumor	G1	Stage II	560	male	No	3
+TCGA-KU-A6H7-06A	TCGA-KU-A6H7-06A	0.1102	1.508	0.1146	0.1389		55	not hispanic or latino	white	Metastatic	G2	Stage IVA	586	female	Yes	4
+TCGA-CV-7424-01A	TCGA-CV-7424-01A	0.1087	2.878	0.0192	0.4459		67	not hispanic or latino	asian	Primary Tumor	G2	Stage IVA	453	male	No	4
+TCGA-CQ-6221-01A	TCGA-CQ-6221-01A	0.10790000000000001	2.122	0.112	0.011		79	not hispanic or latino	white	Primary Tumor	G3	Stage II	1000	male	Yes	3
+TCGA-UF-A71D-01A	TCGA-UF-A71D-01A	0.1077	3.557	0.084	0.6634		54	not reported	white	Primary Tumor	G2	Stage IVA	1461	female	Yes	2
+TCGA-UF-A7JS-01A	TCGA-UF-A7JS-01A	0.1077	1.655	0.0356	0		59	not reported	white	Primary Tumor	G2	Stage IVA	680	male	Yes	2
+TCGA-QK-A8Z8-01A	TCGA-QK-A8Z8-01A	0.10700000000000001	2.141	0.0745	1.093		60	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVC	171	female	Yes	2
+TCGA-RS-A6TP-01A	TCGA-RS-A6TP-01A	0.10489999999999998	2.607	0.0521	1.134		58	not hispanic or latino	white	Primary Tumor	G3	Stage II	516	male	Yes	4
+TCGA-CV-A460-01A	TCGA-CV-A460-01A	0.1022	4.078	0.0885	0.3388		72	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1838	male	No	3
+TCGA-BB-8601-01A	TCGA-BB-8601-01A	0.102	3.293	0.0682	0.7825		84	not hispanic or latino	black or african american	Primary Tumor	G2	Stage II	624	male	Yes	4
+TCGA-CX-7219-01A	TCGA-CX-7219-01A	0.1017	3.999	-0.2871	0.06656		47	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	1045	male	Yes	2
+TCGA-QK-A8ZB-01A	TCGA-QK-A8ZB-01A	0.10080000000000001	4.22	0.06069999999999999	0.1431		68	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	542	male	Yes	3
+TCGA-CV-5979-01A	TCGA-CV-5979-01A	0.09709999999999999	3.475	0.0536	0.05597		26	not hispanic or latino	white	Primary Tumor	G2	Stage III	1315	male	Yes	1
+TCGA-CV-7247-01A	TCGA-CV-7247-01A	0.0967	3.992	0.0649	0.179		55	not hispanic or latino	white	Primary Tumor	G2	Stage II	577	male	No	1
+TCGA-CV-7432-01A	TCGA-CV-7432-01A	0.0964	2.591	-0.0102	0.1245		79	not hispanic or latino	white	Primary Tumor	G1	Stage III	2570	male	No	4
+TCGA-CV-7101-01A	TCGA-CV-7101-01A	0.0954	2.919	0.0075	0.4131		80	not hispanic or latino	white	Primary Tumor	G2	Stage II	160	male	Yes	2
+TCGA-CV-5435-01A	TCGA-CV-5435-01A	0.0953	3.757	0.1264	0.3485		57	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2319	male	Yes	4
+TCGA-CV-A6K1-01A	TCGA-CV-A6K1-01A	0.0953	3.047	0.089	0		65	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	685	male	Yes	4
+TCGA-CR-5248-01A	TCGA-CR-5248-01A	0.0951	2.754	0.04	0.6677		53	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1663	male	Yes	2
+TCGA-BB-7871-01A	TCGA-BB-7871-01A	0.0938		0.0313			64	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	750	female	Yes	2
+TCGA-CV-7245-01A	TCGA-CV-7245-01A	0.0929	3.961	0.2809	0.4585		62	hispanic or latino	white	Primary Tumor	G2	Stage III	797	male	No	4
+TCGA-CV-7430-01A	TCGA-CV-7430-01A	0.0913	3.402	0.5237	0.6974		56	not hispanic or latino	white	Primary Tumor	G2	Stage III	495	male	No	4
+TCGA-QK-AA3J-01A	TCGA-QK-AA3J-01A	0.0906	2.988	0.066	0.2104		69	not hispanic or latino	black or african american	Primary Tumor	G3	Stage I	466	male	No	4
+TCGA-CN-A49C-01A	TCGA-CN-A49C-01A	0.0902	2.219	0.0276	0.4734	Positive	67	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	645	male	No	3
+TCGA-F7-A61W-01A	TCGA-F7-A61W-01A	0.0878	3.503	-0.5416	0.0222		51	not hispanic or latino	asian	Primary Tumor	G2		14	male	Yes	2
+TCGA-DQ-7595-01A	TCGA-DQ-7595-01A	0.0871		0.0552			53	not hispanic or latino	white	Primary Tumor	G3	Stage II	1190	male	Yes	2
+TCGA-F7-7848-01A	TCGA-F7-7848-01A	0.0866	2.926	-0.3826	0.1182		47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1131	male	Yes	2
+TCGA-CN-4728-01A	TCGA-CN-4728-01A	0.085	3.895	0.2539	0.5761		56	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1724	male	Yes	2
+TCGA-CR-6493-01A	TCGA-CR-6493-01A	0.0842	3.666	-0.1614	0.03944		69	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	282	male	Yes	3
+TCGA-CV-7238-01A	TCGA-CV-7238-01A	0.083	3.913	-0.0009	0.04916		69	not hispanic or latino	white	Primary Tumor	G2	Stage II	2727	female	No	1
+TCGA-CR-6473-01A	TCGA-CR-6473-01A	0.0824	2.532	0.0748	1.423		68	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1125	male	Yes	4
+TCGA-BB-8596-01A	TCGA-BB-8596-01A	0.0813	4.327	-0.1001	0.06889		69	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2161	female	Yes	4
+TCGA-CN-A497-01A	TCGA-CN-A497-01A	0.0813	3.3	0.0326	0.8073	Negative	63	not hispanic or latino	not reported	Primary Tumor	G2	Stage IVA	1065	male	No	4
+TCGA-IQ-A61I-01A	TCGA-IQ-A61I-01A	0.0803	2.404	0.0316	0.814		63	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVA	2	male	No	1
+TCGA-BA-6870-01A	TCGA-BA-6870-01A	0.0799	2.464	-0.0685	0.01847		60	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVC	451	female	Yes	2
+TCGA-CN-A641-01A	TCGA-CN-A641-01A	0.0793	3.305	0.0456	0.7309		47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	367	male	Yes	2
+TCGA-MT-A67D-01A	TCGA-MT-A67D-01A	0.0784	4.047	-0.2073	0.1084		55	not hispanic or latino	white	Primary Tumor	G2	Stage II	56	male	Yes	2
+TCGA-CQ-5323-01A	TCGA-CQ-5323-01A	0.0782	2.544	0.0143	0.5647		82	not hispanic or latino	white	Primary Tumor	G2	Stage III	1466	male	Yes	3
+TCGA-CR-7364-01A	TCGA-CR-7364-01A	0.0781	3.419	0.0673	0.3915		66	not hispanic or latino	white	Primary Tumor	G2	Stage III	1435	male	No	2
+TCGA-CV-7253-01A	TCGA-CV-7253-01A	0.0778	2.546	0.0398	0.3716		58	not hispanic or latino	black or african american	Primary Tumor	G2	Stage II	361	male	Not Reported	
+TCGA-QK-A8ZA-01A	TCGA-QK-A8ZA-01A	0.0767	3.059	0.1633	0.9712		60	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	371	male	Yes	2
+TCGA-CN-6010-01A	TCGA-CN-6010-01A	0.0747	2.779	-0.015099999999999999	0.4843	Negative	53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1523	male	Yes	2
+TCGA-CR-7373-01A	TCGA-CR-7373-01A	0.0745	3.168	0.1089	0.00537	Negative	66	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	889	male	No	3
+TCGA-P3-A5QF-01A	TCGA-P3-A5QF-01A	0.0714	1.754	0.06019999999999999	0.2152		49	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	330	male	No	1
+TCGA-CV-7414-01A	TCGA-CV-7414-01A	0.069	1.532	0.0838	0.1591		78	not hispanic or latino	white	Primary Tumor	G2	Stage III	14	male	No	3
+TCGA-CR-6491-01A	TCGA-CR-6491-01A	0.0682	2.436	0.0362	0.03413	Negative	60	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	693	male	Yes	2
+TCGA-MZ-A6I9-01A	TCGA-MZ-A6I9-01A	0.0678	1.997	-0.0156	0.6363		68	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	489	male	Yes	3
+TCGA-QK-A6IF-01A	TCGA-QK-A6IF-01A	0.0628	3.895	0.3441	1.022	Positive	61	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	704	male	Yes	1
+TCGA-CV-7261-01A	TCGA-CV-7261-01A	0.0628	3.455	0.0833	0.2941		57	not hispanic or latino	white	Primary Tumor	G2	Stage III	1512	male	No	2
+TCGA-CN-A63T-01A	TCGA-CN-A63T-01A	0.061500000000000006	3.227	0.0759	0.3797		60	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	225	male	Yes	2
+TCGA-CN-4731-01A	TCGA-CN-4731-01A	0.061200000000000004	3.026	0.0469	0.3771	Negative	63	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	998	female	Yes	4
+TCGA-BA-6868-01B	TCGA-BA-6868-01B	0.0609	3.933	-0.1571	0.05335		53	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVB	472	male	Yes	4
+TCGA-DQ-7591-01A	TCGA-DQ-7591-01A	0.0609	2.911	0.0869	0.9748		62	not hispanic or latino	white	Primary Tumor	G4	Stage IVA	622	male	Yes	3
+TCGA-CN-6019-01A	TCGA-CN-6019-01A	0.0608	2.705	-0.0289	0.09132	Negative	61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1038	male	Yes	4
+TCGA-UF-A7JC-01A	TCGA-UF-A7JC-01A	0.0602	3.428	-0.11989999999999999	0.009514		42	not reported	white	Primary Tumor	G1	Stage III	546	male	No	2
+TCGA-CQ-6218-01A	TCGA-CQ-6218-01A	0.0591	3.324	0.0427	0.02071		52	not hispanic or latino	white	Primary Tumor	G2	Stage III	1253	female	No	4
+TCGA-CV-7429-01A	TCGA-CV-7429-01A	0.059	4.497	0.0557	0.01673		55	not hispanic or latino	white	Primary Tumor	G3	Stage III	107	male	Yes	4
+TCGA-CQ-6224-01A	TCGA-CQ-6224-01A	0.05870000000000001	2.756	0.1033	0.03501		52	not hispanic or latino	white	Primary Tumor	G3	Stage II	1721	male	Yes	4
+TCGA-D6-A6ES-01A	TCGA-D6-A6ES-01A	0.0565	1.406	0.0657	0.02425		50	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	389	male	No	
+TCGA-CV-5441-01A	TCGA-CV-5441-01A	0.056	3.648	0.0821	0.2763		58	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2886	male	Yes	4
+TCGA-IQ-A61J-01A	TCGA-IQ-A61J-01A	0.0546	3.211	0.031099999999999996	0.04674		54	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	1021	male	No	1
+TCGA-CN-4730-01A	TCGA-CN-4730-01A	0.0544	3.412	0.0475	0.6463		62	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	817	male	Yes	2
+TCGA-T2-A6X0-01A	TCGA-T2-A6X0-01A	0.0511	2.765	0.1155	1.412	Positive	49	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	216	male	Yes	4
+TCGA-CR-5250-01A	TCGA-CR-5250-01A	0.0508	3.418	0.0497	1.288	Positive	71	not hispanic or latino	white	Primary Tumor	G3	Stage II	799	male	Yes	2
+TCGA-D6-A6EO-01A	TCGA-D6-A6EO-01A	0.0505	2.736	0.0413	1.205		44	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	759	male	No	5
+TCGA-QK-A6IH-01A	TCGA-QK-A6IH-01A	0.05040000000000001	2.691	0.1328	0		65	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	653	female	Yes	1
+TCGA-CV-5976-01A	TCGA-CV-5976-01A	0.0502	3.244	-0.0818	0.04518		50	not hispanic or latino	white	Primary Tumor	G2	Stage III	1478	male	Yes	4
+TCGA-P3-A6T0-01A	TCGA-P3-A6T0-01A	0.049499999999999995	4.754	0.0533	0.05825		47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	578	female	Yes	4
+TCGA-CV-7100-01A	TCGA-CV-7100-01A	0.0493	2.906	0.0523	0.2156		66	not reported	white	Primary Tumor	G3	Stage II	274	male	No	3
+TCGA-CN-5355-01A	TCGA-CN-5355-01A	0.04889999999999999	4.499	-0.0504	0.0383		64	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	1278	male	Yes	2
+TCGA-CV-A45Y-01A	TCGA-CV-A45Y-01A	0.04889999999999999	4.338	-0.0656	0.1681		61	hispanic or latino	american indian or alaska native	Primary Tumor	G3	Stage IVA	2703	male	Yes	4
+TCGA-CV-5443-01A	TCGA-CV-5443-01A	0.0488	3.587	0.0411	1.28		63	not hispanic or latino	black or african american	Primary Tumor	G3	Stage III	2784	male	Yes	2
+TCGA-CV-A6K2-01A	TCGA-CV-A6K2-01A	0.04859999999999999	3.271	0.0139	0		79	not hispanic or latino	white	Primary Tumor	G1	Stage II	317	male	Yes	3
+TCGA-CV-6934-01A	TCGA-CV-6934-01A	0.0473	3.992	0.008	0.1127		66	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	65	female	No	2
+TCGA-CV-6954-01A	TCGA-CV-6954-01A	0.0473	3.352	-0.0108	0.3694		59	not reported	black or african american	Primary Tumor	G2	Stage IVA	2002	male	Yes	3
+TCGA-UF-A7JK-01A	TCGA-UF-A7JK-01A	0.0466	2.814	0.0033	0.03109		59	not reported	not reported	Primary Tumor	G2	Stage IVA	424	male	Yes	4
+TCGA-CV-5439-01A	TCGA-CV-5439-01A	0.0463	2.709	0.0365	0.07144		62	not hispanic or latino	white	Primary Tumor	G2	Stage II	546	male	Yes	2
+TCGA-D6-6825-01A	TCGA-D6-6825-01A	0.0453	3.334	0.0337	0.05048		73	not hispanic or latino	white	Primary Tumor	G2	Stage III	491	male	Yes	4
+TCGA-DQ-7590-01A	TCGA-DQ-7590-01A	0.0449		0.058			51	not hispanic or latino	white	Primary Tumor	G4	Stage IVA	1413	male	Yes	3
+TCGA-C9-A480-01A	TCGA-C9-A480-01A	0.0434	3.28	0.0135	0.01881		45	not hispanic or latino	asian	Primary Tumor	G1	Stage III	386	female	No	1
+TCGA-BB-7866-01A	TCGA-BB-7866-01A	0.0428		0.0738		Positive	40	not hispanic or latino	white	Primary Tumor	GX	Stage III	1368	male	No	4
+TCGA-BA-5149-01A	TCGA-BA-5149-01A	0.0421		0.0425			47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	806	male	Yes	2
+TCGA-BB-4228-01A	TCGA-BB-4228-01A	0.0416	3.52	0.048	1.623		50	not hispanic or latino	white	Primary Tumor	GX	Stage II	559	male	Yes	2
+TCGA-CV-A6JU-01A	TCGA-CV-A6JU-01A	0.0404	2.829	0.0167	0.03511		61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	110	female	Yes	2
+TCGA-CV-6942-01A	TCGA-CV-6942-01A	0.0399	3.603	0.0491	0.00915		73	hispanic or latino	white	Primary Tumor	G3	Stage II	4282	female	No	1
+TCGA-BB-A6UM-01A	TCGA-BB-A6UM-01A	0.0391	2.046	0.0875	0.8996	Positive	52	not hispanic or latino	white	Primary Tumor	GX	Stage III	393	male	No	4
+TCGA-BB-7862-01A	TCGA-BB-7862-01A	0.0388		0.1251			67	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1117	male	Yes	4
+TCGA-HD-8635-01A	TCGA-HD-8635-01A	0.0384	3.544	0.0352	0.06787		61	not hispanic or latino	white	Primary Tumor	G2	Stage III	695	female	Yes	2
+TCGA-CQ-6223-01A	TCGA-CQ-6223-01A	0.0371	2.431	0.0085	0.01341		69	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1428	male	No	3
+TCGA-BA-5153-01A	TCGA-BA-5153-01A	0.037	3.199	0.0823	1.13		51	not hispanic or latino	white	Primary Tumor	G2	Stage III	1762	male	Yes	1
+TCGA-CR-7397-01A	TCGA-CR-7397-01A	0.0369	2.752	-0.0551	0.1015		44	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	754	male	Yes	4
+TCGA-DQ-5624-01A	TCGA-DQ-5624-01A	0.0368	3.145	0.5194	0.05998		43	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1778	female	No	1
+TCGA-CQ-A4CB-01A	TCGA-CQ-A4CB-01A	0.0368	3.013	0.0335	0.112		59	not reported	not reported	Primary Tumor	G2	Stage II	893	male	Yes	2
+TCGA-CN-A63U-01A	TCGA-CN-A63U-01A	0.036	2.752	0.004	0.2855		50	not hispanic or latino	white	Primary Tumor	G3	Stage III	964	male	No	4
+TCGA-QK-A6V9-01A	TCGA-QK-A6V9-01A	0.036	2.545	0.0145	1.186	Positive	56	not hispanic or latino	white	Primary Tumor	G2	Stage II	833	male	No	1
+TCGA-CV-7425-01A	TCGA-CV-7425-01A	0.0358	2.772	-0.0011	0.0471		77	not hispanic or latino	white	Primary Tumor	G1	Stage III	1718	female	No	1
+TCGA-D6-A4Z9-01A	TCGA-D6-A4Z9-01A	0.0353	4.002	0.0177	0.1121		59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	539	male	No	3
+TCGA-CN-A498-01A	TCGA-CN-A498-01A	0.0344	3.19	0.0011	0.07643		61	not hispanic or latino	white	Primary Tumor	G1	Stage II	773	female	No	4
+TCGA-BA-6869-01A	TCGA-BA-6869-01A	0.034	2.419	0.0308	0.7425		62	not hispanic or latino	white	Primary Tumor	G2	Stage III	644	male	Yes	2
+TCGA-CQ-7065-01A	TCGA-CQ-7065-01A	0.0339	2.511	0.054	0.03352		40	not hispanic or latino	asian	Primary Tumor	G2	Stage II	1628	male	No	1
+TCGA-UF-A7JO-01A	TCGA-UF-A7JO-01A	0.0337	3.253	0.2908	0.1019		79	not reported	white	Primary Tumor	G2	Stage IVA	631	female	No	1
+TCGA-CR-7404-01A	TCGA-CR-7404-01A	0.0335	2.531	0.0196	0.4925	Positive	53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1472	male	Yes	1
+TCGA-DQ-5631-01A	TCGA-DQ-5631-01A	0.033	3.833	0.0317	0.2257		52	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	548	male	Yes	4
+TCGA-CX-A4AQ-01A	TCGA-CX-A4AQ-01A	0.0322	2.9	0.0231	0.3771		56	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1555	male	Yes	4
+TCGA-MZ-A5BI-01A	TCGA-MZ-A5BI-01A	0.032	3.036	-0.1816	0.1639		53	hispanic or latino	white	Primary Tumor		Stage IVA	217	male	Yes	
+TCGA-CV-7438-01A	TCGA-CV-7438-01A	0.0319	4.136	0.011	0.01854		87	not hispanic or latino	white	Primary Tumor	G3	Stage II	194	female	No	1
+TCGA-F7-A61V-01A	TCGA-F7-A61V-01A	0.0318	2.842	0.0296	0.1416		54	not hispanic or latino	white	Primary Tumor	G1		759	male	Not Reported	2
+TCGA-CN-5370-01A	TCGA-CN-5370-01A	0.0315	3.314	-0.034	0.05626	Negative	78	not hispanic or latino	white	Primary Tumor	G3	Stage II	259	male	Yes	4
+TCGA-CV-7177-01A	TCGA-CV-7177-01A	0.0313	3.074	0.0189	0.3341		82	not hispanic or latino	white	Primary Tumor	G2	Stage I	663	female	No	
+TCGA-CR-5243-01A	TCGA-CR-5243-01A	0.0312	2.708	0.0551	1.038		51	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2562	male	Yes	1
+TCGA-CV-7180-01A	TCGA-CV-7180-01A	0.0305	2.332	0.0558	0.02171		34	not hispanic or latino	white	Primary Tumor	G2	Stage II	327	male	Yes	3
+TCGA-BA-A4II-01A	TCGA-BA-A4II-01A	0.0304	3.694	-0.1992	0.0588		46	not hispanic or latino	white	Primary Tumor	G1	Stage I	918	male	Yes	4
+TCGA-TN-A7HL-01A	TCGA-TN-A7HL-01A	0.0301	2.453	0.0161	0.1762	Positive	59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	619	male	Yes	4
+TCGA-F7-A50I-01A	TCGA-F7-A50I-01A	0.0294	4.059	0.0142	0.0737		72	not reported	white	Primary Tumor	G2		92	male	Yes	2
+TCGA-CV-6953-01A	TCGA-CV-6953-01A	0.028500000000000004	2.948	-0.0055	0.07666		80	not hispanic or latino	white	Primary Tumor	G1	Stage III	1641	female	No	1
+TCGA-CV-7099-01A	TCGA-CV-7099-01A	0.027899999999999998	3.13	0.028	0.04193		85	not reported	white	Primary Tumor	G2	Stage II	243	female	No	3
+TCGA-CR-6481-01A	TCGA-CR-6481-01A	0.0278	2.589	0.0371	0.3568	Positive	47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	311	male	Yes	1
+TCGA-CN-4726-01A	TCGA-CN-4726-01A	0.0275	3.417	-0.3317	0.01345	Negative	68	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	142	male	Yes	2
+TCGA-P3-A5QE-01A	TCGA-P3-A5QE-01A	0.0268	3.212	0.0205	0.9003		49	not hispanic or latino	white	Primary Tumor	G2	Stage III	1559	male	Yes	1
+TCGA-CR-7401-01A	TCGA-CR-7401-01A	0.0264	3.153	0.0085	0.04677		64	not hispanic or latino	white	Primary Tumor	G2	Stage I	1077	male	Yes	4
+TCGA-CQ-5330-01A	TCGA-CQ-5330-01A	0.025999999999999995	3.567	0.0128	0		69	not hispanic or latino	white	Primary Tumor	G3	Stage III	1897	female	No	3
+TCGA-CR-6480-01A	TCGA-CR-6480-01A	0.0257	1.918	0.0283	0.4894	Positive	53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	362	male	Yes	1
+TCGA-CQ-A4C7-01A	TCGA-CQ-A4C7-01A	0.0254	3.61	0.1166	0.02906		88	not hispanic or latino	white	Primary Tumor	G3	Stage II	353	male	Yes	3
+TCGA-BA-A6DB-01A	TCGA-BA-A6DB-01A	0.024500000000000004	2.735	0.033	0.1073	Negative	24	not hispanic or latino	white	Primary Tumor	G1	Stage II	216	female	Yes	1
+TCGA-UF-A7JD-01A	TCGA-UF-A7JD-01A	0.0238	3.786	0.0122	0.198		71	not reported	not reported	Primary Tumor	G3	Stage IVA	739	male	Yes	2
+TCGA-HD-7753-01A	TCGA-HD-7753-01A	0.0238	3.62	0.1807	0.06141		62	not hispanic or latino	black or african american	Primary Tumor	G2	Stage II	866	male	Yes	2
+TCGA-CV-6955-01A	TCGA-CV-6955-01A	0.0236	1.396	-0.04195	0.01857		74	not hispanic or latino	white	Primary Tumor	G3	Stage II	334	female	No	1
+TCGA-CV-7089-01A	TCGA-CV-7089-01A	0.0228	2.445	0.1846	0.0976		74	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1972	male	Yes	4
+TCGA-CR-7388-01A	TCGA-CR-7388-01A	0.0223	3.174	0.0176	0.6152		70	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	823	female	Yes	2
+TCGA-BA-5558-01A	TCGA-BA-5558-01A	0.0222	3.02	0.0127	0.04262		65	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	1995	male	Yes	1
+TCGA-CQ-6227-01A	TCGA-CQ-6227-01A	0.0219	3.89	-0.0642	0.02278		77	not hispanic or latino	white	Primary Tumor	G2	Stage III	129	male	Yes	3
+TCGA-QK-A652-01A	TCGA-QK-A652-01A	0.0218	2.967	0.0198	0.01149		60	not hispanic or latino	white	Primary Tumor	G2	Stage II	645	male	Yes	1
+TCGA-HD-7832-01A	TCGA-HD-7832-01A	0.0208	2.647	-0.0416	0.1764		52	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	836	male	Yes	2
+TCGA-CN-5369-01A	TCGA-CN-5369-01A	0.0195	3.02	0.0108	0.03761		90	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1	female	No	2
+TCGA-H7-8502-01A	TCGA-H7-8502-01A	0.0194	3.091	0.0182	0.06373		50	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	458	male	Yes	2
+TCGA-CV-A461-01A	TCGA-CV-A461-01A	0.0192	3.273	0.0021	0.2494		65	not hispanic or latino	white	Primary Tumor	G2	Stage III	2064	male	No	2
+TCGA-CR-7368-01A	TCGA-CR-7368-01A	0.019	2.033	0.0043	0.359		54	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1245	male	Yes	4
+TCGA-CR-6474-01A	TCGA-CR-6474-01A	0.0181	3.93	0.0103	0.008479		51	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	564	male	Yes	2
+TCGA-F7-8489-01A	TCGA-F7-8489-01A	0.0181	3.177	-0.0684	0.04219		48	not hispanic or latino	white	Primary Tumor	G1	Stage II	658	male	No	2
+TCGA-CX-7085-01A	TCGA-CX-7085-01A	0.018	3.186	0.0118	0.04867		77	not hispanic or latino	white	Primary Tumor	G2	Stage III	321	female	Yes	3
+TCGA-P3-A5QA-01A	TCGA-P3-A5QA-01A	0.0177	4.805	-0.0638	0.01211		41	not reported	not reported	Primary Tumor	G3	Stage II	2182	male	Yes	1
+TCGA-CN-A6UY-01A	TCGA-CN-A6UY-01A	0.0174	3.217	0.0483	0.6642	Positive	57	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	713	male	No	4
+TCGA-CN-5364-01A	TCGA-CN-5364-01A	0.0171	2.739	0.0014	0.1964		55	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	493	male	Yes	2
+TCGA-P3-A6T7-01A	TCGA-P3-A6T7-01A	0.0169	2.838	0.0137	0.02397		55	not hispanic or latino	white	Primary Tumor	G2	Stage III	487	male	Yes	2
+TCGA-CV-7104-01A	TCGA-CV-7104-01A	0.0167	2.822	0.0868	0.03059		61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	393	female	No	1
+TCGA-BA-A6DD-01A	TCGA-BA-A6DD-01A	0.0164	2.555	0.0015	0.02105	Negative	44	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	173	male	Yes	2
+TCGA-UF-A718-01A	TCGA-UF-A718-01A	0.0163	3.835	0.0416	0.09951		62	not reported	white	Primary Tumor	G2	Stage IVA	1971	male	No	2
+TCGA-CV-A6JT-01A	TCGA-CV-A6JT-01A	0.0163	2.343	0.014	0.007136		65	not hispanic or latino	white	Primary Tumor	G2	Stage II	852	male	No	1
+TCGA-BA-7269-01A	TCGA-BA-7269-01A	0.0163	2.142	-0.2504	0		61	not hispanic or latino	white	Primary Tumor	G1	Stage III	1273	male	Yes	2
+TCGA-H7-A6C4-01A	TCGA-H7-A6C4-01A	0.016	3.558	0.0277	0		35	not hispanic or latino	white	Primary Tumor	G2	Stage III	414	female	Yes	2
+TCGA-CN-5365-01A	TCGA-CN-5365-01A	0.0155	2.323	0.0854	0.05697		38	not hispanic or latino	white	Primary Tumor	G2	Stage IVC	351	male	Yes	2
+TCGA-CQ-6220-01A	TCGA-CQ-6220-01A	0.0136	2.707	0.12349999999999998	0.01999		69	not hispanic or latino	white	Primary Tumor	G2	Stage III	985	male	Yes	1
+TCGA-CR-7395-01A	TCGA-CR-7395-01A	0.0134	3.109	0.0131	0.04951	Negative	80	not hispanic or latino	white	Primary Tumor	G2	Stage II	930	female	Yes	3
+TCGA-CV-6952-01A	TCGA-CV-6952-01A	0.0132	3.007	0.0135	0.01089		65	not hispanic or latino	white	Primary Tumor	G1	Stage III	185	female	Yes	4
+TCGA-T3-A92M-01A	TCGA-T3-A92M-01A	0.013100000000000002	3.308	-0.208	0.1715		52	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	417	male	No	2
+TCGA-BA-A6DJ-01A	TCGA-BA-A6DJ-01A	0.0129	3.865	-0.0077	0.02384	Negative	62	not hispanic or latino	asian	Primary Tumor	G2	Stage IVA	407	male	Yes	4
+TCGA-CN-A63Y-01A	TCGA-CN-A63Y-01A	0.0128		0.0237		Positive	46	not hispanic or latino	white	Primary Tumor	G2	Stage I	504	male	No	1
+TCGA-CQ-7071-01A	TCGA-CQ-7071-01A	0.0125	3.188	0.0065	0.03456		76	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1311	female	Yes	1
+TCGA-DQ-5630-01A	TCGA-DQ-5630-01A	0.012299999999999998	3.025	0.014	0.0308		73	not hispanic or latino	white	Primary Tumor	G2	Stage III	1030	male	Yes	3
+TCGA-CN-A6V1-01A	TCGA-CN-A6V1-01A	0.012100000000000001		0.0041			59	not reported	white	Primary Tumor	GX	Stage IVA	603	male	No	1
+TCGA-CN-5373-01A	TCGA-CN-5373-01A	0.0118	2.558	0.0181	0.02417	Negative	55	not hispanic or latino	white	Primary Tumor	G1	Stage II	1584	female	Yes	4
+TCGA-CR-5249-01A	TCGA-CR-5249-01A	0.0117	2.347	0.0214	0.8422		35	not hispanic or latino	white	Primary Tumor	GX	Stage II	1152	female	Yes	1
+TCGA-CR-6487-01A	TCGA-CR-6487-01A	0.0112	2.876	0.0069	1.042	Positive	50	not hispanic or latino	white	Primary Tumor	G3	Stage II	234	male	Yes	4
+TCGA-CV-7428-01A	TCGA-CV-7428-01A	0.0111	3.821	0.1375	0.4524		47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1671	male	Yes	2
+TCGA-CR-7377-01A	TCGA-CR-7377-01A	0.011	3.216	0.013	0.08428		58	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	279	male	Yes	2
+TCGA-MT-A7BN-01A	TCGA-MT-A7BN-01A	0.0107	1.312	0.0189	0.02419		74	not reported	white	Primary Tumor	G3	Stage IVA	469	male	Yes	1
+TCGA-CR-7393-01A	TCGA-CR-7393-01A	0.0105	3.002	-0.0001	0.1863	Negative	26	not hispanic or latino	white	Primary Tumor	G2	Stage I	993	male	Yes	1
+TCGA-CV-7410-01A	TCGA-CV-7410-01A	0.0093	3.405	-0.0165	0.05504		61	not hispanic or latino	white	Primary Tumor	GX	Stage II	6417	male	No	3
+TCGA-DQ-7589-01A	TCGA-DQ-7589-01A	0.0087		-0.1147			70	not hispanic or latino	white	Primary Tumor	G4	Stage IVC	1409	male	Yes	4
+TCGA-BB-A6UO-01A	TCGA-BB-A6UO-01A	0.0081	2.955	0.0119	0.03316		61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	268	female	No	2
+TCGA-CN-5358-01A	TCGA-CN-5358-01A	0.0079	3.04	0.0007	0.1024	Negative	60	not hispanic or latino	white	Primary Tumor	G2	Stage III	261	male	Yes	4
+TCGA-BB-4217-01A	TCGA-BB-4217-01A	0.007499999999999999	3.952	0.015299999999999998	0.1873		68	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVA	187	male	Yes	2
+TCGA-CQ-5325-01A	TCGA-CQ-5325-01A	0.0074	2.998	-0.0065	0.03394		65	not hispanic or latino	white	Primary Tumor	G2	Stage I	654	male	Yes	4
+TCGA-CN-6020-01A	TCGA-CN-6020-01A	0.0074	2.907	-0.0179	0.1255	Negative	58	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	205	male	Yes	2
+TCGA-CQ-5331-01A	TCGA-CQ-5331-01A	0.0072	2.749	0.004	0.003808		73	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1399	female	No	3
+TCGA-F7-8298-01A	TCGA-F7-8298-01A	0.0058	4.875	-0.0065	0.08652		58	not hispanic or latino	white	Primary Tumor	G1	Stage I	995	male	Yes	3
+TCGA-D6-6515-01A	TCGA-D6-6515-01A	0.0057	3.153	0.1301	0.1268		82	not hispanic or latino	white	Primary Tumor	G3	Stage II	403	female	No	1
+TCGA-BA-A6DA-01A	TCGA-BA-A6DA-01A	0.0051	2.988	0.0097	0	Negative	41	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	351	female	Yes	2
+TCGA-CQ-A4CD-01A	TCGA-CQ-A4CD-01A	0.005	3.125	0.0135	0.03		69	not hispanic or latino	white	Primary Tumor	G3	Stage IVB	1022	male	Yes	1
+TCGA-CV-A45O-01A	TCGA-CV-A45O-01A	0.004	2.343	0.0051	0		57	not hispanic or latino	white	Primary Tumor	G2	Stage III	851	male	No	3
+TCGA-D6-6824-01A	TCGA-D6-6824-01A	0.0035	2.708	0.002	0.1782		61	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	77	male	Yes	2
+TCGA-CR-6488-01A	TCGA-CR-6488-01A	0.0033	3.46	-0.0562	0.03891		68	not hispanic or latino	white	Primary Tumor	G2	Stage II	379	female	Yes	1
+TCGA-CV-A45W-01A	TCGA-CV-A45W-01A	0.0031	2.673	0.0282	0.4461		75	not hispanic or latino	white	Primary Tumor	G2	Stage III	1398	male	Yes	2
+TCGA-CR-7394-01A	TCGA-CR-7394-01A	0.003	2.916	0.0298	0.02644	Negative	70	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1346	male	No	2
+TCGA-CQ-6229-01A	TCGA-CQ-6229-01A	0.0029	3.717	-0.1456	0.01404		61	not hispanic or latino	white	Primary Tumor	G2	Stage III	1179	male	No	1
+TCGA-HD-A4C1-01A	TCGA-HD-A4C1-01A	0.0028	3.091	0.0062	0.09499		41	not hispanic or latino	black or african american	Primary Tumor	G1	Stage IVA	11	female	No	1
+TCGA-CN-4733-01A	TCGA-CN-4733-01A	0.0027	2.706	0.0048	0.0591	Negative	61	not hispanic or latino	white	Primary Tumor	G3	Stage I	1586	male	No	1
+TCGA-CR-7391-01A	TCGA-CR-7391-01A	0.0027	2.491	0.0135	0.1375	Negative	36	not hispanic or latino	white	Primary Tumor	G1	Stage I	913	female	Yes	3
+TCGA-MT-A67F-01A	TCGA-MT-A67F-01A	0.0024	3.241	0.0012	0.01431		60	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	384	female	Yes	1
+TCGA-CV-7183-01A	TCGA-CV-7183-01A	0.0023	2.624	0.0024	0		53	not hispanic or latino	white	Primary Tumor	G1	Stage II	3981	male	No	3
+TCGA-CR-7386-01A	TCGA-CR-7386-01A	0.0022	3.205	0.0163	0		69	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	1430	male	Yes	3
+TCGA-KU-A6H8-01A	TCGA-KU-A6H8-01A	0.0022	2.131	0.0114	0.06376		41	not hispanic or latino	white	Primary Tumor	G3	Stage I	327	male	Yes	2
+TCGA-CR-7376-01A	TCGA-CR-7376-01A	0.0021	3.068	0.005	0.01845	Negative	83	not hispanic or latino	white	Primary Tumor	G2	Stage II	972	male	Yes	3
+TCGA-DQ-7596-01A	TCGA-DQ-7596-01A	0.0021		0.009			48	not hispanic or latino	white	Primary Tumor	G4	Stage IVA	1265	male	Yes	1
+TCGA-CN-4722-01A	TCGA-CN-4722-01A	0.0018	2.237	0.0006	0.1133	Negative	61	not hispanic or latino	white	Primary Tumor	G1	Stage II	1483	female	No	2
+TCGA-CV-7411-01A	TCGA-CV-7411-01A	0.0017	2.535	0.0079	0.02933		64	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	2717	female	No	2
+TCGA-CV-A468-01A	TCGA-CV-A468-01A	0.0014	3.127	0.0015	0.06388		42	hispanic or latino	not reported	Primary Tumor	G2	Stage III	464	male	Yes	2
+TCGA-QK-A64Z-01A	TCGA-QK-A64Z-01A	0.0009	3.858	-0.006	0.1703		79	not hispanic or latino	white	Primary Tumor	G1	Stage II	641	female	Yes	1
+TCGA-CR-6470-01A	TCGA-CR-6470-01A	0.0007	2.945	0.0174	0.9459		38	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1521	male	Yes	1
+TCGA-CN-5367-01A	TCGA-CN-5367-01A	0.0004	2.778	0.0007	0.07739		60	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	352	female	Yes	4
+TCGA-CV-7433-01A	TCGA-CV-7433-01A	0.0002	2.716	-0.007	0.05383		49	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	601	male	No	2
+TCGA-4P-AA8J-01A	TCGA-4P-AA8J-01A	0	3.547	0.0318	0.02554		66	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	102	male	No	
+TCGA-CV-A464-01A	TCGA-CV-A464-01A	-0.0003	3.142	-0.0036	0		48	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1722	male	Yes	4
+TCGA-CV-7236-01A	TCGA-CV-7236-01A	-0.0004	4.184	0.018	0.02575		77	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	144	female	No	
+TCGA-CV-5431-01A	TCGA-CV-5431-01A	-0.0016	3.682	-0.0295	0.07782		73	hispanic or latino	white	Primary Tumor	G3	Stage IVA	522	male	Yes	4
+TCGA-CV-A6K0-01B	TCGA-CV-A6K0-01B	-0.0018	3.487	-0.0115	0.1093		58	not hispanic or latino	white	Primary Tumor	G3	Stage II	606	male	Yes	1
+TCGA-CN-6017-01A	TCGA-CN-6017-01A	-0.0026	2.895	-0.0037999999999999996	0.03342	Negative	55	not hispanic or latino	white	Primary Tumor	G2	Stage III	853	male	Yes	3
+TCGA-CQ-A4CH-01A	TCGA-CQ-A4CH-01A	-0.0032	4.072	-0.0106	0.01942		58	not hispanic or latino	asian	Primary Tumor	G2	Stage IVA	379	male	Yes	1
+TCGA-D6-6517-01A	TCGA-D6-6517-01A	-0.0032	2.959	0.0259	0.03186		59	not hispanic or latino	white	Primary Tumor	G2	Stage III	292	male	Yes	4
+TCGA-BB-7872-01A	TCGA-BB-7872-01A	-0.0035		-0.002		Negative	63	not hispanic or latino	asian	Primary Tumor	G3	Stage IVA	1168	male	Yes	1
+TCGA-CN-6016-01A	TCGA-CN-6016-01A	-0.0036	2.306	0.0029	0.01902	Negative	64	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1443	male	Yes	2
+TCGA-BB-4224-01A	TCGA-BB-4224-01A	-0.0037	2.653	-0.0159	0.3023		52	not hispanic or latino	white	Primary Tumor	G2	Stage III	278	male	Yes	1
+TCGA-CN-A640-01A	TCGA-CN-A640-01A	-0.0037		0.0018			40	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	134	female	Yes	1
+TCGA-CQ-5324-01A	TCGA-CQ-5324-01A	-0.0053	2.233	-0.0227	0.01554		59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1593	male	No	4
+TCGA-BB-4223-01A	TCGA-BB-4223-01A	-0.0056	3.246	0.3473	2.044		48	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	3221	male	No	1
+TCGA-H7-A76A-01A	TCGA-H7-A76A-01A	-0.0058	2.173	-0.0156	0.5648		57	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	637	male	Yes	4
+TCGA-CV-6436-01A	TCGA-CV-6436-01A	-0.0058	1.42	-0.0036	0.02098		62	not hispanic or latino	white	Primary Tumor	G1	Stage III	1899	male	No	3
+TCGA-CR-7382-01A	TCGA-CR-7382-01A	-0.0064	3.815	-0.011	0.03396		49	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	796	male	Yes	1
+TCGA-UF-A7JT-01A	TCGA-UF-A7JT-01A	-0.006899999999999999	3.256	-0.0056	0.02367		72	not reported	white	Primary Tumor	G3	Stage IVA	993	female	No	1
+TCGA-CQ-5333-01A	TCGA-CQ-5333-01A	-0.0071	3.354	-0.0058	0.2164		74	not hispanic or latino	white	Primary Tumor	G3	Stage I	341	male	Yes	3
+TCGA-UF-A7JH-01A	TCGA-UF-A7JH-01A	-0.0071	3.168	-0.007	0.1811		59	not reported	black or african american	Primary Tumor	G1	Stage IVA	896	male	Yes	4
+TCGA-CV-6939-01A	TCGA-CV-6939-01A	-0.0074	3.293	-0.008	0.787		60	not reported	white	Primary Tumor	G3	Stage IVA	666	male	No	1
+TCGA-CQ-A4CA-01A	TCGA-CQ-A4CA-01A	-0.0079	2.224	-0.0075	0.02352			not reported	not reported	Primary Tumor	G2	Stage II		male	Yes	2
+TCGA-CV-A45V-01A	TCGA-CV-A45V-01A	-0.0081	2.846	-0.0057	0.1408		87	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	32	female	No	1
+TCGA-CQ-5326-01A	TCGA-CQ-5326-01A	-0.0084	3.882	0.0209	0.06745		67	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	89	male	Yes	4
+TCGA-BA-5556-01A	TCGA-BA-5556-01A	-0.0084	2.564	-0.0139	0.05284		58	not hispanic or latino	white	Primary Tumor	G3	Stage II	725	female	Yes	4
+TCGA-BA-A6DF-01A	TCGA-BA-A6DF-01A	-0.0094		-0.0054		Negative	80	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	238	female	Yes	
+TCGA-CN-6022-01A	TCGA-CN-6022-01A	-0.0099	3.354	-0.0126	0.1883	Negative	49	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	281	male	Not Reported	2
+TCGA-CV-7416-01A	TCGA-CV-7416-01A	-0.0099	3.144	0.0758	0.2283		29	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	763	female	Not Reported	1
+TCGA-CN-A6V3-01A	TCGA-CN-A6V3-01A	-0.0102	4.126	-0.0179	0.2048		61	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	742	male	Yes	4
+TCGA-CV-6938-01A	TCGA-CV-6938-01A	-0.0108	3.296	-0.0059	0.02134		87	not hispanic or latino	white	Primary Tumor	G1	Stage II	144	male	No	3
+TCGA-IQ-A61O-01A	TCGA-IQ-A61O-01A	-0.0111	3.984	0.0057	0.005983		43	hispanic or latino	white	Primary Tumor	GX	Stage IVA	421	male	No	1
+TCGA-MT-A67G-01A	TCGA-MT-A67G-01A	-0.0112		0.1744			53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	190	female	Yes	1
+TCGA-CV-7427-01A	TCGA-CV-7427-01A	-0.0117	2.617	-0.0162	0.02952		73	not hispanic or latino	white	Primary Tumor	G1	Stage II	4760	female	Yes	3
+TCGA-CV-6959-01A	TCGA-CV-6959-01A	-0.0118	2.987	0.1654	0.01744		48	not hispanic or latino	white	Primary Tumor	G2	Stage III	256	male	Yes	1
+TCGA-UF-A7JV-01A	TCGA-UF-A7JV-01A	-0.0122	3.668	-0.0136	0.0846		62	not reported	white	Primary Tumor	G2	Stage IVA	90	female	No	1
+TCGA-CV-A45P-01A	TCGA-CV-A45P-01A	-0.0122	3.101	-0.0094	0.06325		82	not hispanic or latino	white	Primary Tumor	G2	Stage II	639	female	No	1
+TCGA-CN-4737-01A	TCGA-CN-4737-01A	-0.0132	3.505	0.1714	0.05781	Negative	19	not hispanic or latino	white	Primary Tumor	G2	Stage II	625	male	No	1
+TCGA-P3-A6SX-01A	TCGA-P3-A6SX-01A	-0.0132	2.864	0.03	0.07128		67	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1430	male	Yes	4
+TCGA-CV-5971-01A	TCGA-CV-5971-01A	-0.0132	2.62	0.0176	0.06209		60	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	701	male	Yes	2
+TCGA-CR-6471-01A	TCGA-CR-6471-01A	-0.0134	2.014	-0.0189	0.1046		58	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1202	male	Yes	2
+TCGA-CR-7372-01A	TCGA-CR-7372-01A	-0.013799999999999998	3.244	-0.0327	0.01203	Negative	45	not hispanic or latino	white	Primary Tumor	G1	Stage II	759	male	Yes	1
+TCGA-D6-A6EQ-01A	TCGA-D6-A6EQ-01A	-0.013799999999999998	2.24	0.0511	0		57	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	368	male	No	1
+TCGA-CV-5970-01A	TCGA-CV-5970-01A	-0.0139	2.385	-0.024	0.06556		59	hispanic or latino	white	Primary Tumor	G2	Stage IVA	406	male	Yes	4
+TCGA-H7-8501-01A	TCGA-H7-8501-01A	-0.014	3.704	-0.0042	0.009644		54	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	461	male	Yes	2
+TCGA-CV-7102-01A	TCGA-CV-7102-01A	-0.0141	2.78	0.2105	0.0867		76	not hispanic or latino	white	Primary Tumor	G3	Stage III	56	female	Yes	4
+TCGA-F7-A622-01A	TCGA-F7-A622-01A	-0.0142	3.359	-0.0045	0.02107		75	not hispanic or latino	white	Primary Tumor	G1		359	male	Yes	1
+TCGA-CR-7369-01A	TCGA-CR-7369-01A	-0.0145	3.67	0.0328	0.122		59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1090	male	Yes	2
+TCGA-CV-A6JD-01A	TCGA-CV-A6JD-01A	-0.014600000000000002	3.819	-0.0148	0.2		82	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	182	female	No	3
+TCGA-T2-A6WX-01A	TCGA-T2-A6WX-01A	-0.015100000000000002	3.265	-0.0185	0.1092		73	not hispanic or latino	white	Primary Tumor	G1	Stage III	209	female	Yes	1
+TCGA-IQ-7630-01A	TCGA-IQ-7630-01A	-0.0152	2.898	0.0457	0.07214		49	hispanic or latino	white	Primary Tumor	G3	Stage III	485	male	No	1
+TCGA-CN-4742-01A	TCGA-CN-4742-01A	-0.0155	2.792	-0.0193	0.004812	Negative	48	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	397	female	Yes	2
+TCGA-CR-6478-01A	TCGA-CR-6478-01A	-0.0158	3.426	0.0737	0.1986		66	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	183	female	Yes	4
+TCGA-WA-A7H4-01A	TCGA-WA-A7H4-01A	-0.0159	4.307	-0.0072	0.1168		69	not hispanic or latino	white	Primary Tumor	G3	Stage II	443	male	Not Reported	2
+TCGA-CN-4738-01A	TCGA-CN-4738-01A	-0.0173	2.735	-0.029399999999999996	0.1516		53	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	436	male	Yes	2
+TCGA-CQ-7063-01A	TCGA-CQ-7063-01A	-0.0176	3.154	-0.0232	0.02428		59	not hispanic or latino	white	Primary Tumor	G1		2133	female	Yes	3
+TCGA-CV-6433-01A	TCGA-CV-6433-01A	-0.0183	3.432	-0.10952584564078131	1.029		57	not hispanic or latino	white	Primary Tumor	G3	Stage II	641	male	Yes	2
+TCGA-F7-A61S-01A	TCGA-F7-A61S-01A	-0.0184	3.009	0.0837	0.009336		62	not hispanic or latino	white	Primary Tumor	G1		576	male	Yes	4
+TCGA-CR-6482-01A	TCGA-CR-6482-01A	-0.019	3.357	-0.0235	1.008		62	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVA	345	male	Yes	4
+TCGA-D6-6827-01A	TCGA-D6-6827-01A	-0.0193	3.004	-0.0264	0.3404		55	not hispanic or latino	white	Primary Tumor	G3	Stage III	568	female	No	2
+TCGA-CV-A45Q-01A	TCGA-CV-A45Q-01A	-0.0195	1.064	-0.0268	0.05376		69	not hispanic or latino	white	Primary Tumor	G1	Stage IVC	5152	female	No	3
+TCGA-BA-5555-01A	TCGA-BA-5555-01A	-0.0206	2.909	0.0168	0.399		54	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	520	male	Yes	4
+TCGA-QK-A6IJ-01A	TCGA-QK-A6IJ-01A	-0.021	1.588	0.0089	0	Negative	71	not hispanic or latino	white	Primary Tumor	G3	Stage II	387	male	Yes	4
+TCGA-CN-6996-01A	TCGA-CN-6996-01A	-0.0224	3.606	0.059899999999999995	0.03987		58	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	530	female	No	1
+TCGA-KU-A66S-01A	TCGA-KU-A66S-01A	-0.0227	2.467	-0.0257	0.6025		69	not hispanic or latino	white	Primary Tumor	G2	Stage III	406	female	No	2
+TCGA-CR-7392-01A	TCGA-CR-7392-01A	-0.0229	2.917	0.0371	0.01426	Negative	67	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	1425	female	No	3
+TCGA-CN-5359-01A	TCGA-CN-5359-01A	-0.0236	3.285	-0.1403	0.07499	Negative	59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	377	male	Yes	2
+TCGA-TN-A7HJ-01A	TCGA-TN-A7HJ-01A	-0.0237	2.741	-0.0456	0.07775		51	not hispanic or latino	white	Primary Tumor	G2	Stage III	403	male	No	1
+TCGA-HD-7831-01A	TCGA-HD-7831-01A	-0.0239	2.935	-0.03	0.007202		74	not hispanic or latino	white	Primary Tumor	G2	Stage III	667	male	Yes	1
+TCGA-F7-A624-01A	TCGA-F7-A624-01A	-0.0239	2.924	0.2914	0.005872		73	not hispanic or latino	white	Primary Tumor	G3		378	male	Yes	1
+TCGA-D6-A6EK-01A	TCGA-D6-A6EK-01A	-0.0241	1.895	-0.0204	0.01724		67	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	875	male	No	4
+TCGA-BA-A6DI-01A	TCGA-BA-A6DI-01A	-0.0258	2.912	-0.0456	0.1135	Negative	62	not hispanic or latino	black or african american	Primary Tumor	G2	Stage III	336	male	Yes	2
+TCGA-BA-A6DG-01A	TCGA-BA-A6DG-01A	-0.026200000000000005	3.755	-0.0253	0.01911	Negative	49	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	69	male	Yes	3
+TCGA-CV-6003-01A	TCGA-CV-6003-01A	-0.0263	3.327	-0.1039	0		50	not hispanic or latino	white	Primary Tumor	G2	Stage II	1665	female	Yes	1
+TCGA-UF-A7JA-01A	TCGA-UF-A7JA-01A	-0.0264	3.095	-0.0421	0.3499		66	not reported	white	Primary Tumor	G2	Stage IVA	2265	female	Yes	2
+TCGA-IQ-7632-01A	TCGA-IQ-7632-01A	-0.026600000000000002	3	0.0506	0.04083		68	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	441	female	No	3
+TCGA-CV-A6JO-01B	TCGA-CV-A6JO-01B	-0.0275	3.064	-0.0273	0.02675		69	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	197	male	No	4
+TCGA-D6-A6EN-01A	TCGA-D6-A6EN-01A	-0.028	2.264	-0.0095	0		71	not hispanic or latino	white	Primary Tumor	G3	Stage III	687	male	No	5
+TCGA-CR-7379-01A	TCGA-CR-7379-01A	-0.0282	4.513	0.1193	0.03877	Negative	78	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1036	female	No	3
+TCGA-CV-A45T-01A	TCGA-CV-A45T-01A	-0.028299999999999995	3.355	-0.0323	0.05926		64	not hispanic or latino	white	Primary Tumor	G3	Stage II	4856	female	Yes	4
+TCGA-BB-7863-01A	TCGA-BB-7863-01A	-0.0288		-0.0127			43	hispanic or latino	white	Primary Tumor	G2	Stage III	1025	female	Yes	1
+TCGA-CN-A642-01A	TCGA-CN-A642-01A	-0.029299999999999996	3.125	-0.0343	0.1379		57	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	82	male	Yes	4
+TCGA-CQ-A4C6-01A	TCGA-CQ-A4C6-01A	-0.0296	3.301	-0.0562	0.01207		63	not hispanic or latino	asian	Primary Tumor	G2	Stage II	1353	male	Yes	4
+TCGA-CV-7090-01A	TCGA-CV-7090-01A	-0.0301	2.897	-0.2485	0.006418		39	not hispanic or latino	white	Primary Tumor	G2	Stage II	5252	male	No	
+TCGA-HD-7917-01A	TCGA-HD-7917-01A	-0.0322		-0.0347			62	not hispanic or latino	white	Primary Tumor	G1	Stage II	836	male	Yes	2
+TCGA-HD-8314-01A	TCGA-HD-8314-01A	-0.033	2.412	-0.0253	1.443		58	not hispanic or latino	white	Primary Tumor	G4	Stage III	670	male	No	1
+TCGA-CN-A49A-01A	TCGA-CN-A49A-01A	-0.0337	3.548	-0.0361	0.04161		60	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	526	male	Yes	1
+TCGA-IQ-7631-01A	TCGA-IQ-7631-01A	-0.0342	2.497	-0.0685	0.3804		60	not hispanic or latino	white	Primary Tumor	G1	Stage II	1172	female	No	3
+TCGA-H7-7774-01A	TCGA-H7-7774-01A	-0.0342	1.505	0.3238	0.07526		75	not hispanic or latino	white	Primary Tumor	G2	Stage III	407	female	Yes	4
+TCGA-P3-A6SW-01A	TCGA-P3-A6SW-01A	-0.0344	2.35	-0.0428	0.541		50	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1120	male	Yes	2
+TCGA-CV-A6JZ-01A	TCGA-CV-A6JZ-01A	-0.0356	2.633	-0.0316	0.01926		68	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	714	male	Yes	2
+TCGA-HD-7754-01A	TCGA-HD-7754-01A	-0.036	2.479	-0.0351	1.153		69	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	783	male	Yes	4
+TCGA-D6-6516-01A	TCGA-D6-6516-01A	-0.0363	2.378	0.1962	0.03648		69	not hispanic or latino	white	Primary Tumor	G2	Stage III	773	male	No	4
+TCGA-P3-A6T3-01A	TCGA-P3-A6T3-01A	-0.0364	3.666	-0.356	0.007275		49	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	577	male	Yes	1
+TCGA-QK-A6II-01A	TCGA-QK-A6II-01A	-0.0367	1.848	-0.0223	0.006283		52	not hispanic or latino	white	Primary Tumor	G2	Stage III	284	male	Yes	2
+TCGA-CN-A63V-01A	TCGA-CN-A63V-01A	-0.0371	3.558	-0.0293	0.06371		59	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	679	male	No	2
+TCGA-CV-6943-01A	TCGA-CV-6943-01A	-0.0382	2.847	0.0265	0.03992		74	not hispanic or latino	white	Primary Tumor	G2	Stage III	602	male	Yes	3
+TCGA-CN-4739-01A	TCGA-CN-4739-01A	-0.0395	2.52	0.0398	0.3345		71	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1394	male	Yes	4
+TCGA-CN-4741-01A	TCGA-CN-4741-01A	-0.0396	1.976	-0.0555	0.6658		75	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	2239	male	No	4
+TCGA-CQ-5334-01A	TCGA-CQ-5334-01A	-0.0401	2.841	-0.0361	0.02852		87	not hispanic or latino	white	Primary Tumor	G2	Stage IVB	129	male	No	3
+TCGA-P3-A5Q5-01A	TCGA-P3-A5Q5-01A	-0.0405	2.659	-0.0395	0.284		54	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	910	male	Yes	4
+TCGA-QK-A6VC-01A	TCGA-QK-A6VC-01A	-0.0408	2.965	-0.0234	0.2327	Negative	62	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	600	female	No	4
+TCGA-BA-6872-01A	TCGA-BA-6872-01A	-0.0411	2.537	-0.0355	0.06278		47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	384	male	Yes	2
+TCGA-CQ-7069-01A	TCGA-CQ-7069-01A	-0.0423	3.378	-0.029399999999999996	0		77	not hispanic or latino	white	Primary Tumor	G2	Stage II	1274	female	Yes	1
+TCGA-BA-5151-01A	TCGA-BA-5151-01A	-0.0426	3.084	-0.0331	0.04824		72	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	722	male	Yes	3
+TCGA-P3-A6T4-01A	TCGA-P3-A6T4-01A	-0.0446	2.953	0.0863	0.2387		54	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	62	male	Yes	2
+TCGA-CV-7422-01A	TCGA-CV-7422-01A	-0.0451	2.744	0.1405	0.5848		60	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1037	female	Yes	4
+TCGA-BA-5559-01A	TCGA-BA-5559-01A	-0.0454	2.817	0.3146	1.59		71	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2083	male	Yes	1
+TCGA-CQ-7068-01A	TCGA-CQ-7068-01A	-0.0457	3.408	-0.031099999999999996	0.1618		80	not hispanic or latino	white	Primary Tumor	G2	Stage II	1309	female	No	1
+TCGA-CN-5366-01A	TCGA-CN-5366-01A	-0.0473	3.68	-0.0506	0.01878		51	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	360	male	Yes	2
+TCGA-MT-A67A-01A	TCGA-MT-A67A-01A	-0.0483	2.334	0.2571	0.07298		85	not hispanic or latino	white	Primary Tumor	G2	Stage I	914	female	Yes	1
+TCGA-BA-5557-01A	TCGA-BA-5557-01A	-0.049800000000000004	3.041	-0.0133	0		41	hispanic or latino	not reported	Primary Tumor	G2	Stage IVA	623	female	Yes	1
+TCGA-CN-4729-01A	TCGA-CN-4729-01A	-0.0499	2.957	0.0606	0.3125		73	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	392	male	Yes	4
+TCGA-CN-A6V6-01A	TCGA-CN-A6V6-01A	-0.05059999999999999	2.762	0.2703	0.4872	Positive	59	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	635	male	Yes	4
+TCGA-T2-A6X2-01A	TCGA-T2-A6X2-01A	-0.0514	3.011	-0.0188	0.1014	Negative	82	not hispanic or latino	white	Primary Tumor	G1	Stage III	987	male	Yes	3
+TCGA-MT-A51X-01A	TCGA-MT-A51X-01A	-0.0516	3.246	-0.3191	0.04664		30	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	242	male	No	2
+TCGA-QK-A8Z7-01A	TCGA-QK-A8Z7-01A	-0.05199999999999999	2.69	0.001	1.025		59	not hispanic or latino	black or african american	Primary Tumor		Stage IVA	392	male	Yes	2
+TCGA-CV-A6JN-01A	TCGA-CV-A6JN-01A	-0.05210000000000001	2.171	0.0208	0.006844		53	not hispanic or latino	white	Primary Tumor	G1	Stage II	906	male	Yes	2
+TCGA-CR-6492-01A	TCGA-CR-6492-01A	-0.05240000000000001	2.437	0.0004	0.08375	Negative	78	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	479	male	Yes	2
+TCGA-CV-7434-01A	TCGA-CV-7434-01A	-0.055499999999999994	2.708	-0.057	0.02018		64	not hispanic or latino	white	Primary Tumor	G2	Stage III	218	male	Yes	4
+TCGA-BA-A4IG-01A	TCGA-BA-A4IG-01A	-0.0556	3.32	0.0677	0.5041		77	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	855	male	Yes	3
+TCGA-CV-A6JY-01A	TCGA-CV-A6JY-01A	-0.05659999999999999	3.431	-0.0564	0.1818		69	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	646	male	Yes	2
+TCGA-CV-7255-01A	TCGA-CV-7255-01A	-0.0582	3.313	-0.0649	0		32	not hispanic or latino	white	Primary Tumor	G2	Stage II	64	female	Yes	1
+TCGA-CV-A463-01A	TCGA-CV-A463-01A	-0.0585	2.749	-0.0643	0.2259		82	hispanic or latino	white	Primary Tumor	G2	Stage IVA	23	female	No	1
+TCGA-P3-A6T2-01A	TCGA-P3-A6T2-01A	-0.0593	2.891	-0.0274	0.03637		45	not hispanic or latino	white	Primary Tumor	G2	Stage II	2298	male	Yes	1
+TCGA-CQ-A4C9-01A	TCGA-CQ-A4C9-01A	-0.0593	1.949	0.0057	0.4148		56	not reported	not reported	Primary Tumor	G2		707	male	No	2
+TCGA-CV-6936-01A	TCGA-CV-6936-01A	-0.06040000000000001	2.704	-0.034	0.2557		68	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	166	male	Yes	2
+TCGA-CN-6013-01A	TCGA-CN-6013-01A	-0.0608	2.629	-0.0696	0.07531	Negative	56	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	727	male	Yes	1
+TCGA-BB-A5HU-01A	TCGA-BB-A5HU-01A	-0.061200000000000004	3.508	-0.2222	0.02356	Negative	47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	782	male	Yes	1
+TCGA-CV-6951-01A	TCGA-CV-6951-01A	-0.061500000000000006	2.417	-0.0222	0.06095		57	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	915	male	Yes	4
+TCGA-CV-7252-01A	TCGA-CV-7252-01A	-0.062099999999999995	3.826	0.0091	0.01717		62	not hispanic or latino	black or african american	Primary Tumor	G2	Stage III	151	female	No	1
+TCGA-HD-7229-01A	TCGA-HD-7229-01A	-0.0635	2.652	-0.027	0.02396		60	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1027	male	No	3
+TCGA-CV-7440-01A	TCGA-CV-7440-01A	-0.0637	5.532	0.196	0.1941		38	not hispanic or latino	white	Primary Tumor	GX	Stage II	675	male	No	2
+TCGA-CV-7243-01A	TCGA-CV-7243-01A	-0.0649		0.1406			50	not hispanic or latino	white	Primary Tumor	G2	Stage II	954	male	Yes	1
+TCGA-CV-A45X-01A	TCGA-CV-A45X-01A	-0.0652	3.709	-0.0586	0.02977		47	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	198	male	Yes	2
+TCGA-CV-5444-01A	TCGA-CV-5444-01A	-0.0652	3.002	0.0111	0.1056		64	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVA	2437	male	Yes	4
+TCGA-CQ-5327-01A	TCGA-CQ-5327-01A	-0.0669	2.765	0.0178	0.1177		61	not hispanic or latino	asian	Primary Tumor	G2	Stage IVA	1660	female	No	1
+TCGA-CN-6018-01A	TCGA-CN-6018-01A	-0.0703	4.143	0.0895	0.04435		85	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	580	female	No	1
+TCGA-CV-6961-01A	TCGA-CV-6961-01A	-0.0708	2.995	0.0649	0.5379		61	not hispanic or latino	white	Primary Tumor	G3	Stage II	76	male	Yes	4
+TCGA-CV-A45U-01A	TCGA-CV-A45U-01A	-0.0712	3.185	-0.1007	0.4581		59	not hispanic or latino	white	Primary Tumor	G1	Stage IVA	1079	male	Yes	2
+TCGA-CQ-A4CG-01A	TCGA-CQ-A4CG-01A	-0.0726	4.602	-0.0846	0.01195		78	not hispanic or latino	white	Primary Tumor	G2	Stage II	430	female	Yes	4
+TCGA-MT-A51W-01A	TCGA-MT-A51W-01A	-0.0726	2.412	0.0882	0.08787	Negative	52	not hispanic or latino	white	Primary Tumor	G2	Stage I	437	female	Yes	2
+TCGA-HD-8634-01A	TCGA-HD-8634-01A	-0.0737	3.595	-0.0463	0.09037		51	not hispanic or latino	white	Primary Tumor	G2	Stage I	385	female	Yes	2
+TCGA-CQ-5329-01A	TCGA-CQ-5329-01A	-0.0763	3.064	-0.1166	0.01707		46	not hispanic or latino	white	Primary Tumor	G2	Stage III	2143	female	No	1
+TCGA-HL-7533-01A	TCGA-HL-7533-01A	-0.0769	2.93	-0.0251	0.1826	Positive	65	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1057	male	Yes	3
+TCGA-CN-4723-01A	TCGA-CN-4723-01A	-0.0773	3.359	0.0452	0.4172		67	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1699	male	Yes	4
+TCGA-QK-AA3K-01A	TCGA-QK-AA3K-01A	-0.0787	3.542	-0.015	0.03099		60	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVA	253	male	Yes	2
+TCGA-CV-7421-01A	TCGA-CV-7421-01A	-0.081	3.733	0.035	0.3955		76	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	2	male	No	3
+TCGA-CR-6467-01A	TCGA-CR-6467-01A	-0.0824	2.977	0.24319999999999997	1.571		59	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1777	male	Yes	4
+TCGA-CN-4736-01A	TCGA-CN-4736-01A	-0.0827	2.757	0.0397	0.0241		70	not hispanic or latino	white	Primary Tumor	G2	Stage II	395	female	Yes	4
+TCGA-CV-6937-01A	TCGA-CV-6937-01A	-0.0833	2.327	-0.0696	0.721		71	not hispanic or latino	white	Primary Tumor	G2	Stage II	624	male	No	4
+TCGA-CR-6484-01A	TCGA-CR-6484-01A	-0.0836	2.388	0.06129999999999999	0.02514	Negative	67	not hispanic or latino	asian	Primary Tumor	G2	Stage IVA	354	female	No	1
+TCGA-CV-7415-01A	TCGA-CV-7415-01A	-0.0867	4.106	-0.12470000000000002	0.1206		60	not hispanic or latino	white	Primary Tumor	G2	Stage III	695	male	No	
+TCGA-CQ-7064-01A	TCGA-CQ-7064-01A	-0.087		0.0503			83	not hispanic or latino	white	Primary Tumor	G2	Stage III	1973	female	Yes	1
+TCGA-CR-7390-01A	TCGA-CR-7390-01A	-0.0884	3.815	-0.3534	0.07517	Negative	67	not hispanic or latino	white	Primary Tumor	G2	Stage III	1508	male	Yes	2
+TCGA-DQ-5625-01A	TCGA-DQ-5625-01A	-0.0904	2.584	-0.1	0.02157		52	not hispanic or latino	white	Primary Tumor	G2	Stage II	1133	female	Yes	2
+TCGA-CN-6023-01A	TCGA-CN-6023-01A	-0.0905	2.347	0.251	0.9247	Negative	73	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	1584	male	Yes	3
+TCGA-CV-A465-01A	TCGA-CV-A465-01A	-0.0907	2.683	0.0884	0.06777		24	hispanic or latino	white	Primary Tumor	G1	Stage II	215	male	No	1
+TCGA-CQ-A4CE-01A	TCGA-CQ-A4CE-01A	-0.0927	2.964	0.1339	0.04044		76	not reported	not reported	Primary Tumor	G2	Stage II	897	female	Yes	1
+TCGA-IQ-A61K-01A	TCGA-IQ-A61K-01A	-0.093		-0.0943			70	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	161	female	No	2
+TCGA-BB-4225-01A	TCGA-BB-4225-01A	-0.0934	3.067	0.1646	1.925		73	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	146	male	Yes	4
+TCGA-CN-A499-01A	TCGA-CN-A499-01A	-0.097	3.466	0.0572	0.08381	Positive	60	not hispanic or latino	white	Primary Tumor	G2	Stage I	717	female	Yes	1
+TCGA-CN-A49B-01A	TCGA-CN-A49B-01A	-0.10420000000000001	2.998	0.2962	0.08024	Negative	71	not hispanic or latino	white	Primary Tumor	G3	Stage III	904	male	Yes	4
+TCGA-BA-6873-01A	TCGA-BA-6873-01A	-0.1101	3.151	-0.093	0.07193		28	hispanic or latino	white	Primary Tumor	G2	Stage IVA	122	male	Yes	2
+TCGA-CN-5356-01A	TCGA-CN-5356-01A	-0.1151	3.686	0.0744	0.2393		56	not hispanic or latino	white	Primary Tumor	G2	Stage III	1409	male	No	2
+TCGA-D6-6826-01A	TCGA-D6-6826-01A	-0.1177	3.398	0.286	0.06852		64	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	348	female	No	1
+TCGA-CN-5363-01A	TCGA-CN-5363-01A	-0.1185	3.101	-0.0094	0		48	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVB	253	male	Yes	2
+TCGA-CR-7389-01A	TCGA-CR-7389-01A	-0.1192	2.578	-0.1307	0.1366		55	not hispanic or latino	black or african american	Primary Tumor	G2	Stage III	392	male	Yes	2
+TCGA-IQ-A61L-01A	TCGA-IQ-A61L-01A	-0.12170000000000002		-0.1019		Negative	72	hispanic or latino	white	Primary Tumor	G1	Stage II	416	female	No	1
+TCGA-CN-5374-01A	TCGA-CN-5374-01A	-0.1307	2.792	-0.0425	0.5419	Positive	56	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	1732	female	Not Reported	2
+TCGA-CN-6995-01A	TCGA-CN-6995-01A	-0.1331	2.388	0.0691	0.4373		78	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	112	male	No	2
+TCGA-BB-A5HZ-01A	TCGA-BB-A5HZ-01A	-0.1357	3.782	-0.02	0.5687		65	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	827	male	Yes	1
+TCGA-CV-5978-01A	TCGA-CV-5978-01A	-0.141	3.695	0.029699999999999997	0.2207		53	not hispanic or latino	black or african american	Primary Tumor	G2	Stage IVB	215	female	Yes	2
+TCGA-CV-5977-01A	TCGA-CV-5977-01A	-0.1411	3.624	-0.1503	0		66	not hispanic or latino	white	Primary Tumor	G2	Stage III	1840	male	Yes	4
+TCGA-CQ-7067-01A	TCGA-CQ-7067-01A	-0.1426		0.0582			75	not hispanic or latino	white	Primary Tumor	G3	Stage I	509	female	No	
+TCGA-IQ-A61E-01A	TCGA-IQ-A61E-01A	-0.1458	3.105	-0.0105	0.01364		55	not hispanic or latino	white	Primary Tumor	G2	Stage III	1147	female	Yes	2
+TCGA-D6-A6EM-01A	TCGA-D6-A6EM-01A	-0.1466	1.736	0.0909	0		65	not hispanic or latino	white	Primary Tumor	G2	Stage III	232	female	No	1
+TCGA-CV-6941-01A	TCGA-CV-6941-01A	-0.1486	3.71	0.0033	0.389		51	not hispanic or latino	white	Primary Tumor	G2	Stage III	342	male	Yes	2
+TCGA-CV-7178-01A	TCGA-CV-7178-01A	-0.1491	2.75	-0.1503	0.01404		64	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2166	female	Yes	3
+TCGA-C9-A47Z-01A	TCGA-C9-A47Z-01A	-0.1502	3.692	0.1399	0.006925		72	not hispanic or latino	asian	Primary Tumor	G1	Stage III	191	female	No	1
+TCGA-CN-4740-01A	TCGA-CN-4740-01A	-0.152	2.895	0.0069	0.3784		79	not reported	white	Primary Tumor	G2	Stage IVA	839	female	Yes	4
+TCGA-MZ-A7D7-01A	TCGA-MZ-A7D7-01A	-0.1583	4.463	-0.2909	0.04738		51	not hispanic or latino	white	Primary Tumor		Stage IVA	547	male	Yes	2
+TCGA-F7-A50G-01A	TCGA-F7-A50G-01A	-0.1619	3.03	0.0786	0.02033		66	not hispanic or latino	white	Primary Tumor	G1		616	male	No	2
+TCGA-D6-A6EP-01A	TCGA-D6-A6EP-01A	-0.172	1.5	-0.2838	0		62	not hispanic or latino	white	Primary Tumor	G3	Stage III	424	male	No	3
+TCGA-P3-A5Q6-01A	TCGA-P3-A5Q6-01A	-0.1747	2.796	0.073	0.1919		49	not hispanic or latino	white	Primary Tumor	G3	Stage III	480	male	Yes	4
+TCGA-HD-A6HZ-01A	TCGA-HD-A6HZ-01A	-0.1759	3.834	0.026	0.1749		79	not hispanic or latino	white	Primary Tumor	G2	Stage II	111	female	No	1
+TCGA-CR-7371-01A	TCGA-CR-7371-01A	-0.1841	2.74	0.0861	0.4439		45	not hispanic or latino	white	Primary Tumor	G2	Stage III	94	female	No	2
+TCGA-F7-A620-01A	TCGA-F7-A620-01A	-0.1894	2.724	0.0154	0.04101		47	not hispanic or latino	white	Primary Tumor	G1		543	male	Yes	2
+TCGA-CR-6477-01A	TCGA-CR-6477-01A	-0.1922	2.765	0.0139	0.02662	Negative	56	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	514	female	Yes	3
+TCGA-TN-A7HI-01A	TCGA-TN-A7HI-01A	-0.193	1.558	0.213	0.2126	Positive	56	not hispanic or latino	white	Primary Tumor	G3	Stage I	412	male	Yes	2
+TCGA-UF-A71E-01A	TCGA-UF-A71E-01A	-0.1947	2.734	0.1053	0.2342		63	not reported	white	Primary Tumor	G3	Stage IVA	1504	male	Yes	1
+TCGA-D6-8568-01A	TCGA-D6-8568-01A	-0.21960000000000002	3.544	0.0128	0.1306		62	not hispanic or latino	white	Primary Tumor	G2	Stage II	759	male	Yes	2
+TCGA-CR-7399-01A	TCGA-CR-7399-01A	-0.22090000000000004	3.001	0.0835	0.6856		60	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	181	female	Yes	2
+TCGA-BB-A5HY-01A	TCGA-BB-A5HY-01A	-0.2245	2.989	0.5464	0.2422	Negative	64	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	321	male	Yes	2
+TCGA-BA-5152-01A	TCGA-BA-5152-01A	-0.247	2.315	0.0984	0.1512		56	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1288	male	Yes	1
+TCGA-CR-7385-01A	TCGA-CR-7385-01A	-0.2511	2.133	0.0368	0.6272		42	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	997	male	Yes	3
+TCGA-QK-A6IG-01A	TCGA-QK-A6IG-01A	-0.2535	2.68	-0.056	0.05133		69	not hispanic or latino	white	Primary Tumor	G2	Stage II	222	male	Yes	4
+TCGA-BB-7861-01A	TCGA-BB-7861-01A	-0.2554		-0.0131		Positive	56	not hispanic or latino	white	Primary Tumor		Stage III	682	male	No	2
+TCGA-DQ-7593-01A	TCGA-DQ-7593-01A	-0.2586		0.0388			58	not reported	white	Primary Tumor	G4	Stage IVA	1224	male	Yes	2
+TCGA-CV-A45R-01A	TCGA-CV-A45R-01A	-0.2644	2.907	0.1451	0.1109		46	hispanic or latino	white	Primary Tumor	G1	Stage III	5480	male	Yes	4
+TCGA-CV-A6JE-01A	TCGA-CV-A6JE-01A	-0.2857	1.756	-0.0443	0.02226		78	not hispanic or latino	white	Primary Tumor	G2	Stage II	1075	male	Yes	4
+TCGA-CR-7380-01A	TCGA-CR-7380-01A	-0.2893	2.484	-0.0471	0.01417		58	not hispanic or latino	white	Primary Tumor	G2	Stage III	606	male	Yes	1
+TCGA-KU-A6H7-01A	TCGA-KU-A6H7-01A	-0.2905	1.85	0.0834	0.6321		55	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	586	female	Yes	4
+TCGA-RS-A6TO-01A	TCGA-RS-A6TO-01A	-0.29386282819755166	3.259	0.1301	0.104		82	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	387	female	No	1
+TCGA-CN-4727-01A	TCGA-CN-4727-01A	-0.2993	2.881	0.2037	0.2118	Negative	56	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	1560	male	Yes	4
+TCGA-BA-6871-01A	TCGA-BA-6871-01A	-0.3009	2.836	0.3787	0.8863		75	not reported	white	Primary Tumor	G2	Stage IVA	108	male	Yes	4
+TCGA-CV-7413-01A	TCGA-CV-7413-01A	-0.3013	2.334	0.05979999999999999	0.09616		74	not hispanic or latino	white	Primary Tumor	G2	Stage II	294	female	No	
+TCGA-T3-A92N-01A	TCGA-T3-A92N-01A	-0.3022	2.454	0.3652	0.1105		79	not hispanic or latino	black or african american	Primary Tumor	G3	Stage IVC	95	male	No	2
+TCGA-CV-5973-01A	TCGA-CV-5973-01A	-0.3066	1.628	0.05929999999999999	0.007181		62	not hispanic or latino	white	Primary Tumor	G3	Stage III	2641	female	No	1
+TCGA-F7-A50J-01A	TCGA-F7-A50J-01A	-0.3107	3.203	0.0515	0.01611		67	not hispanic or latino	white	Primary Tumor	G2		947	female	Yes	4
+TCGA-DQ-7592-01A	TCGA-DQ-7592-01A	-0.3289	2.469	-0.0229	0.03439		57	not hispanic or latino	american indian or alaska native	Primary Tumor	G2	Stage IVA	1143	male	Yes	2
+TCGA-CV-6962-01A	TCGA-CV-6962-01A	-0.3421	2.535	0.0747	1.181		65	hispanic or latino	white	Primary Tumor	G2	Stage III	126	male	No	4
+TCGA-WA-A7GZ-01A	TCGA-WA-A7GZ-01A	-0.3431	2.714	-0.0806	0.04867		58	not hispanic or latino	white	Primary Tumor	G2	Stage II	625	male	Not Reported	2
+TCGA-CR-6472-01A	TCGA-CR-6472-01A	-0.39050000000000007	1.666	0.0939	0.601		59	not hispanic or latino	white	Primary Tumor	G3	Stage IVB	1050	male	Yes	1
+TCGA-CR-7402-01A	TCGA-CR-7402-01A	-0.45609999999999995	2.958	0.0097	0.134		68	not hispanic or latino	white	Primary Tumor	G2	Stage III	911	male	Yes	2
+TCGA-CV-7406-01A	TCGA-CV-7406-01A	-0.4693	1.781	0.011	0.1126		49	not hispanic or latino	white	Primary Tumor	GX	Stage II	1748	male	Yes	4
+TCGA-HD-A633-01A	TCGA-HD-A633-01A	-0.4857	2.201	0.0729	0.02782		74	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	421	male	Yes	1
+TCGA-BA-4076-01A	TCGA-BA-4076-01A	-0.6276	3.066	0.0967	0.1073		39	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	415	male	Yes	2
+TCGA-CV-5442-01A	TCGA-CV-5442-01A	-0.8783	1.732	-0.1836	0.02126		76	not hispanic or latino	white	Primary Tumor	G3	Stage IVA	2327	female	No	4
+TCGA-BB-4227-01A	TCGA-BB-4227-01A	-1.231170975985523	1.324	0.060399999999999995	0.03665		66	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	134	male	Yes	3
+TCGA-CV-7446-01A	TCGA-CV-7446-01A		4.412		1.065		66	not hispanic or latino	white	Primary Tumor	G2	Stage II	1093	male	Yes	2
+TCGA-CN-5361-01A	TCGA-CN-5361-01A		3.907		0.4816		80	not hispanic or latino	white	Primary Tumor	G2		2120	male	Yes	2
+TCGA-CV-7568-01A	TCGA-CV-7568-01A		3.68		0.07271		48	not hispanic or latino	white	Primary Tumor	GX	Stage IVA	927	female	No	4
+TCGA-CQ-6219-01A	TCGA-CQ-6219-01A		3.516		0.06705		50	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	479	female	Yes	2
+TCGA-CV-6938-11A	TCGA-CV-6938-11A		2.912		0.5274		87	not hispanic or latino	white	Solid Tissue Normal	G1	Stage II	144	male	No	3
+TCGA-CV-6960-11A	TCGA-CV-6960-11A		2.835		0.3009		49	not reported	black or african american	Solid Tissue Normal	G3	Stage III	862	male	Yes	4
+TCGA-HD-8635-11A	TCGA-HD-8635-11A		2.804		0.4336		61	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	695	female	Yes	2
+TCGA-CN-4734-01A	TCGA-CN-4734-01A		2.759		0.05863	Negative	70	not hispanic or latino	white	Primary Tumor	G2	Stage II	1690	male	Yes	4
+TCGA-CV-7097-11A	TCGA-CV-7097-11A		2.664		0.308		53	not hispanic or latino	white	Solid Tissue Normal	G3	Stage III	385	male	Yes	4
+TCGA-CV-7440-11A	TCGA-CV-7440-11A		2.634		0.1799		38	not hispanic or latino	white	Solid Tissue Normal	GX	Stage II	675	male	No	2
+TCGA-CV-7416-11A	TCGA-CV-7416-11A		2.603		0.3318		29	not hispanic or latino	white	Solid Tissue Normal	GX	Stage IVA	763	female	Not Reported	1
+TCGA-CV-7255-11A	TCGA-CV-7255-11A		2.589		0.6916		32	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	64	female	Yes	1
+TCGA-CV-7406-11A	TCGA-CV-7406-11A		2.579		0.03227		49	not hispanic or latino	white	Solid Tissue Normal	GX	Stage II	1748	male	Yes	4
+TCGA-CV-7245-11A	TCGA-CV-7245-11A		2.564		0.081		62	hispanic or latino	white	Solid Tissue Normal	G2	Stage III	797	male	No	4
+TCGA-CV-6955-11A	TCGA-CV-6955-11A		2.545		0.0723		74	not hispanic or latino	white	Solid Tissue Normal	G3	Stage II	334	female	No	1
+TCGA-CV-7425-11A	TCGA-CV-7425-11A		2.506		0.02157		77	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	1718	female	No	1
+TCGA-CV-6959-11A	TCGA-CV-6959-11A		2.448		0.186		48	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	256	male	Yes	1
+TCGA-HD-A6I0-11A	TCGA-HD-A6I0-11A		2.438		0.01736		56	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	210	male	Yes	3
+TCGA-CV-7438-11A	TCGA-CV-7438-11A		2.435		0.1869		87	not hispanic or latino	white	Solid Tissue Normal	G3	Stage II	194	female	No	1
+TCGA-CV-7261-11A	TCGA-CV-7261-11A		2.42		0.3961		57	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	1512	male	No	2
+TCGA-CV-6943-11A	TCGA-CV-6943-11A		2.414		0.29		74	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	602	male	Yes	3
+TCGA-CV-7434-11A	TCGA-CV-7434-11A		2.409		0.3943		64	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	218	male	Yes	4
+TCGA-CV-7091-11A	TCGA-CV-7091-11A		2.397		0.01563		54	not hispanic or latino	white	Solid Tissue Normal	G3	Stage I	3381	male	Yes	4
+TCGA-CV-6956-11A	TCGA-CV-6956-11A		2.376		0.1552		67	hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	217	male	Yes	2
+TCGA-CV-7238-11A	TCGA-CV-7238-11A		2.35		0.1742		69	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	2727	female	No	1
+TCGA-CV-7242-11A	TCGA-CV-7242-11A		2.313		0.2966		60	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	1095	female	Yes	3
+TCGA-CV-6961-11A	TCGA-CV-6961-11A		2.232		0.185		61	not hispanic or latino	white	Solid Tissue Normal	G3	Stage II	76	male	Yes	4
+TCGA-CV-7235-11A	TCGA-CV-7235-11A		2.228		0.1168		67	not hispanic or latino	white	Solid Tissue Normal	G3	Stage III	2347	male	Yes	3
+TCGA-CV-7424-11A	TCGA-CV-7424-11A		2.225		0.1822		67	not hispanic or latino	asian	Solid Tissue Normal	G2	Stage IVA	453	male	No	4
+TCGA-CQ-6222-01A	TCGA-CQ-6222-01A		2.216		0.02882		63	not hispanic or latino	white	Primary Tumor	G2	Stage IVA	2016	male	No	3
+TCGA-CV-7252-11A	TCGA-CV-7252-11A		2.187		0.3541		62	not hispanic or latino	black or african american	Solid Tissue Normal	G2	Stage III	151	female	No	1
+TCGA-CV-7250-11A	TCGA-CV-7250-11A		2.165		0.3205		64	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	2900	male	Yes	3
+TCGA-WA-A7GZ-11A	TCGA-WA-A7GZ-11A		2.04		0.1042		58	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	625	male	Not Reported	2
+TCGA-CV-7178-11A	TCGA-CV-7178-11A		2.022		0.4508		64	not hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	2166	female	Yes	3
+TCGA-H7-A6C4-11A	TCGA-H7-A6C4-11A		2.021		0.1283		35	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	414	female	Yes	2
+TCGA-CV-6939-11A	TCGA-CV-6939-11A		1.992		0.01412		60	not reported	white	Solid Tissue Normal	G3	Stage IVA	666	male	No	1
+TCGA-CV-7423-11A	TCGA-CV-7423-11A		1.965		0.0641		65	not hispanic or latino	white	Solid Tissue Normal	G1	Stage II	3059	male	No	3
+TCGA-CV-7432-11A	TCGA-CV-7432-11A		1.951		0.2844		79	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	2570	male	No	4
+TCGA-CV-6936-11A	TCGA-CV-6936-11A		1.926		0.09805		68	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	166	male	Yes	2
+TCGA-CV-7437-11A	TCGA-CV-7437-11A		1.876		0.4943		77	not reported	not reported	Solid Tissue Normal	GX	Stage II	506	male	No	1
+TCGA-CV-7177-11A	TCGA-CV-7177-11A		1.862		0.2169		82	not hispanic or latino	white	Solid Tissue Normal	G2	Stage I	663	female	No	
+TCGA-CV-6935-11A	TCGA-CV-6935-11A		1.86		0.2556		67	not hispanic or latino	white	Solid Tissue Normal	G3	Stage III	295	male	Yes	2
+TCGA-CV-7103-11A	TCGA-CV-7103-11A		1.855		0.5895		49	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	1591	male	Yes	2
+TCGA-H7-A6C5-11A	TCGA-H7-A6C5-11A		1.834		0.2252		65	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	642	male	Yes	4
+TCGA-CV-6933-11A	TCGA-CV-6933-11A		1.795		0.2229		53	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	2741	male	Yes	4
+TCGA-CV-6934-11A	TCGA-CV-6934-11A		1.733		0.2519		66	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	65	female	No	2
+TCGA-CV-7183-11A	TCGA-CV-7183-11A		1.68		0.2244		53	not hispanic or latino	white	Solid Tissue Normal	G1	Stage II	3981	male	No	3
+TCGA-CV-7101-11A	TCGA-CV-7101-11A		1.634		0.418		80	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	160	male	Yes	2
+TCGA-CV-6962-11A	TCGA-CV-6962-11A		1.456		0.2531		65	hispanic or latino	white	Solid Tissue Normal	G2	Stage III	126	male	No	4
+TCGA-HD-A6HZ-11A	TCGA-HD-A6HZ-11A		1.24		0.01133		79	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	111	female	No	1
+TCGA-CV-7095-11A	TCGA-CV-7095-11A						87	hispanic or latino	not reported	Solid Tissue Normal	G2	Stage IVA	572	female	No	3
+TCGA-CV-6953-11A	TCGA-CV-6953-11A						80	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	1641	female	No	1
+TCGA-CV-5442-11A	TCGA-CV-5442-11A						76	not hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	2327	female	No	4
+TCGA-CV-7413-11A	TCGA-CV-7413-11A						74	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	294	female	No	
+TCGA-CV-7089-11A	TCGA-CV-7089-11A						74	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	1972	male	Yes	4
+TCGA-CV-5431-11A	TCGA-CV-5431-11A						73	hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	522	male	Yes	4
+TCGA-CV-5432-11B	TCGA-CV-5432-11B						68	not hispanic or latino	white	Solid Tissue Normal	G3	Stage III	3930	male	Not Reported	4
+TCGA-CV-5977-11A	TCGA-CV-5977-11A						66	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	1840	male	Yes	4
+TCGA-CV-5436-11A	TCGA-CV-5436-11A						65	hispanic or latino	not reported	Solid Tissue Normal	G2	Stage IVA	584	male	Yes	2
+TCGA-CV-6952-11A	TCGA-CV-6952-11A						65	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	185	female	Yes	4
+TCGA-CV-7263-11A	TCGA-CV-7263-11A						64	not reported	black or african american	Solid Tissue Normal	G1	Stage II	560	male	No	3
+TCGA-CV-5444-11A	TCGA-CV-5444-11A						64	not hispanic or latino	black or african american	Solid Tissue Normal	G3	Stage IVA	2437	male	Yes	4
+TCGA-CV-7248-11A	TCGA-CV-7248-11A						63	not hispanic or latino	black or african american	Solid Tissue Normal	G2	Stage IVA	521	female	No	2
+TCGA-CV-5443-11A	TCGA-CV-5443-11A						63	not hispanic or latino	black or african american	Solid Tissue Normal	G3	Stage III	2784	male	Yes	2
+TCGA-CV-5966-11A	TCGA-CV-5966-11A						63	not hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	545	female	Yes	4
+TCGA-CV-7418-11A	TCGA-CV-7418-11A						62	not hispanic or latino	black or african american	Solid Tissue Normal	G2	Stage IVA	789	male	Yes	4
+TCGA-CV-5439-11B	TCGA-CV-5439-11B						62	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	546	male	Yes	2
+TCGA-CV-6436-11A	TCGA-CV-6436-11A						62	not hispanic or latino	white	Solid Tissue Normal	G1	Stage III	1899	male	No	3
+TCGA-CV-5973-11A	TCGA-CV-5973-11A						62	not hispanic or latino	white	Solid Tissue Normal	G3	Stage III	2641	female	No	1
+TCGA-CV-5430-11B	TCGA-CV-5430-11B						61	hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	4241	male	Yes	3
+TCGA-CV-6441-11A	TCGA-CV-6441-11A						60	hispanic or latino	white	Solid Tissue Normal	G3	Stage III	292	male	Yes	4
+TCGA-CV-5434-11B	TCGA-CV-5434-11B						60	not hispanic or latino	black or african american	Solid Tissue Normal	G2	Stage IVA	3314	male	No	3
+TCGA-CV-5971-11A	TCGA-CV-5971-11A						60	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	701	male	Yes	2
+TCGA-CV-5970-11A	TCGA-CV-5970-11A						59	hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	406	male	Yes	4
+TCGA-CV-6954-11A	TCGA-CV-6954-11A						59	not reported	black or african american	Solid Tissue Normal	G2	Stage IVA	2002	male	Yes	3
+TCGA-CV-5441-11A	TCGA-CV-5441-11A						58	not hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	2886	male	Yes	4
+TCGA-CV-7435-11A	TCGA-CV-7435-11A						57	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	4680	female	No	2
+TCGA-CV-6951-11A	TCGA-CV-6951-11A						57	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	915	male	Yes	4
+TCGA-CV-6433-11A	TCGA-CV-6433-11A						57	not hispanic or latino	white	Solid Tissue Normal	G3	Stage II	641	male	Yes	2
+TCGA-CV-5435-11B	TCGA-CV-5435-11B						57	not hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	2319	male	Yes	4
+TCGA-CV-7430-11A	TCGA-CV-7430-11A						56	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	495	male	No	4
+TCGA-CV-7247-11A	TCGA-CV-7247-11A						55	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	577	male	No	1
+TCGA-CV-5978-11A	TCGA-CV-5978-11A						53	not hispanic or latino	black or african american	Solid Tissue Normal	G2	Stage IVB	215	female	Yes	2
+TCGA-CV-5440-11A	TCGA-CV-5440-11A						52	not hispanic or latino	white	Solid Tissue Normal	G3	Stage IVA	3270	male	Yes	2
+TCGA-CV-6003-11A	TCGA-CV-6003-11A						50	not hispanic or latino	white	Solid Tissue Normal	G2	Stage II	1665	female	Yes	1
+TCGA-CV-5976-11A	TCGA-CV-5976-11A						50	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	1478	male	Yes	4
+TCGA-CV-7428-11A	TCGA-CV-7428-11A						47	not hispanic or latino	white	Solid Tissue Normal	G2	Stage IVA	1671	male	Yes	2
+TCGA-CV-5979-11A	TCGA-CV-5979-11A						26	not hispanic or latino	white	Solid Tissue Normal	G2	Stage III	1315	male	Yes	1

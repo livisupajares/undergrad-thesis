@@ -1,0 +1,243 @@
+﻿sample,hepatitis status,hepatitis virus type,sample type,infection status sample,GLS1 Copy Number Segment,GLS1 copy number status,GLS1 copy number status 2,GLS1 expression fpkm,GLS2 Copy Number Segment,GLS2 copy number status,GLS2 copy number status 2,GLS2 expression fpkm,age at initial pathologic diagnosis,ethnicity,race,gender,bmi,bmi category,sample type 2,neoplasm histologic grade,clinical stage,OS.time.days
+TCGA-DD-A3A7-01A,negative,,tumor,tumor negative,0.7564,amplification,copy number change,2.93,0.52,amplification,copy number change,0.2596,67,,,male,22.63,normal,Primary Tumor,G3,Stage III,419
+TCGA-RC-A7SK-01A,positive,HCV,tumor,tumor positive,0.7057,amplification,copy number change,3.254,0.1225,no change,no change,3.309,59,not hispanic or latino,asian or other,male,21.01,normal,Primary Tumor,G3,Stage I,472
+TCGA-DD-A1EL-01A,positive,HBV,tumor,tumor positive,0.6468,amplification,copy number change,3.837,-0.1237,no change,no change,0.03056,23,not hispanic or latino,black or african american,male,16.3,underweight,Primary Tumor,G3,Stage II,415
+TCGA-BW-A5NP-01A,positive,HBV,tumor,tumor positive,0.6357,amplification,copy number change,2.849,-0.1037,no change,no change,0.1365,26,hispanic or latino,white,female,,,Primary Tumor,G3,Stage IV,
+TCGA-PD-A5DF-01A,negative,,tumor,tumor negative,0.4515,amplification,copy number change,3.092,0.127,no change,no change,0.2993,58,not hispanic or latino,white,female,25.82,overweight,Primary Tumor,G2,Stage III,639
+TCGA-DD-A39W-01A,negative,,tumor,tumor negative,0.4366,amplification,copy number change,2.215,-0.0396,no change,no change,0.116,29,not hispanic or latino,white,female,23.62,normal,Primary Tumor,G2,Stage III,827
+TCGA-CC-A7II-01A,positive,HBV,tumor,tumor positive,0.4033,amplification,copy number change,2.244,0.0558,no change,no change,0.07568,54,not hispanic or latino,asian or other,male,18.42,underweight,Primary Tumor,G3,Stage III,399
+TCGA-CC-A7IK-01A,positive,HBV,tumor,tumor positive,0.3351,amplification,copy number change,1.897,0.0303,no change,no change,0.04428,59,not hispanic or latino,asian or other,male,20.2,normal,Primary Tumor,G3,Stage III,262
+TCGA-DD-A73D-01A,positive,HCV,tumor,tumor positive,0.3179,amplification,copy number change,0.26,-0.2606,no change,no change,0.02076,68,not hispanic or latino,white,female,35.29,obese,Primary Tumor,G1,Stage II,693
+TCGA-DD-A11C-01A,negative,,tumor,tumor negative,0.2992,no change,no change,1.209,0.0446,no change,no change,3.667,69,not hispanic or latino,white,male,35.55,obese,Primary Tumor,G3,Stage I,662
+TCGA-G3-A25Z-01A,positive,HBV,tumor,tumor positive,0.2976,no change,no change,1.059,0.0223,no change,no change,1.833,58,not hispanic or latino,asian or other,male,23.05,normal,Primary Tumor,G2,Stage I,655
+TCGA-ED-A7PY-01A,negative,,tumor,tumor negative,0.2838,no change,no change,2.918,-0.0231,no change,no change,0.8392,20,not hispanic or latino,asian or other,female,16.44,underweight,Primary Tumor,G3,Stage II,390
+TCGA-DD-A3A9-01A,negative,,tumor,tumor negative,0.2771,no change,no change,2.223,-0.0038,no change,no change,0,64,not hispanic or latino,white,female,21.97,normal,Primary Tumor,G2,Stage IV,931
+TCGA-BC-A10R-01A,negative,,tumor,tumor negative,0.272,no change,no change,2.366,-0.0423,no change,no change,0.7727,66,not hispanic or latino,white,female,,,Primary Tumor,G2,,308
+TCGA-CC-A123-01A,negative,,tumor,tumor negative,0.2704,no change,no change,1.207,-0.172,no change,no change,0,24,not hispanic or latino,asian or other,female,,,Primary Tumor,G1,Stage III,219
+TCGA-ED-A82E-01A,negative,,tumor,tumor negative,0.2655,no change,no change,3.809,-0.1013,no change,no change,0.04763,60,not hispanic or latino,asian or other,female,19.56,normal,Primary Tumor,G2,Stage III,408
+TCGA-EP-A2KA-01A,negative,,tumor,tumor negative,0.2564,no change,no change,2.38,0.4197,amplification,copy number change,0.05792,52,not hispanic or latino,white,female,,,Primary Tumor,G3,Stage III,627
+TCGA-BC-4072-01B,negative,,tumor,tumor negative,0.255,no change,no change,2.955,-0.0342,no change,no change,0.7615,74,not hispanic or latino,white,female,,,Primary Tumor,G3,Stage III,1490
+TCGA-G3-A25S-01A,negative,,tumor,tumor negative,0.253,no change,no change,1.685,0.0649,no change,no change,0.3316,64,not hispanic or latino,white,male,26.49,overweight,Primary Tumor,G2,Stage I,416
+TCGA-DD-A113-01A,negative,,tumor,tumor negative,0.2528,no change,no change,3.258,0.083,no change,no change,2.346,55,not hispanic or latino,white,female,23.61,normal,Primary Tumor,G3,Stage II,2425
+TCGA-LG-A6GG-01A,negative,,tumor,tumor negative,0.2419,no change,no change,3.587,-0.1563,no change,no change,1.604,79,not hispanic or latino,white,female,26.04,overweight,Primary Tumor,G2,Stage II,387
+TCGA-FV-A496-01A,negative,,tumor,tumor negative,0.2001,no change,no change,2.655,0.1329,no change,no change,0.3147,84,not hispanic or latino,white,female,20.58,normal,Primary Tumor,G2,Stage I,10
+TCGA-G3-A25T-01A,positive,HCV,tumor,tumor positive,0.1992,no change,no change,3.734,0.2102,no change,no change,0.08687,45,not hispanic or latino,white,female,22.95,normal,Primary Tumor,G2,Stage III,1553
+TCGA-G3-A25W-01A,negative,,tumor,tumor negative,0.1955,no change,no change,,-0.0464,no change,no change,,79,not hispanic or latino,white,female,19.47,normal,Primary Tumor,G2,Stage III,935
+TCGA-CC-A5UD-01A,positive,HBV,tumor,tumor positive,0.1894,no change,no change,1.703,0.218,no change,no change,0.06185,45,not hispanic or latino,asian or other,male,21.45,normal,Primary Tumor,G2,Stage III,304
+TCGA-DD-A73E-01A,negative,,tumor,tumor negative,0.1777,no change,no change,0.3321,-0.0675,no change,no change,0.09935,66,not hispanic or latino,white,male,36.51,obese,Primary Tumor,G1,Stage I,44
+TCGA-G3-A7M5-01A,negative,,tumor,tumor negative,0.1717,no change,no change,1.532,0.1516,no change,no change,1.876,76,not hispanic or latino,asian or other,male,25.28,overweight,Primary Tumor,G2,Stage I,447
+TCGA-ES-A2HS-01A,negative,,tumor,tumor negative,0.1708,no change,no change,0.2743,-0.1265,no change,no change,0.3499,80,not hispanic or latino,white,male,29.94,overweight,Primary Tumor,G2,Stage I,688
+TCGA-BC-A5W4-01A,negative,,tumor,tumor negative,0.17,no change,no change,2.601,0.1833,no change,no change,0.01694,69,not hispanic or latino,white,male,31.65,obese,Primary Tumor,G3,Stage III,547
+TCGA-BC-A217-01A,negative,,tumor,tumor negative,0.1632,no change,no change,1.962,-0.1369,no change,no change,0.9701,75,,white,female,30.49,obese,Primary Tumor,G3,Stage II,1397
+TCGA-DD-A11A-01A,positive,HBV,tumor,tumor positive,0.1603,no change,no change,1.544,0.1596,no change,no change,4.146,67,not hispanic or latino,black or african american,male,27.53,overweight,Primary Tumor,G3,Stage I,79
+TCGA-CC-A5UE-01A,positive,HBV,tumor,tumor positive,0.147,no change,no change,2.456,-0.0345,no change,no change,0.09883,48,not hispanic or latino,asian or other,male,21.22,normal,Primary Tumor,G2,Stage III,272
+TCGA-DD-A4NA-01A,negative,,tumor,tumor negative,0.1445,no change,no change,3.446,0.1261,no change,no change,0.04997,67,not hispanic or latino,white,female,33.75,obese,Primary Tumor,G3,Stage III,1008
+TCGA-DD-A39X-01A,negative,,tumor,tumor negative,0.1427,no change,no change,1.714,-0.127,no change,no change,0.2787,78,not hispanic or latino,white,female,20.78,normal,Primary Tumor,G2,Stage I,1694
+TCGA-CC-A7IJ-01A,negative,,tumor,tumor negative,0.1415,no change,no change,3.277,0.142,no change,no change,0.0614,56,not hispanic or latino,asian or other,male,19.83,normal,Primary Tumor,G3,Stage II,382
+TCGA-CC-A3MB-01A,positive,HBV,tumor,tumor positive,0.1323,no change,no change,3.178,0.0347,no change,no change,0.2236,36,not hispanic or latino,asian or other,male,18.72,normal,Primary Tumor,G1,Stage III,315
+TCGA-CC-A3M9-01A,positive,HBV,tumor,tumor positive,0.1312,no change,no change,4.141,-0.1242,no change,no change,0.03197,45,not hispanic or latino,asian or other,male,20.15,normal,Primary Tumor,G3,Stage III,300
+TCGA-DD-A116-01A,positive,HBV,tumor,tumor positive,0.1294,no change,no change,0.7819,0.0821,no change,no change,0.03363,68,not hispanic or latino,asian or other,male,23.84,normal,Primary Tumor,G3,Stage III,1622
+TCGA-CC-A3MA-01A,negative,,tumor,tumor negative,0.127,no change,no change,4.42,-0.5549,deletion,copy number change,0.08316,61,not hispanic or latino,asian or other,male,23.38,normal,Primary Tumor,G2,Stage III,303
+TCGA-DD-A1EJ-01A,negative,,tumor,tumor negative,0.121,no change,no change,2.527,0.1098,no change,no change,0.02131,71,not hispanic or latino,white,female,26.99,overweight,Primary Tumor,G2,Stage III,1005
+TCGA-RC-A7SB-01A,positive,HBV,tumor,tumor positive,0.1176,no change,no change,2.073,0.0889,no change,no change,1.773,53,not hispanic or latino,asian or other,male,22.14,normal,Primary Tumor,G2,Stage II,588
+TCGA-RC-A6M4-01A,negative,,tumor,tumor negative,0.1151,no change,no change,0.5807,-0.2133,no change,no change,0.02194,74,not hispanic or latino,white,female,,,Primary Tumor,G2,Stage III,22
+TCGA-BC-A112-01A,negative,,tumor,tumor negative,0.1103,no change,no change,4.557,0.0481,no change,no change,0.04989,80,not hispanic or latino,white,male,35.63,obese,Primary Tumor,G2,,153
+TCGA-KR-A7K7-01A,negative,,tumor,tumor negative,0.1042,no change,no change,1.212,0.1132,no change,no change,0.01349,61,,white,female,44.29,obese,Primary Tumor,G1,Stage II,951
+TCGA-DD-A11B-01A,negative,,tumor,tumor negative,0.1034,no change,no change,2.003,0.0793,no change,no change,2.76,73,not hispanic or latino,white,male,40.9,obese,Primary Tumor,G2,Stage I,14
+TCGA-DD-A1EH-01A,positive,HBV,tumor,tumor positive,0.1028,no change,no change,2.473,-0.0471,no change,no change,0.7838,23,not hispanic or latino,white,male,21.85,normal,Primary Tumor,G3,Stage III,1495
+TCGA-DD-A1EG-01A,negative,,tumor,tumor negative,0.0917,no change,no change,0.8726,-0.1772,no change,no change,0.03258,76,not hispanic or latino,white,male,29.05,overweight,Primary Tumor,G3,Stage I,1372
+TCGA-QA-A7B7-01A,positive,HBV,tumor,tumor positive,0.0915,no change,no change,2.551,0.1099,no change,no change,0.6538,48,not hispanic or latino,black or african american,male,33.33,obese,Primary Tumor,G2,Stage II,94
+TCGA-DD-A4NO-01A,positive,HCV,tumor,tumor positive,0.0876,no change,no change,3.136,-0.3001,deletion,copy number change,1.47,65,not hispanic or latino,white,male,35.19,obese,Primary Tumor,G1,Stage I,2245
+TCGA-CC-5263-01A,positive,HBV,tumor,tumor positive,0.0845,no change,no change,2.867,0.0526,no change,no change,0.01687,35,not hispanic or latino,asian or other,male,22.21,normal,Primary Tumor,G1,Stage III,129
+TCGA-UB-A7MB-01A,negative,,tumor,tumor negative,0.0831,no change,no change,2.478,0.1048,no change,no change,1.488,24,not hispanic or latino,white,male,19.14,normal,Primary Tumor,G3,Stage II,601
+TCGA-G3-A5SM-01A,positive,HCV,tumor,tumor positive,0.0793,no change,no change,1.737,-0.0173,no change,no change,1.822,58,not hispanic or latino,white,male,31.31,obese,Primary Tumor,G3,Stage II,520
+TCGA-CC-5260-01A,negative,,tumor,tumor negative,0.0791,no change,no change,4.353,0.0898,no change,no change,0.4518,61,not hispanic or latino,asian or other,female,19.65,normal,Primary Tumor,G1,Stage III,87
+TCGA-BC-A3KG-01A,negative,,tumor,tumor negative,0.0777,no change,no change,2.266,0.0581,no change,no change,0.7634,68,not hispanic or latino,white,female,25.32,overweight,Primary Tumor,G3,Stage II,680
+TCGA-UB-A7MC-01A,positive,HBV,tumor,tumor positive,0.0766,no change,no change,1.366,0.0496,no change,no change,0.07401,59,not hispanic or latino,white,male,25.18,overweight,Primary Tumor,G3,Stage III,500
+TCGA-FV-A4ZP-01A,negative,,tumor,tumor negative,0.0766,no change,no change,0.5805,0.0775,no change,no change,0.042,78,not hispanic or latino,white,male,24.45,normal,Primary Tumor,G2,Stage III,2486
+TCGA-G3-A7M9-01A,negative,,tumor,tumor negative,0.0762,no change,no change,3.036,0.2067,no change,no change,0.1703,70,not hispanic or latino,white,male,25.26,overweight,Primary Tumor,G2,Stage III,56
+TCGA-CC-A7IF-01A,negative,,tumor,tumor negative,0.0755,no change,no change,1.182,0.032,no change,no change,2.275,59,not hispanic or latino,asian or other,male,20.31,normal,Primary Tumor,G1,Stage III,649
+TCGA-K7-A5RG-01A,positive,HCV,tumor,tumor positive,0.0662,no change,no change,2.313,0.0678,no change,no change,1.18,66,not hispanic or latino,black or african american,male,41.1,obese,Primary Tumor,G1,Stage I,519
+TCGA-DD-A1EK-01A,negative,,tumor,tumor negative,0.0643,no change,no change,2.844,0.0284,no change,no change,0.9142,64,not hispanic or latino,white,female,38.37,obese,Primary Tumor,G2,Stage IV,558
+TCGA-DD-A119-01A,positive,HBV,tumor,tumor positive,0.0639,no change,no change,1.633,-0.2158,no change,no change,0.151,40,not hispanic or latino,asian or other,male,22.66,normal,Primary Tumor,G3,Stage IV,223
+TCGA-DD-A73F-01A,negative,,tumor,tumor negative,0.0637,no change,no change,1.785,0.0072,no change,no change,3.437,77,not hispanic or latino,white,female,25.65,overweight,Primary Tumor,G1,Stage I,1085
+TCGA-CC-A1HT-01A,positive,HBV,tumor,tumor positive,0.0627,no change,no change,3.542,-0.0309,no change,no change,0.0745,50,not hispanic or latino,asian or other,male,20.32,normal,Primary Tumor,G3,Stage III,101
+TCGA-G3-A25U-01A,positive,HBV,tumor,tumor positive,0.0601,no change,no change,1.417,0.0518,no change,no change,3.731,63,not hispanic or latino,asian or other,female,20.08,normal,Primary Tumor,G3,Stage I,1636
+TCGA-DD-A3A0-01A,negative,,tumor,tumor negative,0.0577,no change,no change,,-0.0083,no change,no change,,70,not hispanic or latino,white,male,27.77,overweight,Primary Tumor,G2,Stage I,785
+TCGA-CC-5258-01A,positive,HBV,tumor,tumor positive,0.0561,no change,no change,2.477,0.1113,no change,no change,1.08,48,not hispanic or latino,asian or other,male,,,Primary Tumor,G2,Stage II,129
+TCGA-FV-A23B-01A,positive,HCV,tumor,tumor positive,0.0555,no change,no change,2.096,0.0593,no change,no change,1.31,70,not hispanic or latino,white,female,,,Primary Tumor,,Stage II,1852
+TCGA-G3-A25Y-01A,positive,HBV,tumor,tumor positive,0.0551,no change,no change,3.388,0.0624,no change,no change,0.3835,52,not hispanic or latino,asian or other,female,22.83,normal,Primary Tumor,G3,Stage I,452
+TCGA-DD-A118-01A,negative,,tumor,tumor negative,0.0535,no change,no change,2.067,0.0487,no change,no change,0.2067,77,not hispanic or latino,white,female,26.26,overweight,Primary Tumor,G2,Stage II,3437
+TCGA-RC-A6M6-01A,negative,,tumor,tumor negative,0.0519,no change,no change,2.071,0.0811,no change,no change,0.1877,75,not hispanic or latino,white,male,,,Primary Tumor,G3,Stage II,9
+TCGA-G3-A3CH-01A,positive,HBV,tumor,tumor positive,0.0482,no change,no change,1.29,0.0371,no change,no change,2.962,53,not hispanic or latino,asian or other,male,23.36,normal,Primary Tumor,G2,Stage III,780
+TCGA-EP-A3RK-01A,negative,,tumor,tumor negative,0.0479,no change,no change,1.663,0.0364,no change,no change,0.04064,73,not hispanic or latino,white,male,31.88,obese,Primary Tumor,G2,Stage III,363
+TCGA-DD-A3A5-01A,negative,,tumor,tumor negative,0.0477,no change,no change,1.113,0.0227,no change,no change,2.339,66,not hispanic or latino,white,female,20.07,normal,Primary Tumor,G2,Stage III,3125
+TCGA-FV-A2QR-01A,negative,,tumor,tumor negative,0.0455,no change,no change,3.811,-0.0032,no change,no change,0.1163,75,not hispanic or latino,white,male,,,Primary Tumor,G1,Stage I,581
+TCGA-DD-A4NE-01A,negative,,tumor,tumor negative,0.0453,no change,no change,3.985,0.0494,no change,no change,0.3994,75,hispanic or latino,white,female,27.34,overweight,Primary Tumor,G3,Stage III,660
+TCGA-RC-A6M3-01A,negative,,tumor,tumor negative,0.0443,no change,no change,2.682,0.2114,no change,no change,0.2749,24,,asian or other,male,,,Primary Tumor,G3,Stage II,
+TCGA-DD-A4NB-01A,negative,,tumor,tumor negative,0.0441,no change,no change,3.006,0.0425,no change,no change,3.417,25,not hispanic or latino,white,male,20.16,normal,Primary Tumor,G2,Stage I,989
+TCGA-DD-A4NH-01A,negative,,tumor,tumor negative,0.0379,no change,no change,3.501,0.2638,no change,no change,0.166,65,not hispanic or latino,white,female,32.86,obese,Primary Tumor,G3,Stage III,917
+TCGA-G3-A5SI-01A,positive,HCV,tumor,tumor positive,0.0376,no change,no change,2.089,0.0493,no change,no change,1.18,44,not hispanic or latino,asian or other,male,23.62,normal,Primary Tumor,G2,Stage II,768
+TCGA-BC-4073-01B,negative,,tumor,tumor negative,0.0374,no change,no change,3.189,0.0362,no change,no change,0.1307,73,not hispanic or latino,white,male,,,Primary Tumor,G3,Stage III,849
+TCGA-HP-A5N0-01A,negative,,tumor,tumor negative,0.036,no change,no change,2.268,0.0319,no change,no change,1.571,90,,,female,26.71,overweight,Primary Tumor,,,752
+TCGA-ED-A5KG-01A,negative,,tumor,tumor negative,0.0326,no change,no change,3.884,0.0438,no change,no change,0.4863,60,not hispanic or latino,asian or other,female,23.83,normal,Primary Tumor,G2,Stage II,854
+TCGA-DD-A1E9-01A,negative,,tumor,tumor negative,0.0326,no change,no change,,-0.0268,no change,no change,,70,not hispanic or latino,white,male,34.14,obese,Primary Tumor,G2,Stage I,2759
+TCGA-DD-A1EI-01A,positive,HBV,tumor,tumor positive,0.0302,no change,no change,2.862,0.0854,no change,no change,0.5447,46,not hispanic or latino,asian or other,male,22.53,normal,Primary Tumor,G2,Stage I,183
+TCGA-DD-A1EB-01A,negative,,tumor,tumor negative,0.0289,no change,no change,0.9504,0.0112,no change,no change,1.228,72,,,female,21.19,normal,Primary Tumor,G2,Stage I,2017
+TCGA-DD-A3A4-01A,negative,,tumor,tumor negative,0.0274,no change,no change,1.804,0.0316,no change,no change,4.241,37,not hispanic or latino,white,male,18.2,underweight,Primary Tumor,G3,Stage III,612
+TCGA-BC-A69H-01A,negative,,tumor,tumor negative,0.0236,no change,no change,1.391,0.0596,no change,no change,0,64,not hispanic or latino,white,male,23.39,normal,Primary Tumor,G3,Stage II,444
+TCGA-DD-A4NI-01A,negative,,tumor,tumor negative,0.0204,no change,no change,1.57,-0.1091,no change,no change,2.119,67,not hispanic or latino,white,male,33.46,obese,Primary Tumor,G2,Stage II,816
+TCGA-EP-A12J-01A,positive,HCV,tumor,tumor positive,0.0195,no change,no change,0.59,0.0158,no change,no change,0.02094,62,not hispanic or latino,black or african american,male,,,Primary Tumor,G1,Stage I,570
+TCGA-DD-A4NN-01A,negative,,tumor,tumor negative,0.0188,no change,no change,2.524,0.005,no change,no change,0.0716,56,not hispanic or latino,white,female,22.21,normal,Primary Tumor,G3,Stage I,899
+TCGA-BC-A10Z-01A,negative,,tumor,tumor negative,0.0187,no change,no change,2.481,0.0228,no change,no change,3.374,62,not hispanic or latino,white,female,,,Primary Tumor,G2,Stage I,34
+TCGA-FV-A2QQ-01A,negative,,tumor,tumor negative,0.0166,no change,no change,1.922,0.0329,no change,no change,1.049,80,not hispanic or latino,white,male,,,Primary Tumor,G2,Stage I,729
+TCGA-G3-A3CI-01A,negative,,tumor,tumor negative,0.0143,no change,no change,2.895,0.0115,no change,no change,1.701,71,not hispanic or latino,white,male,35.14,obese,Primary Tumor,G2,Stage I,180
+TCGA-NI-A4U2-01A,negative,,tumor,tumor negative,0.014,no change,no change,2.058,0.0183,no change,no change,1.137,71,not hispanic or latino,white,male,28.04,overweight,Primary Tumor,G1,Stage III,1791
+TCGA-DD-A1ED-01A,negative,,tumor,tumor negative,0.0135,no change,no change,1.515,0.003,no change,no change,0.2864,68,not hispanic or latino,white,male,30.12,obese,Primary Tumor,G1,Stage I,2301
+TCGA-CC-5262-01A,positive,HBV,tumor,tumor positive,0.0134,no change,no change,2.289,0.0194,no change,no change,0.5386,67,not hispanic or latino,asian or other,male,21.45,normal,Primary Tumor,G1,Stage III,103
+TCGA-ED-A7XP-01A,positive,HBV,tumor,tumor positive,0.0123,no change,no change,2.661,0.0125,no change,no change,1.375,53,not hispanic or latino,asian or other,female,21.91,normal,Primary Tumor,G3,Stage II,400
+TCGA-MI-A75E-01A,positive,HCV,tumor,tumor positive,0.0113,no change,no change,2.12,0.0018,no change,no change,1.846,61,not hispanic or latino,white,male,33.63,obese,Primary Tumor,G2,Stage III,507
+TCGA-BC-A110-01A,negative,,tumor,tumor negative,0.0104,no change,no change,1.524,0.0173,no change,no change,1.03,51,not hispanic or latino,black or african american,female,37.88,obese,Primary Tumor,G1,,2116
+TCGA-BC-A69I-01A,negative,,tumor,tumor negative,0.0103,no change,no change,0.6772,-0.007,no change,no change,0.04196,69,,white,male,29.32,overweight,Primary Tumor,G1,Stage I,387
+TCGA-BC-A10X-01A,negative,,tumor,tumor negative,0.0095,no change,no change,1.343,0.0082,no change,no change,0.5017,52,not hispanic or latino,white,female,,,Primary Tumor,G2,Stage III,770
+TCGA-K7-A5RF-01A,positive,HCV,tumor,tumor positive,0.0093,no change,no change,1.358,-0.0374,no change,no change,3.038,64,not hispanic or latino,white,male,23.94,normal,Primary Tumor,G1,Stage I,631
+TCGA-DD-A4NQ-01A,positive,HBV,tumor,tumor positive,0.0088,no change,no change,2.978,0.0189,no change,no change,0.2875,60,hispanic or latino,white,male,29.67,overweight,Primary Tumor,G3,Stage II,373
+TCGA-MR-A520-01A,negative,,tumor,tumor negative,0.0083,no change,no change,2.172,0.007,no change,no change,2.97,58,not hispanic or latino,white,male,32.46,obese,Primary Tumor,G1,Stage I,229
+TCGA-DD-A4NL-01A,negative,,tumor,tumor negative,0.007,no change,no change,1.384,0.0047,no change,no change,1.645,46,not hispanic or latino,white,male,37.76,obese,Primary Tumor,G1,Stage I,1711
+TCGA-EP-A2KB-01A,positive,HCV,tumor,tumor positive,0.0061,no change,no change,1.428,0.0631,no change,no change,0.6093,46,not hispanic or latino,white,female,29.75,overweight,Primary Tumor,G2,Stage I,596
+TCGA-ED-A4XI-01A,negative,,tumor,tumor negative,0.0048,no change,no change,2.302,0.0014,no change,no change,3.436,58,not hispanic or latino,asian or other,male,19.03,normal,Primary Tumor,G3,Stage II,819
+TCGA-RC-A7SF-01A,positive,HCV,tumor,tumor positive,0.0037,no change,no change,2.432,-0.0028,no change,no change,0.5361,66,not hispanic or latino,asian or other,male,26.3,overweight,Primary Tumor,G2,Stage I,579
+TCGA-ED-A627-01A,negative,,tumor,tumor negative,0.0025,no change,no change,2.296,0.0062,no change,no change,0.6474,74,not hispanic or latino,white,male,23.89,normal,Primary Tumor,G2,Stage I,423
+TCGA-G3-A5SK-01A,positive,HCV,tumor,tumor positive,0.0025,no change,no change,1.385,-0.0037,no change,no change,1.972,58,not hispanic or latino,white,male,23.46,normal,Primary Tumor,G1,Stage I,744
+TCGA-G3-A7M6-01A,positive,HCV,tumor,tumor positive,0.0003,no change,no change,3.519,-0.061,no change,no change,0.5984,60,not hispanic or latino,white,female,30.84,obese,Primary Tumor,G3,Stage I,632
+TCGA-G3-A7M8-01A,negative,,tumor,tumor negative,0.0001,no change,no change,1.711,0.0042,no change,no change,3.675,31,not hispanic or latino,asian or other,male,,,Primary Tumor,G1,Stage I,430
+TCGA-FV-A3R3-01A,negative,,tumor,tumor negative,0,no change,no change,1.775,0.0013,no change,no change,2.845,38,not hispanic or latino,white,female,37.42,obese,Primary Tumor,G2,Stage I,366
+TCGA-MI-A75I-01A,positive,HCV,tumor,tumor positive,-0.001,no change,no change,2.113,0.0352,no change,no change,0.3854,61,not hispanic or latino,black or african american,male,28.29,overweight,Primary Tumor,G1,,630
+TCGA-DD-A4NP-01A,negative,,tumor,tumor negative,-0.0023,no change,no change,0.7078,-0.0127,no change,no change,0.01684,32,not hispanic or latino,white,male,25.22,overweight,Primary Tumor,G3,Stage I,3308
+TCGA-DD-A73C-01A,negative,,tumor,tumor negative,-0.0034,no change,no change,2.195,-0.0051,no change,no change,2.701,65,not hispanic or latino,white,female,19.38,normal,Primary Tumor,G1,Stage III,701
+TCGA-G3-A25V-01A,negative,,tumor,tumor negative,-0.004,no change,no change,1.137,-0.0043,no change,no change,1.373,68,not hispanic or latino,white,male,25.74,overweight,Primary Tumor,G2,Stage I,860
+TCGA-BC-A10S-01A,negative,,tumor,tumor negative,-0.0042,no change,no change,1.28,0.0408,no change,no change,0.7708,81,not hispanic or latino,white,male,,,Primary Tumor,G1,,1423
+TCGA-DD-A4NS-01A,negative,,tumor,tumor negative,-0.0061,no change,no change,2.53,-0.0135,no change,no change,1.031,61,not hispanic or latino,white,female,20.8,normal,Primary Tumor,G2,Stage I,2456
+TCGA-BC-A216-01A,negative,,tumor,tumor negative,-0.0066,no change,no change,2.521,-0.0143,no change,no change,0.9774,62,,white,female,56.14,obese,Primary Tumor,G2,Stage III,1351
+TCGA-RG-A7D4-01A,positive,HCV,tumor,tumor positive,-0.0068,no change,no change,1.67,0.0646,no change,no change,0.02567,69,not hispanic or latino,black or african american,male,29.41,overweight,Primary Tumor,G2,Stage II,1098
+TCGA-G3-A5SJ-01A,positive,HCV,tumor,tumor positive,-0.007,no change,no change,2.65,-0.0115,no change,no change,0.119,59,not hispanic or latino,white,male,29.75,overweight,Primary Tumor,G2,Stage I,698
+TCGA-FV-A3I1-01A,negative,,tumor,tumor negative,-0.0091,no change,no change,2.942,0.0136,no change,no change,0.2137,81,not hispanic or latino,white,female,,,Primary Tumor,G2,Stage II,247
+TCGA-BC-A10T-01A,negative,,tumor,tumor negative,-0.0125,no change,no change,1.475,0.3387,amplification,copy number change,4.247,76,not hispanic or latino,white,male,,,Primary Tumor,G1,,837
+TCGA-BC-A10U-01A,negative,,tumor,tumor negative,-0.0128,no change,no change,1.379,-0.0226,no change,no change,0.1092,69,not hispanic or latino,white,male,,,Primary Tumor,G2,,837
+TCGA-DD-A3A8-01A,negative,,tumor,tumor negative,-0.0151,no change,no change,0.3774,-0.0194,no change,no change,0.0202,75,not hispanic or latino,white,male,31.6,obese,Primary Tumor,G2,Stage II,11
+TCGA-DD-A39Z-01A,negative,,tumor,tumor negative,-0.0154,no change,no change,1.268,-0.0272,no change,no change,0.08797,43,,,female,22.41,normal,Primary Tumor,G2,Stage II,601
+TCGA-EP-A26S-01A,negative,,tumor,tumor negative,-0.017,no change,no change,0.5866,-0.0218,no change,no change,0.09427,70,not hispanic or latino,white,male,14.53,underweight,Primary Tumor,G2,Stage I,608
+TCGA-KR-A7K0-01A,positive,HCV,tumor,tumor positive,-0.0176,no change,no change,2.362,-0.0179,no change,no change,0.2707,65,,white,male,21.8,normal,Primary Tumor,G1,Stage I,65
+TCGA-DD-A4ND-01A,negative,,tumor,tumor negative,-0.0182,no change,no change,2.495,0.203,no change,no change,2.575,56,not hispanic or latino,white,female,33.91,obese,Primary Tumor,G3,Stage I,2746
+TCGA-FV-A3R2-01A,negative,,tumor,tumor negative,-0.0189,no change,no change,2.175,0.0027,no change,no change,2.671,75,not hispanic or latino,white,male,,,Primary Tumor,,Stage I,194
+TCGA-FV-A495-01A,positive,HCV,tumor,tumor positive,-0.0191,no change,no change,1.264,-0.0158,no change,no change,0.4636,51,not hispanic or latino,white,female,23.66,normal,Primary Tumor,G2,Stage II,1
+TCGA-DD-A1EF-01A,negative,,tumor,tumor negative,-0.0201,no change,no change,1.344,0.7059,amplification,copy number change,0.2588,57,not hispanic or latino,white,female,30.12,obese,Primary Tumor,G3,Stage I,394
+TCGA-DD-A3A2-01A,negative,,tumor,tumor negative,-0.0209,no change,no change,1.527,-0.018,no change,no change,2.43,76,not hispanic or latino,white,female,26.83,overweight,Primary Tumor,G1,Stage I,2131
+TCGA-G3-A6UC-01A,negative,,tumor,tumor negative,-0.021,no change,no change,1.055,-0.0766,no change,no change,0.1151,65,not hispanic or latino,white,male,27.47,overweight,Primary Tumor,G2,Stage III,671
+TCGA-DD-A3A1-01A,negative,,tumor,tumor negative,-0.0211,no change,no change,2.014,0.0161,no change,no change,1.3,65,,,male,22.79,normal,Primary Tumor,G2,Stage III,233
+TCGA-G3-A25X-01A,positive,HBV,tumor,tumor positive,-0.0216,no change,no change,2.84,0.034,no change,no change,0.01919,73,not hispanic or latino,asian or other,male,23.88,normal,Primary Tumor,G3,Stage II,1779
+TCGA-MI-A75H-01A,positive,HCV,tumor,tumor positive,-0.0216,no change,no change,0.7924,-0.0386,no change,no change,0.02485,77,not hispanic or latino,white,male,28.07,overweight,Primary Tumor,,,747
+TCGA-DD-A4NG-01A,negative,,tumor,tumor negative,-0.0217,no change,no change,0.9093,-0.0203,no change,no change,0.02073,77,not hispanic or latino,white,male,34.95,obese,Primary Tumor,G2,Stage III,802
+TCGA-DD-A73A-01A,negative,,tumor,tumor negative,-0.022,no change,no change,0.8966,-0.0105,no change,no change,2.759,71,not hispanic or latino,white,male,33.69,obese,Primary Tumor,G2,Stage I,728
+TCGA-DD-A114-01A,positive,HCV,tumor,tumor positive,-0.0222,no change,no change,4.314,0.0375,no change,no change,0.4698,42,not hispanic or latino,black or african american,male,24.73,normal,Primary Tumor,G3,Stage II,1149
+TCGA-CC-5259-01A,positive,HBV,tumor,tumor positive,-0.0223,no change,no change,1.143,0.0524,no change,no change,0.01093,60,not hispanic or latino,asian or other,female,20.93,normal,Primary Tumor,G2,Stage III,250
+TCGA-BD-A2L6-01A,negative,,tumor,tumor negative,-0.0238,no change,no change,2.259,0.0285,no change,no change,0.5613,69,,white,male,38.97,obese,Primary Tumor,G2,,1363
+TCGA-CC-A7IL-01A,positive,HBV,tumor,tumor positive,-0.0238,no change,no change,2.082,-0.4019,deletion,copy number change,0.7424,61,not hispanic or latino,asian or other,male,20.81,normal,Primary Tumor,G1,Stage III,278
+TCGA-G3-A3CK-01A,positive,HBV,tumor,tumor positive,-0.0243,no change,no change,0.6136,-0.0312,no change,no change,0.01933,61,not hispanic or latino,asian or other,male,23.18,normal,Primary Tumor,G2,Stage I,585
+TCGA-MI-A75G-01A,positive,HCV,tumor,tumor positive,-0.0263,no change,no change,1.799,-0.2008,no change,no change,2.269,63,not hispanic or latino,white,male,21.78,normal,Primary Tumor,G2,Stage II,698
+TCGA-UB-A7MD-01A,positive,HCV,tumor,tumor positive,-0.0268,no change,no change,2.021,-0.0315,no change,no change,0.6658,67,not hispanic or latino,black or african american,male,18.61,normal,Primary Tumor,G3,Stage I,52
+TCGA-UB-A7ME-01A,positive,HBV,tumor,tumor positive,-0.027,no change,no change,2.231,0.1294,no change,no change,0.2635,51,not hispanic or latino,asian or other,male,27.55,overweight,Primary Tumor,G2,Stage I,486
+TCGA-CC-A5UC-01A,positive,HBV,tumor,tumor positive,-0.0278,no change,no change,2.419,-0.0353,no change,no change,0.281,63,not hispanic or latino,asian or other,male,20.94,normal,Primary Tumor,G3,Stage III,347
+TCGA-CC-5261-01A,negative,,tumor,tumor negative,-0.032,no change,no change,4.095,-0.0508,no change,no change,0.366,44,not hispanic or latino,asian or other,male,18.94,normal,Primary Tumor,G2,Stage II,97
+TCGA-CC-A3MC-01A,positive,HBV,tumor,tumor positive,-0.0325,no change,no change,2.911,-0.1388,no change,no change,1.311,54,not hispanic or latino,asian or other,male,19.57,normal,Primary Tumor,G2,Stage III,363
+TCGA-DD-A1EC-01A,negative,,tumor,tumor negative,-0.0364,no change,no change,2.413,-0.0348,no change,no change,0.2861,20,not hispanic or latino,white,female,20.28,normal,Primary Tumor,G3,Stage I,602
+TCGA-DD-A4NF-01A,positive,HCV,tumor,tumor positive,-0.038,no change,no change,0.7863,-0.0397,no change,no change,0.01303,72,not hispanic or latino,white,male,28.73,overweight,Primary Tumor,G2,Stage I,942
+TCGA-DD-A1EE-01A,positive,HCV,tumor,tumor positive,-0.0381,no change,no change,0.5335,-0.0395,no change,no change,0.02635,73,not hispanic or latino,white,male,25.14,overweight,Primary Tumor,G3,Stage III,349
+TCGA-G3-A7M7-01A,negative,,tumor,tumor negative,-0.0389,no change,no change,1.736,-0.0398,no change,no change,2.216,65,not hispanic or latino,white,male,23.5,normal,Primary Tumor,G1,Stage I,361
+TCGA-DD-A4NR-01A,negative,,tumor,tumor negative,-0.0392,no change,no change,2.456,0.1927,no change,no change,0.9648,85,not hispanic or latino,white,female,131.8,obese,Primary Tumor,G3,Stage I,9
+TCGA-RC-A7S9-01A,positive,HBV,tumor,tumor positive,-0.0398,no change,no change,2.728,-0.046,no change,no change,0.3677,47,not hispanic or latino,asian or other,female,22.38,normal,Primary Tumor,G3,Stage I,640
+TCGA-HP-A5MZ-01A,negative,,tumor,tumor negative,-0.0421,no change,no change,2.706,-0.0123,no change,no change,1.425,78,,,male,23.96,normal,Primary Tumor,G2,Stage I,91
+TCGA-CC-A7IG-01A,positive,HBV,tumor,tumor positive,-0.045,no change,no change,1.846,-0.0781,no change,no change,0.05293,47,not hispanic or latino,asian or other,male,20.48,normal,Primary Tumor,G2,Stage II,299
+TCGA-ED-A66X-01A,negative,,tumor,tumor negative,-0.0469,no change,no change,3.069,-0.0577,no change,no change,0.2026,35,not hispanic or latino,asian or other,male,21.11,normal,Primary Tumor,G3,Stage III,406
+TCGA-DD-A1EA-01A,positive,HBV,tumor,tumor positive,-0.0488,no change,no change,0.6973,-0.0533,no change,no change,0.03698,68,not hispanic or latino,asian or other,male,33.3,obese,Primary Tumor,G2,Stage II,2415
+TCGA-ED-A7PX-01A,negative,,tumor,tumor negative,-0.0511,no change,no change,4.056,0.3586,amplification,copy number change,0.1302,48,not hispanic or latino,asian or other,female,16.59,underweight,Primary Tumor,G3,Stage II,6
+TCGA-ES-A2HT-01A,positive,HCV,tumor,tumor positive,-0.0578,no change,no change,1.222,-0.0645,no change,no change,1.05,54,not hispanic or latino,black or african american,male,26.42,overweight,Primary Tumor,G2,Stage I,438
+TCGA-KR-A7K8-01A,negative,,tumor,tumor negative,-0.0606,no change,no change,1.344,-0.1198,no change,no change,0.008206,57,,,male,37.72,obese,Primary Tumor,G1,Stage I,906
+TCGA-BW-A5NO-01A,positive,HCV,tumor,tumor positive,-0.0626,no change,no change,1.847,0.171,no change,no change,2.056,50,not hispanic or latino,black or african american,male,,,Primary Tumor,G2,Stage III,20
+TCGA-EP-A2KC-01A,positive,HCV,tumor,tumor positive,-0.0633,no change,no change,1.978,-0.2635,no change,no change,0.03015,62,not hispanic or latino,black or african american,male,,,Primary Tumor,G3,Stage I,19
+TCGA-MI-A75C-01A,positive,HCV,tumor,tumor positive,-0.0639,no change,no change,0.3902,0.2343,no change,no change,0.1984,64,not hispanic or latino,white,male,27.43,overweight,Primary Tumor,G3,Stage I,291
+TCGA-DD-A11D-01A,negative,,tumor,tumor negative,-0.0641,no change,no change,1.704,-0.0521,no change,no change,2.639,57,not hispanic or latino,white,female,27.48,overweight,Primary Tumor,G2,Stage I,1560
+TCGA-RC-A6M5-01A,negative,,tumor,tumor negative,-0.0666,no change,no change,3.116,-0.0408,no change,no change,2.944,20,,white,female,,,Primary Tumor,G2,Stage IV,15
+TCGA-BC-A10W-01A,positive,HBV,tumor,tumor positive,-0.0681,no change,no change,2.762,-0.0099,no change,no change,0.2718,50,not hispanic or latino,asian or other,male,,,Primary Tumor,G3,,91
+TCGA-G3-A5SL-01A,negative,,tumor,tumor negative,-0.0789,no change,no change,0.8354,-0.0968,no change,no change,0.005678,70,not hispanic or latino,white,male,27.16,overweight,Primary Tumor,G2,Stage II,621
+TCGA-CC-A7IH-01A,negative,,tumor,tumor negative,-0.103,no change,no change,0.8566,-0.1125,no change,no change,0.03012,58,not hispanic or latino,asian or other,male,18.29,underweight,Primary Tumor,G1,Stage III,365
+TCGA-BD-A3EP-01A,negative,,tumor,tumor negative,-0.1049,no change,no change,2.736,-0.0413,no change,no change,0.1189,75,not hispanic or latino,black or african american,female,25.16,overweight,Primary Tumor,G2,Stage I,409
+TCGA-DD-A39V-01A,negative,,tumor,tumor negative,-0.1065,no change,no change,1.005,-0.1059,no change,no change,0.01723,77,not hispanic or latino,white,male,26.09,overweight,Primary Tumor,G3,Stage II,643
+TCGA-ED-A7PZ-01A,negative,,tumor,tumor negative,-0.1079,no change,no change,0.5911,0.2695,no change,no change,0.09452,61,not hispanic or latino,asian or other,male,19.78,normal,Primary Tumor,G2,Stage II,6
+TCGA-FV-A4ZQ-01A,positive,HCV,tumor,tumor positive,-0.1121,no change,no change,2.023,-0.1282,no change,no change,0.02773,52,not hispanic or latino,white,male,,,Primary Tumor,G2,Stage I,12
+TCGA-DD-A3A3-01A,positive,HBV,tumor,tumor positive,-0.1126,no change,no change,1.133,-0.0718,no change,no change,0.00785,45,not hispanic or latino,asian or other,male,25.46,overweight,Primary Tumor,G2,Stage I,535
+TCGA-DD-A4NV-01A,negative,,tumor,tumor negative,-0.1278,no change,no change,1.968,-0.1441,no change,no change,2.564,61,not hispanic or latino,white,male,40.26,obese,Primary Tumor,G1,Stage III,2398
+TCGA-BC-A10Y-01A,negative,,tumor,tumor negative,-0.1313,no change,no change,0.7973,0.0154,no change,no change,3.857,76,not hispanic or latino,white,male,25.14,overweight,Primary Tumor,G3,,711
+TCGA-DD-A4NK-01A,negative,,tumor,tumor negative,-0.1316,no change,no change,1.218,-0.0835,no change,no change,3.466,80,not hispanic or latino,white,female,,,Primary Tumor,G2,Stage III,1210
+TCGA-EP-A3JL-01A,negative,,tumor,tumor negative,-0.1386,no change,no change,2.215,0.0791,no change,no change,0.3523,76,not hispanic or latino,white,male,25.86,overweight,Primary Tumor,G2,Stage I,303
+TCGA-DD-A115-01A,negative,,tumor,tumor negative,-0.1443,no change,no change,1.357,0.0582,no change,no change,4.346,53,,white,male,27.99,overweight,Primary Tumor,G2,Stage III,2542
+TCGA-DD-A73G-01A,negative,,tumor,tumor negative,-0.1444,no change,no change,0.4927,0.1043,no change,no change,0.2055,73,not hispanic or latino,white,female,18.31,underweight,Primary Tumor,G3,Stage I,3478
+TCGA-ED-A459-01A,negative,,tumor,tumor negative,-0.1447,no change,no change,2.244,0.1176,no change,no change,0.05135,47,not hispanic or latino,asian or other,male,18.29,underweight,Primary Tumor,G2,Stage II,910
+TCGA-ED-A66Y-01A,negative,,tumor,tumor negative,-0.1516,no change,no change,3.493,0.1151,no change,no change,0.05435,51,not hispanic or latino,asian or other,female,23.05,normal,Primary Tumor,G3,Stage III,296
+TCGA-BW-A5NQ-01A,negative,,tumor,tumor negative,-0.1904,no change,no change,2.42,0.0209,no change,no change,0.07289,63,not hispanic or latino,white,male,,,Primary Tumor,G3,Stage I,
+TCGA-DD-A39Y-01A,negative,,tumor,tumor negative,-0.2196,no change,no change,1.667,-0.1689,no change,no change,0.01614,67,not hispanic or latino,asian or other,male,27.44,overweight,Primary Tumor,G3,Stage I,171
+TCGA-ED-A7XO-01A,positive,HBV,tumor,tumor positive,-0.2729,no change,no change,1.23,0.0133,no change,no change,2.925,29,not hispanic or latino,asian or other,male,20.9,normal,Primary Tumor,G2,Stage III,427
+TCGA-DD-A4NJ-01A,negative,,tumor,tumor negative,-0.377,deletion,copy number change,2.456,0.0932,no change,no change,2.256,54,not hispanic or latino,white,female,32.72,obese,Primary Tumor,G2,Stage II,928
+TCGA-CC-5264-01A,positive,HBV,tumor,tumor positive,-0.4404,deletion,copy number change,2.993,0.3045,amplification,copy number change,0.4816,71,not hispanic or latino,asian or other,male,20.31,normal,Primary Tumor,G2,Stage III,102
+TCGA-BC-A3KF-01A,negative,,tumor,tumor negative,-0.4973,deletion,copy number change,2.01,0.383,amplification,copy number change,3.255,66,,white,female,19.38,normal,Primary Tumor,G2,Stage I,8
+TCGA-DD-A73B-01A,negative,,tumor,tumor negative,-0.6016,deletion,copy number change,1.299,0.1908,no change,no change,3.617,72,hispanic or latino,white,female,31.2,obese,Primary Tumor,G2,Stage I,283
+TCGA-BD-A2L6-11A,negative,,control,control negative,,no change,no change,2.158,,no change,no change,1.653,69,,white,male,38.97,obese,Solid Tissue Normal,G2,,1363
+TCGA-BC-A10Z-11A,negative,,control,control negative,,no change,no change,1.905,,no change,no change,2.173,62,not hispanic or latino,white,female,,,Solid Tissue Normal,G2,Stage I,34
+TCGA-ES-A2HT-11A,positive,HCV,control,control positive,,no change,no change,1.843,,no change,no change,1.429,54,not hispanic or latino,black or african american,male,26.42,overweight,Solid Tissue Normal,G2,Stage I,438
+TCGA-FV-A2QR-11A,negative,,control,control negative,,no change,no change,1.769,,no change,no change,1.661,75,not hispanic or latino,white,male,,,Solid Tissue Normal,G1,Stage I,581
+TCGA-DD-A114-11A,positive,HCV,control,control positive,,no change,no change,1.755,,no change,no change,2.961,42,not hispanic or latino,black or african american,male,24.73,normal,Solid Tissue Normal,G3,Stage II,1149
+TCGA-FV-A23B-11A,positive,HCV,control,control positive,,no change,no change,1.625,,no change,no change,1.833,70,not hispanic or latino,white,female,,,Solid Tissue Normal,,Stage II,1852
+TCGA-DD-A11A-11A,positive,HBV,control,control positive,,no change,no change,1.553,,no change,no change,1.477,67,not hispanic or latino,black or african american,male,27.53,overweight,Solid Tissue Normal,G3,Stage I,79
+TCGA-BC-A10U-11A,negative,,control,control negative,,no change,no change,1.477,,no change,no change,2.202,69,not hispanic or latino,white,male,,,Solid Tissue Normal,G2,,837
+TCGA-DD-A11B-11A,negative,,control,control negative,,no change,no change,1.41,,no change,no change,2.693,73,not hispanic or latino,white,male,40.9,obese,Solid Tissue Normal,G2,Stage I,14
+TCGA-DD-A3A4-11A,negative,,control,control negative,,no change,no change,1.373,,no change,no change,1.245,37,not hispanic or latino,white,male,18.2,underweight,Solid Tissue Normal,G3,Stage III,612
+TCGA-BD-A3EP-11A,negative,,control,control negative,,no change,no change,1.354,,no change,no change,2.667,75,not hispanic or latino,black or african american,female,25.16,overweight,Solid Tissue Normal,G2,Stage I,409
+TCGA-DD-A11D-11A,negative,,control,control negative,,no change,no change,1.251,,no change,no change,2.801,57,not hispanic or latino,white,female,27.48,overweight,Solid Tissue Normal,G2,Stage I,1560
+TCGA-DD-A1EL-11A,positive,HBV,control,control positive,,no change,no change,1.23,,no change,no change,2.68,23,not hispanic or latino,black or african american,male,16.3,underweight,Solid Tissue Normal,G3,Stage II,415
+TCGA-DD-A1EJ-11A,negative,,control,control negative,,no change,no change,1.225,,no change,no change,1.533,71,not hispanic or latino,white,female,26.99,overweight,Solid Tissue Normal,G2,Stage III,1005
+TCGA-BC-A10Y-11A,negative,,control,control negative,,no change,no change,1.222,,no change,no change,2.742,76,not hispanic or latino,white,male,25.14,overweight,Solid Tissue Normal,G3,,711
+TCGA-BC-A110-11A,negative,,control,control negative,,no change,no change,1.161,,no change,no change,2.22,51,not hispanic or latino,black or african american,female,37.88,obese,Solid Tissue Normal,G1,,2116
+TCGA-BC-A10X-11A,negative,,control,control negative,,no change,no change,1.129,,no change,no change,2.177,52,not hispanic or latino,white,female,,,Solid Tissue Normal,G2,Stage III,770
+TCGA-BC-A10T-11A,negative,,control,control negative,,no change,no change,1.112,,no change,no change,1.893,76,not hispanic or latino,white,male,,,Solid Tissue Normal,G1,,837
+TCGA-BC-A216-11A,negative,,control,control negative,,no change,no change,1.106,,no change,no change,2.319,62,,white,female,56.14,obese,Solid Tissue Normal,G2,Stage III,1351
+TCGA-DD-A3A8-11A,negative,,control,control negative,,no change,no change,1.093,,no change,no change,2.623,75,not hispanic or latino,white,male,31.6,obese,Solid Tissue Normal,G2,Stage II,11
+TCGA-DD-A1EG-11A,negative,,control,control negative,,no change,no change,1.084,,no change,no change,2.657,76,not hispanic or latino,white,male,29.05,overweight,Solid Tissue Normal,G3,Stage I,1372
+TCGA-G3-A3CH-11A,positive,HBV,control,control positive,,no change,no change,1.076,,no change,no change,2.247,53,not hispanic or latino,asian or other,male,23.36,normal,Solid Tissue Normal,G2,Stage III,780
+TCGA-DD-A3A3-11A,positive,HCV,control,control positive,,no change,no change,1.068,,no change,no change,3.286,45,not hispanic or latino,asian or other,male,25.46,overweight,Solid Tissue Normal,G2,Stage I,535
+TCGA-DD-A39V-11A,negative,,control,control negative,,no change,no change,1.067,,no change,no change,1.775,77,not hispanic or latino,white,male,26.09,overweight,Solid Tissue Normal,G3,Stage II,643
+TCGA-DD-A1EE-11A,positive,HCV,control,control positive,,no change,no change,1.066,,no change,no change,3.189,73,not hispanic or latino,white,male,25.14,overweight,Solid Tissue Normal,G3,Stage III,349
+TCGA-DD-A1EH-11A,positive,HBV,control,control positive,,no change,no change,1.059,,no change,no change,1.802,23,not hispanic or latino,white,male,21.85,normal,Solid Tissue Normal,G3,Stage III,1495
+TCGA-DD-A1EC-11A,negative,,control,control negative,,no change,no change,1.058,,no change,no change,2.363,20,not hispanic or latino,white,female,20.28,normal,Solid Tissue Normal,G3,Stage I,602
+TCGA-EP-A12J-11A,positive,,control,control positive,,no change,no change,1.057,,no change,no change,3.771,62,not hispanic or latino,black or african american,male,,,Solid Tissue Normal,G1,Stage I,570
+TCGA-FV-A3R2-11A,negative,,control,control negative,,no change,no change,1.053,,no change,no change,2.964,75,not hispanic or latino,white,male,,,Solid Tissue Normal,,Stage I,194
+TCGA-BC-A10W-11A,positive,HBV,control,control positive,,no change,no change,1.042,,no change,no change,1.593,50,not hispanic or latino,asian or other,male,,,Solid Tissue Normal,G3,,91
+TCGA-DD-A119-11A,positive,HBV,control,control positive,,no change,no change,1.014,,no change,no change,3.076,40,not hispanic or latino,asian or other,male,22.66,normal,Solid Tissue Normal,G3,Stage IV,223
+TCGA-DD-A1EB-11A,negative,,control,control negative,,no change,no change,0.981,,no change,no change,3.195,72,,,female,21.19,normal,Solid Tissue Normal,G2,Stage I,2017
+TCGA-DD-A116-11A,positive,HBV,control,control positive,,no change,no change,0.9785,,no change,no change,3.571,68,not hispanic or latino,asian or other,male,23.84,normal,Solid Tissue Normal,G3,Stage III,1622
+TCGA-EP-A3RK-11A,negative,,control,control negative,,no change,no change,0.9299,,no change,no change,2.899,73,not hispanic or latino,white,male,31.88,obese,Solid Tissue Normal,G2,Stage III,363
+TCGA-EP-A26S-11A,negative,,control,control negative,,no change,no change,0.9027,,no change,no change,3.618,70,not hispanic or latino,white,male,14.53,underweight,Solid Tissue Normal,G2,Stage I,608
+TCGA-DD-A1EI-11A,positive,HBV,control,control positive,,no change,no change,0.8787,,no change,no change,2.997,46,not hispanic or latino,asian or other,male,22.53,normal,Solid Tissue Normal,G2,Stage I,183
+TCGA-BC-A10R-11A,negative,,control,control negative,,no change,no change,0.8395,,no change,no change,2.665,66,not hispanic or latino,white,female,,,Solid Tissue Normal,G2,,308
+TCGA-FV-A3I1-11A,negative,,control,control negative,,no change,no change,0.8097,,no change,no change,2.935,81,not hispanic or latino,white,female,,,Solid Tissue Normal,G2,Stage II,247
+TCGA-DD-A113-11A,negative,,control,control negative,,no change,no change,0.8011,,no change,no change,1.969,55,not hispanic or latino,white,female,23.61,normal,Solid Tissue Normal,G3,Stage II,2425
+TCGA-DD-A118-11A,negative,,control,control negative,,no change,no change,0.7821,,no change,no change,2.886,77,not hispanic or latino,white,female,26.26,overweight,Solid Tissue Normal,G2,Stage II,3437
+TCGA-DD-A39W-11A,negative,,control,control negative,,no change,no change,0.781,,no change,no change,3.128,29,not hispanic or latino,white,female,23.62,normal,Solid Tissue Normal,G2,Stage III,827
+TCGA-DD-A3A2-11A,negative,,control,control negative,,no change,no change,0.742,,no change,no change,3.138,76,not hispanic or latino,white,female,26.83,overweight,Solid Tissue Normal,G1,Stage I,2131
+TCGA-FV-A3I0-11A,negative,,control,control negative,,no change,no change,0.7229,,no change,no change,3.06,76,not hispanic or latino,white,female,,,Solid Tissue Normal,G2,Stage II,848
+TCGA-DD-A3A1-11A,negative,,control,control negative,,no change,no change,0.6783,,no change,no change,0.4543,65,,,male,22.79,normal,Solid Tissue Normal,G2,Stage III,233
+TCGA-DD-A39X-11A,negative,,control,control negative,,no change,no change,0.6076,,no change,no change,1.607,78,not hispanic or latino,white,female,20.78,normal,Solid Tissue Normal,G2,Stage I,1694
+TCGA-DD-A39Z-11A,negative,,control,control negative,,no change,no change,0.6064,,no change,no change,1.388,43,,,female,22.41,normal,Solid Tissue Normal,G2,Stage II,601
+TCGA-DD-A11C-11A,negative,,control,control negative,,no change,no change,0.5939,,no change,no change,1.708,69,not hispanic or latino,white,male,35.55,obese,Solid Tissue Normal,G3,Stage I,662
+TCGA-BC-A10Q-11A,negative,,control,control negative,,no change,no change,0.5225,,no change,no change,1.833,72,not hispanic or latino,white,female,,,Solid Tissue Normal,,,1135
+TCGA-DD-A3A5-11A,negative,,control,control negative,,no change,no change,0.4002,,no change,no change,2.026,66,not hispanic or latino,white,female,20.07,normal,Solid Tissue Normal,G2,Stage III,3125
+TCGA-DD-A3A6-11A,negative,,control,control negative,,no change,no change,0.2722,,no change,no change,0.7823,72,not hispanic or latino,white,female,16.98,underweight,Solid Tissue Normal,G2,Stage II,3258
