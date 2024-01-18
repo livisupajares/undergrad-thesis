@@ -4,4 +4,6 @@
 .Rhistory
 .RData
 undergrad-thesis.Rproj
-**/.qmd*
+README_files/
+README.html
+.qmd*
