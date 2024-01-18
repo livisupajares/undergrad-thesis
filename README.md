@@ -76,3 +76,6 @@ Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se s
 
 El proceso de cálculo para el tamaño muestral está documentado [aquí](https://github.com/livisupajares/undergrad-thesis/blob/master/docs/es/sample-size/calculation-sample-size_es.md).
 
+## 2. Procesamiento de la data original
+
+<!-- TODO: Write the process -->
