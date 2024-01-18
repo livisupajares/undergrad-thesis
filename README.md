@@ -28,6 +28,7 @@
       - [Variables Secundarias](#variables-secundarias)
     - [Cálculo del tamaño muestral](#c%C3%A1lculo-del-tama%C3%B1o-muestral)
   - [2. Procesamiento de la data original](#2-procesamiento-de-la-data-original)
+
 ## 1. Recolección de bases de datos
 
 Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se seleccionaron los siguientes estudios. El número de sujetos disponibles por cada cohorte es el siguiente:
@@ -35,12 +36,39 @@ Se descargaron bases de datos del [XenaBrowser](https://xenabrowser.net/) y se s
 - GDC TCGA Cervical Cancer (CESC): 317
 - GDC TCGA Head and Neck Cancer (HNSC): 612
 - GDC TCGA Liver Cancer (LIHC): 469
+
 ### Selección de variables
 
 <!-- TODO: Make 3 simple markdown tables -->
+
 #### Variables genómicas
+
 |Para las tres cohortes (CESC, HNSC, LIHC)|
 |-----------------------------------------|
 |*Copy Number Segment* GLS1/GLS2|
 |*HTSeq-FPKM (RNASeq)* GLS1/GLS2|
+
+#### Variables fenotípicas
+
+|CESC|HNSC|LIHC|
+|---|----|----|
+|sample_type.samples|sample_type.samples|sample_type.samples|
+|neoplasm_histologic_grade|neoplasm_histologic_grade|neoplasm_histologic_grade|tumor_stage.diagnoses|
+|clinical_stage|clinical_stage|
+|OS.time|OS.time|OS.time|
+|tobacco_smoking_history|tobacco_smoking_history| - |
+| - |hpv_status_by_ish_testing| - |
+| - |alcohol_history.exposures| - |
+
+#### Variables Secundarias
+
+> 📝 Estas variables sirven para describir la población. No se usarán en los análisis.
+
+|CESC|HNSC|LIHC|
+|---|----|----|
+|age_at_initial_pathologic_diagnosis|age_at_initial_pathologic_diagnosis|age_at_initial_pathologic_diagnosis|
+|gender.demographic|gender.demographic|gender.demographic|
+|race.demographic|race.demographic|race.demographic|
+|ethnicity.demographic|ethnicity.demographic|ethnicity.demographic|
+|bmi.exposures| - |bmi.exposures|
 
