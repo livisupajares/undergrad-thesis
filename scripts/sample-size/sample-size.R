@@ -20,6 +20,8 @@ margin_of_error <- 0.05 # Margin of error of 5%
 
 cesc_sample_size <- (317*(z_score^2)*prop_cesc_primary_tumor*prop_cesc_solid_tissue_normal)/((margin_of_error^2)*(317-1)+(z_score^2)*prop_cesc_primary_tumor*prop_cesc_solid_tissue_normal)
 cat("The final sample size of CESC is: ",cesc_sample_size, "\n")
+# p = Solid Tissue Normal 
+# q = 1 - p = Primary Tumor
 
 hnsc_sample_size <- (612*(z_score^2)*prop_hnsc_primary_tumor*prop_hnsc_solid_tissue_normal)/((margin_of_error^2)*(612-1)+(z_score^2)*prop_hnsc_primary_tumor*prop_hnsc_solid_tissue_normal)
 cat("The final sample size of HNSC is: ",hnsc_sample_size, "\n")
