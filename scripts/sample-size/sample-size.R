@@ -3,26 +3,6 @@ cesc <- read.table('database/original/original-gdc-tcga-cesc.tsv', header = TRUE
 hnsc <- read.table('database/original/original-gdc-tcga-hnsc.tsv', header = TRUE, sep = "\t",na.strings=c(NA,''))
 lihc <- read.table('database/original/original-gdc-tcga-lihc.tsv', header = TRUE, sep = "\t",na.strings=c(NA,''))
 
-# Fix category names
-cesc <- cesc %>%
-  mutate(across(where(is.character), ~ ifelse(. == "Primary Tumor", "primary_tumor", .)))
-cesc <- cesc %>%
-  mutate(across(where(is.character), ~ ifelse(. == "Solid Tissue Normal", "solid_tissue_normal", .)))
-hnsc <- hnsc %>%
-  mutate(across(where(is.character), ~ ifelse(. == "Primary Tumor", "primary_tumor", .)))
-hnsc <- hnsc %>%
-  mutate(across(where(is.character), ~ ifelse(. == "Solid Tissue Normal", "solid_tissue_normal", .)))
-lihc <- lihc %>%
-  mutate(across(where(is.character), ~ ifelse(. == "Primary Tumor", "primary_tumor", .)))
-lihc <- lihc %>%
-  mutate(across(where(is.character), ~ ifelse(. == "Solid Tissue Normal", "solid_tissue_normal", .)))
-
-# Remove other values that aren't primary tumor or solid tissue normal
-cesc <- subset(cesc, cesc$sample_type.samples != "Metastatic")
-hnsc <- subset(hnsc, hnsc$sample_type.samples != "Metastatic")
-lihc <- subset(lihc, lihc$sample_type.samples != "Metastatic")
-lihc <- subset(lihc, lihc$sample_type.samples != "Recurrent Tumor")
-
 # Calculate proportions
 proportion_cesc <- prop.table(table(cesc$sample_type.samples))
 proportion_hnsc <- prop.table(table(hnsc$sample_type.samples))
