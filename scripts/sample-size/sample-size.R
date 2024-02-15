@@ -18,12 +18,13 @@ prop_lihc_solid_tissue_normal <- proportion_lihc["Solid Tissue Normal"]
 z_score <- 1.96 # Z score for C.I = 0.95 (95%)
 margin_of_error <- 0.05 # Margin of error of 5%
 
-cat("The final sample size of CESC is: ",cesc_sample_size, "\n")
 # p = Solid Tissue Normal 
 # q = 1 - p = Primary Tumor
 cesc_sample_size <- (317*(z_score^2)*prop_cesc_solid_tissue_normal*(1-prop_cesc_solid_tissue_normal))/((margin_of_error^2)*(317-1)+(z_score^2)*prop_cesc_solid_tissue_normal*(1-prop_cesc_solid_tissue_normal))
+cat("The final sample size of CESC is: ",round(cesc_sample_size, digits = 0), "\n")
 
-cat("The final sample size of HNSC is: ",hnsc_sample_size, "\n")
 hnsc_sample_size <- (612*(z_score^2)*prop_hnsc_solid_tissue_normal*(1-prop_hnsc_solid_tissue_normal))/((margin_of_error^2)*(612-1)+(z_score^2)*prop_hnsc_solid_tissue_normal*(1-prop_hnsc_solid_tissue_normal))
+cat("The final sample size of HNSC is: ",round(hnsc_sample_size, digits = 0), "\n")
 
-cat("The final sample size of LIHC is: ",lihc_sample_size)lihc_sample_size <- (469*(z_score^2)*prop_lihc_solid_tissue_normal*(1-prop_lihc_solid_tissue_normal))/((margin_of_error^2)*(469-1)+(z_score^2)*prop_lihc_solid_tissue_normal*(1-prop_lihc_solid_tissue_normal))
+lihc_sample_size <- (469*(z_score^2)*prop_lihc_solid_tissue_normal*(1-prop_lihc_solid_tissue_normal))/((margin_of_error^2)*(469-1)+(z_score^2)*prop_lihc_solid_tissue_normal*(1-prop_lihc_solid_tissue_normal))
+cat("The final sample size of LIHC is: ",round(lihc_sample_size, digits = 0))
