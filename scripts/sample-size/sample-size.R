@@ -13,11 +13,11 @@ prop_cesc_solid_tissue_normal <- proportion_cesc["Solid Tissue Normal"]
 prop_hnsc_solid_tissue_normal <- proportion_hnsc["Solid Tissue Normal"]
 prop_lihc_solid_tissue_normal <- proportion_lihc["Solid Tissue Normal"]
 
+# Calculate sample size
 # Constants
 z_score <- 1.96 # Z score for C.I = 0.95 (95%)
 margin_of_error <- 0.05 # Margin of error of 5%
 
-# Calculate sample size
 cesc_sample_size <- (317*(z_score^2)*prop_cesc_primary_tumor*prop_cesc_solid_tissue_normal)/((margin_of_error^2)*(317-1)+(z_score^2)*prop_cesc_primary_tumor*prop_cesc_solid_tissue_normal)
 cat("The final sample size of CESC is: ",cesc_sample_size, "\n")
 
