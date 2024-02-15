@@ -9,17 +9,6 @@ proportion_hnsc <- prop.table(table(hnsc$sample_type.samples))
 proportion_lihc <- prop.table(table(lihc$sample_type.samples))
 
 # Get proportion values
-for (sample_type.samples in names(proportion_cesc)) {
-  assign(paste0("prop_cesc_", sample_type.samples), proportion_cesc[sample_type.samples])
-}
-
-for (sample_type.samples in names(proportion_hnsc)) {
-  assign(paste0("prop_hnsc_", sample_type.samples), proportion_hnsc[sample_type.samples])
-}
-
-for (sample_type.samples in names(proportion_lihc)) {
-  assign(paste0("prop_lihc_", sample_type.samples), proportion_lihc[sample_type.samples])
-}
 
 # Constants
 z_score <- 1.96 # Z score for C.I = 0.95 (95%)
