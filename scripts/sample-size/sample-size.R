@@ -9,6 +9,9 @@ proportion_hnsc <- prop.table(table(hnsc$sample_type.samples))
 proportion_lihc <- prop.table(table(lihc$sample_type.samples))
 
 # Get proportion values
+prop_cesc_solid_tissue_normal <- proportion_cesc["Solid Tissue Normal"]
+prop_hnsc_solid_tissue_normal <- proportion_hnsc["Solid Tissue Normal"]
+prop_lihc_solid_tissue_normal <- proportion_lihc["Solid Tissue Normal"]
 
 # Constants
 z_score <- 1.96 # Z score for C.I = 0.95 (95%)
