@@ -128,3 +128,80 @@ screeplot <- fviz_screeplot(cesc_famd,
                             addlabels = TRUE)
 print(screeplot)
 
+# ===== All variables =====
+# used to extract the results for variables. By default, this function returns a
+# list containing the coordinates, the cos2 and the contribution
+# of all variables
+var <- get_famd_var(cesc_famd)
+print(var)
+
+# Coordinates of variables
+head(var$coord)
+# Cos2: quality of representation on the factor map
+head(var$cos2)
+# Contributions to the  dimensions
+head(var$contrib)
+
+# Contribution to the first dimension
+contrib_1 <- fviz_contrib(cesc_famd,
+                          fill = "#95C4CB",
+                          color = "#258B9A",
+                          choice = "var",
+                          ggtheme = theme_gray(),
+                          title = "Contribución de variables al 1er PC",
+                          axes = 1)
+
+contrib_1_pc <- ggpar(contrib_1, ylab = "Contribuciones (%)")
+print(contrib_1_pc)
+
+# Contribution to the second dimension
+contrib_2 <- fviz_contrib(cesc_famd,
+                          title = "Contribución de variables al 2do PC",
+                          fill = "#95C4CB",
+                          color = "#258B9A",
+                          choice = "var",
+                          ggtheme = theme_gray(),
+                          axes = 2)
+
+contrib_2_pc <- ggpar(contrib_2, ylab = "Contribuciones (%)")
+print(contrib_2_pc)
+
+# Contribution to the third dimension
+contrib_3 <- fviz_contrib(cesc_famd,
+                          title = "Contribución de variables al 3er PC",
+                          fill = "#95C4CB",
+                          color = "#258B9A",
+                          choice = "var",
+                          ggtheme = theme_gray(),
+                          axes = 3)
+
+contrib_3_pc <- ggpar(contrib_3, ylab = "Contribuciones (%)")
+print(contrib_3_pc)
+
+# Contribution to both dim
+contrib_gen <- fviz_contrib(cesc_famd,
+                            title = "Contribución de variables a los PC 1 y 2",
+                            fill = "#95C4CB",
+                            color = "#258B9A",
+                            choice = "var",
+                            ggtheme = theme_gray(),
+                            axes = c(1, 2))
+
+contrib_gen_pc <- ggpar(contrib_gen, ylab = "Contribuciones (%)")
+print(contrib_gen_pc)
+
+# Best variable contribution
+# Green : Supplementary variables
+contrib_var <- fviz_famd_var(cesc_famd,
+                             choice = "var",
+                             col.var = "contrib",
+                             ggtheme = theme_gray(),
+                             axes = c(1, 2),
+                             gradient.cols = c("#288B9A",
+                                               "#D9AF39",
+                                               "#E85B63"),
+                             pointsize = 2,
+                             show.legend.text = TRUE,
+                             title = "Contribución de variables a los PC 1 y 2 - FAMD",
+                             repel = TRUE)
+print(contrib_var)
