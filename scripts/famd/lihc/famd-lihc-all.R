@@ -58,3 +58,7 @@ lihc_active <- subset(lihc,
                                  "EC",
                                  "OS"))
 
+# Switch OS with eGLS2
+lihc_active <- lihc_active %>%
+  relocate(OS, .after = eGLS2)
+

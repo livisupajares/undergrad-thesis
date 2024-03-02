@@ -61,3 +61,7 @@ cesc_active <- subset(cesc,
                                  "OS",
                                  "CT"))
 
+# Switch OS with eGLS2
+cesc_active <- cesc_active %>%
+  relocate(OS, .after = eGLS2)
+

@@ -61,3 +61,7 @@ hnsc_active <- subset(hnsc,
                                  "CA",
                                  "CT"))
 
+# Switch OS with eGLS2
+hnsc_active <- hnsc_active %>%
+  relocate(OS, .after = eGLS2)
+
