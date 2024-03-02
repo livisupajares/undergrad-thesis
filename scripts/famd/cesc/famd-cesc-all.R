@@ -44,3 +44,20 @@ col_names_cesc <- c("M",
 
 colnames(cesc) <- col_names_cesc
 
+# Subset genotipic and phenotipyc variables
+cesc_active <- subset(cesc,
+                      select = c("pHPV",
+                                 "tHPV",
+                                 "TM.PV",
+                                 "sncGLS1",
+                                 "encGLS1",
+                                 "eGLS1",
+                                 "sncGLS2",
+                                 "encGLS2",
+                                 "eGLS2",
+                                 "TM",
+                                 "GH",
+                                 "EC",
+                                 "OS",
+                                 "CT"))
+
