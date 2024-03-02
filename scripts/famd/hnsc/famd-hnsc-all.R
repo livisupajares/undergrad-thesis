@@ -8,3 +8,10 @@ library("factoextra")
 library("FactoMineR")
 library("ggpubr")
 
+# ===== FIXING DATA =====
+# Load fixed data set with empty data as NA
+hnsc <- read.table("database/fixed/fixed-gdc-tcga-hnsc.csv",
+                   header = TRUE,
+                   sep = ",",
+                   na.strings = c(NA, ""))
+
