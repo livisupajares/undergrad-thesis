@@ -69,3 +69,17 @@ cesc_active <- cesc_active %>%
 cesc_active <- cesc_active |>
   mutate(across(where(is.character), as.factor))
 
+# ===== FIX MISSING VALUES =====
+# See a table of number of missing values and percentages by variable
+miss_var_summary(cesc_active)
+
+# Estimate ncp to predict the number of components used to predict the missing
+# entries
+estim_ncpFAMD(cesc_active, sup.var = 5:10)
+
+# Use imputeFAMD to impute (fill in) missing
+# values in the dataset before applying FAMD.
+# sup.var are GLS1/GLS2 gene expression,
+# GLS1/GLS2 CNV and OS
+active_impute_famd <- imputeFAMD(cesc_active, sup.var = 4:10, ncp = 1)
+
