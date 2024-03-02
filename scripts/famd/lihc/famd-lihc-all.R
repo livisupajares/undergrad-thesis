@@ -80,3 +80,16 @@ estim_ncpFAMD(lihc_active, sup.var = 5:10)
 # GLS1/GLS2 CNV and OS
 active_impute_famd <- imputeFAMD(lihc_active, sup.var = 4:10, ncp = 4)
 
+# ===== FAMD =====
+# Set the maximun number of overlaps for plots using ggrepel globally
+# Default is 10
+options(ggrepel.max.overlaps = 80)
+
+# Create the FAMD model
+lihc_famd <- FAMD(lihc_active,
+                  ncp = 10,
+                  sup.var = 4:10,
+                  tab.disj = active_impute_famd$tab.disj,
+                  graph = FALSE)
+print(lihc_famd)
+
