@@ -15,3 +15,31 @@ hnsc <- read.table("database/fixed/fixed-gdc-tcga-hnsc.csv",
                    sep = ",",
                    na.strings = c(NA, ""))
 
+# Change col names for easier visualization
+col_names_hnsc <- c("M",
+                    "pHPV",
+                    "tHPV",
+                    "tHPV2",
+                    "TM2",
+                    "TM.PV",
+                    "sncGLS1",
+                    "encGLS1",
+                    "2encGLS1",
+                    "eGLS1",
+                    "sncGLS2",
+                    "encGLS2",
+                    "2encGLS2",
+                    "eGLS2",
+                    "edad",
+                    "etnicidad",
+                    "raza",
+                    "TM",
+                    "GH",
+                    "EC",
+                    "OS",
+                    "genero",
+                    "CA",
+                    "CT")
+
+colnames(hnsc) <- col_names_hnsc
+

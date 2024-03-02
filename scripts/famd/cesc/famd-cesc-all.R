@@ -15,3 +15,32 @@ cesc <- read.table("database/fixed/fixed-gdc-tcga-cesc.csv",
                    sep = ",",
                    na.strings = c(NA, ""))
 
+# Change col names for easier visualization
+col_names_cesc <- c("M",
+                    "pHPV",
+                    "tHPV",
+                    "tHPV2",
+                    "TM2",
+                    "TM.PV",
+                    "sncGLS1",
+                    "encGLS1",
+                    "2encGLS1",
+                    "eGLS1",
+                    "sncGLS2",
+                    "encGLS2",
+                    "2encGLS2",
+                    "eGLS2",
+                    "edad",
+                    "etnicidad",
+                    "raza",
+                    "IMC",
+                    "cIMC",
+                    "TM",
+                    "GH",
+                    "EC",
+                    "genero",
+                    "OS",
+                    "CT")
+
+colnames(cesc) <- col_names_cesc
+
