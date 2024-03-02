@@ -43,3 +43,21 @@ col_names_hnsc <- c("M",
 
 colnames(hnsc) <- col_names_hnsc
 
+# Subset genotipic and phenotipyc variables
+hnsc_active <- subset(hnsc,
+                      select = c("pHPV",
+                                 "tHPV",
+                                 "TM.PV",
+                                 "sncGLS1",
+                                 "encGLS1",
+                                 "eGLS1",
+                                 "sncGLS2",
+                                 "encGLS2",
+                                 "eGLS2",
+                                 "TM",
+                                 "GH",
+                                 "EC",
+                                 "OS",
+                                 "CA",
+                                 "CT"))
+

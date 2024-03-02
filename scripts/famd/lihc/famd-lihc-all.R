@@ -42,3 +42,19 @@ col_names_lihc <- c("M",
 
 colnames(lihc) <- col_names_lihc
 
+# Subset genotipic and phenotipyc variables
+lihc_active <- subset(lihc,
+                      select = c("pHep",
+                                 "tHep",
+                                 "TM.PV",
+                                 "sncGLS1",
+                                 "encGLS1",
+                                 "eGLS1",
+                                 "sncGLS2",
+                                 "encGLS2",
+                                 "eGLS2",
+                                 "TM",
+                                 "GH",
+                                 "EC",
+                                 "OS"))
+
