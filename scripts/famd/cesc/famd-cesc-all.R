@@ -65,3 +65,7 @@ cesc_active <- subset(cesc,
 cesc_active <- cesc_active %>%
   relocate(OS, .after = eGLS2)
 
+# Covert from character to factor
+cesc_active <- cesc_active |>
+  mutate(across(where(is.character), as.factor))
+

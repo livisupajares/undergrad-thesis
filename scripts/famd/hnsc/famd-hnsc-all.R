@@ -65,3 +65,7 @@ hnsc_active <- subset(hnsc,
 hnsc_active <- hnsc_active %>%
   relocate(OS, .after = eGLS2)
 
+# Covert from character to factor
+hnsc_active <- hnsc_active |>
+  mutate(across(where(is.character), as.factor))
+

@@ -62,3 +62,7 @@ lihc_active <- subset(lihc,
 lihc_active <- lihc_active %>%
   relocate(OS, .after = eGLS2)
 
+# Covert from character to factor
+lihc_active <- lihc_active |>
+  mutate(across(where(is.character), as.factor))
+
