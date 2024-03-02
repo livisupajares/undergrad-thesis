@@ -96,3 +96,35 @@ cesc_famd <- FAMD(cesc_active,
                   graph = FALSE)
 print(cesc_famd)
 
+# ===== Inspect Principal Components or Dimensions =====
+
+# Extract the eigenvalues/variances retained by each PC (axis).
+eig_val <- get_eigenvalue(cesc_famd)
+print(eig_val)
+
+# Visualize the eigenvalues as a line
+line_eig <- fviz_eig(cesc_famd,
+                     choice = "eigenvalue",
+                     title = "Eigenvalores de los PCs (CESC)",
+                     xlab = "Componentes Principales",
+                     ylab = "Eigenvalores",
+                     ylim = c(0, 3),
+                     geom = c("bar", "line"),
+                     barfill = "#95C4CB",
+                     barcolor = "#258B9A",
+                     linecolor = "#5A7081",
+                     addlabels = TRUE,
+                     ggtheme = theme_gray())
+print(line_eig)
+
+# Visualize PC as percentage of explained variances
+screeplot <- fviz_screeplot(cesc_famd,
+                            title = "Scree Plot (CESC)",
+                            xlab = "Componentes principales",
+                            ylab = "Porcentaje de varianzas explicadas",
+                            barfill = "#95C4CB",
+                            barcolor = "#258B9A",
+                            ggtheme = theme_gray(),
+                            addlabels = TRUE)
+print(screeplot)
+
